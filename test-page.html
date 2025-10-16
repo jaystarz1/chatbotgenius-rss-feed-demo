@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Feed Demo</title>
+    <style>
+        /* CSS Variables for easy customization */
+        :root {
+            --primary-color: #4c5fd5;
+            --secondary-color: #1a1f71;
+            --text-color: #333;
+            --background: #ffffff;
+            --border: #e0e0e0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, var(--secondary-color) 0%, var(--primary-color) 100%);
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        #news-stats {
+            text-align: center;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        #category-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+
+        .filter-btn {
+            padding: 10px 20px;
+            border: 2px solid var(--primary-color);
+            background: white;
+            color: var(--primary-color);
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .filter-btn.active {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        #news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 24px;
+        }
+
+        .news-card {
+            background: var(--background);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .news-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+
+        .category-badge {
+            display: inline-block;
+            background: var(--primary-color);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .news-title {
+            margin: 12px 0;
+            font-size: 1.25rem;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+
+        .news-title a {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+
+        .news-title a:hover {
+            color: var(--primary-color);
+        }
+
+        .news-excerpt {
+            color: var(--text-color);
+            line-height: 1.7;
+            margin: 12px 0;
+            font-size: 0.95rem;
+        }
+
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+            font-size: 0.85rem;
+            color: #888;
+        }
+
+        .news-source {
+            font-weight: 600;
+            color: #666;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+            font-size: 1.2rem;
+        }
+
+        .error {
+            text-align: center;
+            padding: 60px 20px;
+            color: #c00;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #666;
+            margin-top: 60px;
+        }
+
+        @media (max-width: 768px) {
+            #news-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🤖 AI News Feed Demo</h1>
+        <p class="subtitle">Live demonstration of automated AI news aggregation</p>
+    </header>
+
+    <div class="container">
+        <div id="news-stats" class="loading">Loading latest AI news...</div>
+        <div id="category-filters"></div>
+        <div id="news-grid"></div>
+    </div>
+
+    <footer>
+        <p>Demo by The Chatbot Genius | Data updates every 3 hours</p>
+        <p style="margin-top: 10px; font-size: 0.9rem;">
+            <strong>GitHub Pages URL:</strong>
+            <code style="background: #f0f0f0; padding: 4px 8px; border-radius: 4px;">
+                https://jaystarz1.github.io/chatbotgenius-rss-feed-demo/data/news.json
+            </code>
+        </p>
+    </footer>
+
+    <script>
+        // Configuration
+        const NEWS_JSON_URL = 'https://jaystarz1.github.io/chatbotgenius-rss-feed-demo/data/news.json';
+
+        let allArticles = [];
+        let currentFilter = 'All';
+
+        async function loadNews() {
+            try {
+                const response = await fetch(NEWS_JSON_URL);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const data = await response.json();
+
+                if (data.success && data.articles && data.articles.length > 0) {
+                    allArticles = data.articles;
+                    displayNews(allArticles);
+                    createFilters(allArticles);
+                    updateStats(data);
+                } else {
+                    showError('No articles available. The workflow may not have run yet.');
+                }
+
+            } catch (error) {
+                console.error('Error loading news:', error);
+                showError(`Unable to load news. ${error.message}<br><br>Make sure GitHub Pages is enabled and the workflow has run at least once.`);
+            }
+        }
+
+        function displayNews(articles) {
+            const newsGrid = document.getElementById('news-grid');
+
+            if (!articles || articles.length === 0) {
+                newsGrid.innerHTML = '<p class="loading">No articles found for this category.</p>';
+                return;
+            }
+
+            const html = articles.map(article => `
+                <article class="news-card">
+                    <span class="category-badge">${article.category}</span>
+                    <h3 class="news-title">
+                        <a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a>
+                    </h3>
+                    <p class="news-excerpt">${article.excerpt}</p>
+                    <div class="news-meta">
+                        <span class="news-source">${article.source}</span>
+                        <span class="news-date">${article.dateString}</span>
+                    </div>
+                </article>
+            `).join('');
+
+            newsGrid.innerHTML = html;
+        }
+
+        function createFilters(articles) {
+            const categories = ['All'];
+            const categoryCounts = { 'All': articles.length };
+
+            articles.forEach(article => {
+                if (!categories.includes(article.category)) {
+                    categories.push(article.category);
+                    categoryCounts[article.category] = 0;
+                }
+                categoryCounts[article.category]++;
+            });
+
+            categories.sort((a, b) => {
+                if (a === 'All') return -1;
+                if (b === 'All') return 1;
+                return a.localeCompare(b);
+            });
+
+            const filtersDiv = document.getElementById('category-filters');
+            const html = categories.map(cat => `
+                <button
+                    class="filter-btn ${cat === currentFilter ? 'active' : ''}"
+                    onclick="filterByCategory('${cat}')">
+                    ${cat} (${categoryCounts[cat]})
+                </button>
+            `).join('');
+
+            filtersDiv.innerHTML = html;
+        }
+
+        function filterByCategory(category) {
+            currentFilter = category;
+
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                const btnText = btn.textContent.trim();
+                if (btnText.startsWith(category + ' ')) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            if (category === 'All') {
+                displayNews(allArticles);
+            } else {
+                const filtered = allArticles.filter(article => article.category === category);
+                displayNews(filtered);
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function updateStats(data) {
+            const statsDiv = document.getElementById('news-stats');
+            const lastUpdated = new Date(data.lastUpdated).toLocaleString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit'
+            });
+
+            statsDiv.innerHTML = `
+                <strong>Showing ${data.articles.length} latest articles from ${data.totalFeeds} sources</strong>
+                <br><small style="color: #999; margin-top: 8px; display: block;">Last updated: ${lastUpdated}</small>
+            `;
+        }
+
+        function showError(message) {
+            const statsDiv = document.getElementById('news-stats');
+            const newsGrid = document.getElementById('news-grid');
+
+            statsDiv.innerHTML = '';
+            newsGrid.innerHTML = `
+                <div class="error">
+                    <h2>⚠️ Error Loading News</h2>
+                    <p style="margin-top: 20px;">${message}</p>
+                    <button onclick="loadNews()" style="margin-top: 30px; padding: 12px 24px; background: var(--primary-color); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 1rem;">
+                        Try Again
+                    </button>
+                </div>
+            `;
+        }
+
+        // Load news when page loads
+        loadNews();
+
+        // Refresh every 3 hours
+        setInterval(loadNews, 3 * 60 * 60 * 1000);
+    </script>
+</body>
+</html>

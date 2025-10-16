@@ -1,0 +1,154 @@
+=========================================
+ AI NEWS FEED DEMO - TEST INSTRUCTIONS
+=========================================
+
+Hi Rapidfire Web team!
+
+This is a live working demo of the automated RSS news aggregation system.
+
+=========================================
+ QUICK TEST (2 MINUTES)
+=========================================
+
+Option 1: View the Live Demo Page
+----------------------------------
+Just open this URL in your browser:
+https://jaystarz1.github.io/chatbotgenius-rss-feed-demo/test-page.html
+
+You should see:
+✓ AI news articles loading
+✓ Category filter buttons at top
+✓ Click filters to see articles by category
+✓ All articles link to their sources
+
+Option 2: Test in Webflow (5 MINUTES)
+--------------------------------------
+1. Open Webflow Designer
+2. Create a test page (or use existing)
+3. Drag an "Embed" element to the page
+4. Open the file: WEBFLOW-CODE.html (in this folder)
+5. Copy ALL the code
+6. Paste into the Embed element
+7. Publish the page
+8. Visit your published page
+
+You should see the same AI news loading on your Webflow page!
+
+=========================================
+ WHAT YOU'RE SEEING
+=========================================
+
+This demo is pulling live AI news from 17 different sources:
+- Google Alert RSS feeds for AI-related topics
+- Updates automatically every 3 hours
+- Categorizes articles into 17 topics
+- Shows the 100 most recent articles
+
+Categories include:
+- Business, Tech, Jobs, HR
+- Microsoft, Meta, OpenAI, NVIDIA
+- ML, Ethics, Privacy, Security
+- Healthcare, Education, Legal
+- And more...
+
+=========================================
+ HOW IT WORKS (BEHIND THE SCENES)
+=========================================
+
+1. GitHub Actions runs every 3 hours
+2. Fetches articles from 17 RSS feeds
+3. Parses and categorizes each article
+4. Saves to a JSON file
+5. Your website loads that JSON file
+6. JavaScript displays the articles
+
+All running on FREE infrastructure:
+- GitHub Actions (free tier)
+- GitHub Pages (free hosting)
+- No servers needed!
+
+=========================================
+ THE DATA SOURCE
+=========================================
+
+The news data comes from this URL:
+https://jaystarz1.github.io/chatbotgenius-rss-feed-demo/data/news.json
+
+You can open that URL in your browser to see the raw data.
+It's just JSON - any website can load it!
+
+=========================================
+ FOR YOUR CLIENTS
+=========================================
+
+Each client would get:
+1. Their own GitHub repo (like this demo)
+2. RSS feeds for THEIR industry (not AI)
+3. Categories customized for THEIR topics
+4. Updates automatically every 3 hours
+5. Simple Webflow integration (copy/paste)
+
+Examples:
+- Real estate agency → housing news
+- Law firm → legal tech news
+- Dental practice → dental industry news
+- Restaurant → food industry news
+
+=========================================
+ COST
+=========================================
+
+Infrastructure: $0/month per client
+Setup time: 1.5-2 hours per client
+Maintenance: Optional (monitor if needed)
+
+=========================================
+ NEXT STEPS
+=========================================
+
+If you like this demo:
+
+1. We can discuss how to offer this to your clients
+2. Options:
+   - I set up each client ($250-300 per setup)
+   - I train your team to do it
+   - Hybrid approach
+
+3. Each client setup includes:
+   - Research their industry topics
+   - Create Google Alerts (RSS feeds)
+   - Set up GitHub repository
+   - Test the workflow
+   - Provide Webflow integration code
+   - Documentation
+
+=========================================
+ QUESTIONS?
+=========================================
+
+Feel free to reach out:
+
+Email: [your email]
+Phone: [your phone]
+
+Or just reply to my email with questions!
+
+=========================================
+ TECHNICAL NOTE
+=========================================
+
+This is a PUBLIC GitHub repository (required for free GitHub Pages).
+The code is visible, but it's just RSS aggregation logic.
+
+For production clients, each gets their own public repo.
+This is standard for GitHub Pages sites - not a security concern.
+
+=========================================
+
+Thanks for checking out the demo!
+
+- Jay Tarzwell
+  The Chatbot Genius
+  https://thechatbotgenius.com
+
+=========================================

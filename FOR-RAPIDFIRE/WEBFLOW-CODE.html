@@ -1,0 +1,235 @@
+<!--
+  =====================================================
+   RAPIDFIRE WEB - AI NEWS FEED DEMO
+   Paste this entire code into a Webflow Embed element
+  =====================================================
+
+  INSTRUCTIONS:
+  1. In Webflow, drag an "Embed" element to your page
+  2. Copy ALL of this code (Ctrl+A, Ctrl+C)
+  3. Paste into the Embed element
+  4. Click "Save & Close"
+  5. Publish your site
+  6. Visit the published page to see it work!
+
+  =====================================================
+-->
+
+<div id="ai-news-demo-container">
+    <div id="news-stats" style="padding: 20px; text-align: center; font-size: 1.1rem; color: #666; background: white; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        Loading latest AI news...
+    </div>
+    <div id="category-filters" style="text-align: center; margin-bottom: 30px;"></div>
+    <div id="news-grid"></div>
+</div>
+
+<style>
+    /* Styling for the news feed */
+    #news-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 24px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .news-card {
+        background: white;
+        border: 1px solid #e0e0e0;
+        border-radius: 12px;
+        padding: 24px;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .news-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .category-badge {
+        display: inline-block;
+        background: #4c5fd5;
+        color: white;
+        padding: 6px 14px;
+        border-radius: 6px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 12px;
+    }
+
+    .news-title {
+        margin: 12px 0;
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.4;
+    }
+
+    .news-title a {
+        color: #1a1f71;
+        text-decoration: none;
+    }
+
+    .news-title a:hover {
+        color: #4c5fd5;
+    }
+
+    .news-excerpt {
+        color: #333;
+        line-height: 1.7;
+        margin: 12px 0;
+        font-size: 0.95rem;
+    }
+
+    .news-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 16px;
+        padding-top: 16px;
+        border-top: 1px solid #f0f0f0;
+        font-size: 0.85rem;
+        color: #888;
+    }
+
+    .filter-btn {
+        margin: 5px;
+        padding: 10px 20px;
+        border: 2px solid #4c5fd5;
+        background: white;
+        color: #4c5fd5;
+        border-radius: 25px;
+        cursor: pointer;
+        font-weight: 600;
+        transition: all 0.2s;
+    }
+
+    .filter-btn:hover {
+        background: #4c5fd5;
+        color: white;
+        transform: translateY(-2px);
+    }
+
+    .filter-btn.active {
+        background: #4c5fd5;
+        color: white;
+    }
+
+    @media (max-width: 768px) {
+        #news-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
+<script>
+    (function() {
+        // Demo URL - points to Jay's live demo
+        const NEWS_JSON_URL = 'https://jaystarz1.github.io/chatbotgenius-rss-feed-demo/data/news.json';
+
+        let allArticles = [];
+        let currentFilter = 'All';
+
+        async function loadNews() {
+            try {
+                const response = await fetch(NEWS_JSON_URL);
+                if (!response.ok) throw new Error('Failed to load news');
+
+                const data = await response.json();
+
+                if (data.success && data.articles && data.articles.length > 0) {
+                    allArticles = data.articles;
+                    displayNews(allArticles);
+                    createFilters(allArticles);
+                    updateStats(data);
+                }
+            } catch (error) {
+                console.error('Error loading news:', error);
+                document.getElementById('news-grid').innerHTML =
+                    '<div style="text-align: center; padding: 40px; color: #c00;">Unable to load news. Please try again later.</div>';
+            }
+        }
+
+        function displayNews(articles) {
+            const newsGrid = document.getElementById('news-grid');
+            const html = articles.map(article => `
+                <article class="news-card">
+                    <span class="category-badge">${article.category}</span>
+                    <h3 class="news-title">
+                        <a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a>
+                    </h3>
+                    <p class="news-excerpt">${article.excerpt}</p>
+                    <div class="news-meta">
+                        <span class="news-source">${article.source}</span>
+                        <span>${article.dateString}</span>
+                    </div>
+                </article>
+            `).join('');
+            newsGrid.innerHTML = html;
+        }
+
+        function createFilters(articles) {
+            const categories = ['All'];
+            const categoryCounts = { 'All': articles.length };
+
+            articles.forEach(article => {
+                if (!categories.includes(article.category)) {
+                    categories.push(article.category);
+                    categoryCounts[article.category] = 0;
+                }
+                categoryCounts[article.category]++;
+            });
+
+            categories.sort((a, b) => {
+                if (a === 'All') return -1;
+                if (b === 'All') return 1;
+                return a.localeCompare(b);
+            });
+
+            const filtersDiv = document.getElementById('category-filters');
+            filtersDiv.innerHTML = categories.map(cat => `
+                <button class="filter-btn ${cat === currentFilter ? 'active' : ''}"
+                        onclick="window.filterNewsBy('${cat}')">
+                    ${cat} (${categoryCounts[cat]})
+                </button>
+            `).join('');
+        }
+
+        window.filterNewsBy = function(category) {
+            currentFilter = category;
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            if (category === 'All') {
+                displayNews(allArticles);
+            } else {
+                const filtered = allArticles.filter(article => article.category === category);
+                displayNews(filtered);
+            }
+        };
+
+        function updateStats(data) {
+            const statsDiv = document.getElementById('news-stats');
+            const lastUpdated = new Date(data.lastUpdated).toLocaleString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit'
+            });
+            statsDiv.innerHTML = `
+                <strong>Showing ${data.articles.length} latest AI articles from ${data.totalFeeds} sources</strong>
+                <br><small style="color: #999; margin-top: 8px; display: inline-block;">Last updated: ${lastUpdated}</small>
+            `;
+        }
+
+        // Load news when page loads
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', loadNews);
+        } else {
+            loadNews();
+        }
+    })();
+</script>
