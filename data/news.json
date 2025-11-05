@@ -1,12 +1,660 @@
 {
   "articles": [
     {
+      "title": "People Inc. forges <b>AI</b> licensing deal with Microsoft as Google traffic drops | TechCrunch",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1-V6XTjBH3BgYw4-jJLDd6",
+      "excerpt": "People Inc. signs an <b>AI</b> licensing deal with Microsoft, which will use its media content in Copilot.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T21:01:49.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>OpenAI</b> Isn't Yet Working Toward an IPO, CFO Says - WSJ",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wsj.com/tech/ai/openai-isnt-yet-working-toward-an-ipo-cfo-says-58037472&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0N0wAE7NYU2NJkBnTSXL7H",
+      "excerpt": "<b>OpenAI</b> Chief Financial Officer Sarah Friar said that an IPO is “not on the cards” in the near term, and said the company hopes the federal&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T20:43:12.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Public Citizen Unveils New Tracker for State <b>Legislation</b> Regulating <b>AI</b> in Healthcare ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.citizen.org/news/public-citizen-unveils-new-tracker-for-state-legislation-regulating-ai-in-healthcare-coverage-decisions/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw23CO0OEdRs5WOG7i70CEZx",
+      "excerpt": "This <b>legislation</b> will ensure that when <b>AI</b> is used in healthcare, there will be transparency to the public, confidence that a human decision maker will&nbsp;...",
+      "source": "AI News",
+      "category": "Healthcare",
+      "published": "2025-11-05T20:38:23.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Custom Agents Lead <b>Microsoft AI</b> Roadmap for Visual Studio",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://visualstudiomagazine.com/articles/2025/11/05/microsoft-outlines-november-ai-roadmap-for-visual-studio.aspx&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0iDprpUhvgrSEA7Mi0FcKj",
+      "excerpt": "<b>Microsoft's</b> November Visual Studio roadmap outlines in-progress work on multi-agent support, enhanced chat and planning, MCP integration with&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T20:35:19.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Dutchess Community College Presents “<b>Human</b>-Centered <b>AI</b>” with Dr. Cecilia Aragon",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw2smPK7p7EMwdvKDmI9SB4P",
+      "excerpt": "DCC invites students, faculty, <b>staff</b>, alumni and community members to join “<b>Human</b>-Centered <b>AI</b>” with Dr. Cecilia Aragon, a thought-provoking&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T20:31:59.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Oakley <b>Meta</b> Vanguard Smart Glasses Actually Make Cycling Better - Velo",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://velo.outsideonline.com/road/road-gear/oakley-meta-vanguard-glasses-review/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1VAJ-wLWHF9kljbvwEZiHf",
+      "excerpt": "Consider these a combination of sunglasses and headphones plus an <b>AI</b> component. The quality of the mic is the best I've ever tested in the wind years&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-05T20:29:10.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>OpenAI's</b> Commerce and Apps Efforts Divide Consumer Firms - The Information",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theinformation.com/articles/openais-commerce-apps-efforts-divide-consumer-firms&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw33lOD3gQ0w8W2JSlBfGO4-",
+      "excerpt": "<b>OpenAI's</b> Commerce and Apps Efforts Divide Consumer Firms ... Martin Peers. 19 hours ago. When Good AI Isn't Good Enough; Snowflake's AI Agents Arrive&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T20:28:46.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Earnings live: AMD, Supermicro, and Novo Nordisk stocks fall, Pinterest tanks ... - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/news/live/earnings-live-amd-supermicro-and-novo-nordisk-stocks-fall-pinterest-tanks-while-lemonade-gets-a-boost-131926317.html&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3rmYqF5NS2NrONp1NZUHcs",
+      "excerpt": "Supermicro (SMCI) stock dropped more than 8% in extended trading Tuesday as the AI ... <b>AI business</b> drive significant revenue and earnings growth,\" she&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T20:28:33.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>AI</b> Arbitrators Have Now Arrived (At Least in Some Cases)! | Insights | Mayer Brown",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mayerbrown.com/en/insights/publications/2025/11/ai-arbitrators-have-now-arrived-at-least-in-some-cases&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3m_k744AJtMK-CKvmBW4nR",
+      "excerpt": "In this <b>Legal</b> Update we describe how the AAA-ICDR intends for its <b>AI</b> Arbitrator to be used, including both its limitations and its safeguards. Who&nbsp;...",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2025-11-05T20:25:15.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Legal Grounds for Challenging the Overreach of European Regulations on US-Based Companies",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mayerbrown.com/en/insights/publications/2025/11/legal-grounds-for-challenging-the-overreach-of-european-regulations-on-us-based-companies&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw2Rf-edAh3941KYnS_nM5oG",
+      "excerpt": "As European data and <b>artificial intelligence</b> (<b>AI</b>) regulations ... Moreover, for American companies, the proliferation of global <b>privacy</b> and <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Privacy",
+      "published": "2025-11-05T20:25:14.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Legal Grounds for Challenging the Overreach of European <b>Regulations</b> on US-Based Companies",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mayerbrown.com/en/insights/publications/2025/11/legal-grounds-for-challenging-the-overreach-of-european-regulations-on-us-based-companies&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2Rf-edAh3941KYnS_nM5oG",
+      "excerpt": "As European data and artificial intelligence (<b>AI</b>) <b>regulations</b> increasingly reach across borders, American companies find themselves ensnared in a.",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T20:25:14.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Postings for this <b>AI job</b> are up 800% - Fast Company",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fastcompany.com/91435680/postings-for-this-ai-job-are-up-800&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw2QwPbpiH3gJeHb8PvAGvLg",
+      "excerpt": "But the new technology transforming the workforce may create some new <b>jobs</b>, too. <b>AI</b> startups are racing to hire a certain kind of software engineer&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T20:24:50.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "UKG Showcases the Future of Frontline Work Powered by Agentic Applications",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businesswire.com/news/home/20251105963917/en/UKG-Showcases-the-Future-of-Frontline-Work-Powered-by-Agentic-Applications&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw2PXVoMhRnM-4L7bnuR7MBn",
+      "excerpt": "Learn more about UKG and its leading global <b>AI</b> platform for HR, pay, and workforce management. ... <b>Human Resources</b> &middot; Software &middot; <b>Artificial Intelligence</b>&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T20:08:57.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "FDA digital advisers confront risks of therapy chatbots, weigh possible regulation",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.statnews.com/2025/11/05/fda-digital-advisers-therapy-chatbots-regulating-generative-ai/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3ttvWU2i5jh5gM5wHVp9Ct",
+      "excerpt": "In fact, the agency has positioned itself to act. It recently created a committee charged with external <b>AI policy</b>. And in the summary document&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T20:06:24.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "ServiceNow and <b>NVIDIA</b> are better together! Fun video showing off our partnership in ... - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.linkedin.com/posts/amandamsaunders_servicenow-and-nvidia-are-better-together-activity-7391883786113744896-HOQK&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0Rd39mGoqML7J4vxRMrYBD",
+      "excerpt": "It's Co innovation, putting AI to work for people. <b>NVIDIA</b>, the engine of agentic AI, and ServiceNow, the operating system of the enterprise. Yeah,&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T20:04:31.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> Stock Extends Losing Streak Despite Earnings Beat; Is <b>Microsoft</b> A Sell Now?",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investors.com/research/microsoft-stock-ai-earnings-msft/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw15i2RqLJH_-qPUfdOoR1EL",
+      "excerpt": "Open <b>AI</b> Partnership. <b>Microsoft's</b> Azure business — its cloud computing segment — has been benefiting since the company partnered with OpenAI. Melius&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T20:01:53.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Indigenous policing, <b>AI</b> and the creative sector and conflict of interest <b>rules</b> on the agenda – iPolitics",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nationtalk.ca/story/indigenous-policing-ai-and-the-creative-sector-and-conflict-of-interest-rules-on-the-agenda-ipolitics&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw35TJe5wtbOqwvS8QWTVjjx",
+      "excerpt": "November 5th, 2025 What's on the agenda for the House and Senate committees today. As part of their self-initiated exploration of Indigenous&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T20:01:34.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Lawmakers propose requiring agencies, major firms to report <b>AI's job</b> impact - Nextgov/FCW",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nextgov.com/artificial-intelligence/2025/11/lawmakers-propose-requiring-agencies-major-firms-report-ais-job-impact/409331/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw1s755k-V2lURzH8QuvJmEX",
+      "excerpt": "“<b>Artificial intelligence</b> is already replacing American workers, and experts project <b>AI</b> could drive unemployment up to 10-20% in the next five years,”&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T19:59:20.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Software Dev Engineer Intern - <b>AI</b> (Summer 2026), Amazon Devices &amp; Services - Job ID",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.amazon.jobs/en/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw0TCJaue1Lmuzp2h02bO7uL",
+      "excerpt": "Whether you're developing innovative <b>AI</b> models for product recommendations, optimizing our vast logistics network to ensure faster deliveries, or&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T19:58:08.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Google Is Hiring an Economist to Understand How <b>AI</b> Will Affect Money - <b>Business</b> Insider",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessinsider.com/google-deepmind-hiring-ai-economist-money-agi-abundance-scarcity-2025-11&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1LxHi4nq4QGJm_lyLOab5L",
+      "excerpt": "<b>AI</b> may completely transform the economy. Google DeepMind wants someone to find out how. The <b>company</b> has been advertising for a \"Senior <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T19:55:09.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Agentic <b>AI Security</b>: Protect AI Systems | EPAM SolutionsHub",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://solutionshub.epam.com/blog/post/agentic-ai-security&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2CTFaVXzqbJ9PO-PpgzNaP",
+      "excerpt": "Learn how to <b>secure</b> agentic <b>AI</b> systems from prompt injection, data breaches and unauthorized access. Expert strategies for autonomous <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Security",
+      "published": "2025-11-05T19:53:55.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "New bipartisan bill would require companies to report <b>AI job</b> losses - CNBC",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/05/ai-jobs-act-warner-hawley.html&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3EHYny63rl4Feam7LIFgMw",
+      "excerpt": "The <b>AI</b>-Related <b>Job</b> Impacts Clarity Act would require companies and federal agencies to submit quarterly reports of \"<b>AI</b>-related <b>job</b> effects.\"",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T19:49:58.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Salvatore Falletta: <b>Human resources</b> and <b>AI</b> reach an ethical crossroads",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw226HYXcMfoWVFhKAGDYsUD",
+      "excerpt": "RESEARCH SPARK: <b>AI</b> is becoming a common tool for <b>Human Resources</b> departments. Learn from new faculty Salvatore Falletta about the ethical lines&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T19:49:06.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Artificial Intelligence</b> in the Diagnosis of Cholesteatoma: A Systematic Review of Current Evidence",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cureus.com/articles/434964-artificial-intelligence-in-the-diagnosis-of-cholesteatoma-a-systematic-review-of-current-evidence%3Fscore_article%3Dtrue&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3isu8sFAQv5iozgC2Kfsqy",
+      "excerpt": "This systematic review evaluated the application of <b>artificial intelligence</b> (AI) in the imaging-based diagnosis of cholesteatoma.",
+      "source": "AI News",
+      "category": "Healthcare",
+      "published": "2025-11-05T19:46:35.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Microsoft Just Gave Investors 9.7 Billion Reasons to Buy This Monster <b>Artificial Intelligence</b> ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/news/microsoft-just-gave-investors-9-183700330.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2qTS7-xU4WmrHdBNQU3Gfb",
+      "excerpt": "Cloud infrastructure services are swiftly becoming a hot commodity in the world of <b>artificial intelligence</b> (AI) infrastructure.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T19:45:34.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Morocco advances with Digital X.0 law to regulate <b>artificial intelligence</b> - Ecofin Agency",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ecofinagency.com/news-digital/0511-50160-morocco-advances-with-digital-x-0-law-to-regulate-artificial-intelligence&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0N-NvQ8je8oZ_ywngW8jT2",
+      "excerpt": "Morocco advances with Digital X.0 law to regulate <b>artificial intelligence</b> &middot; The draft “Digital X.0” law sets a legal framework for AI integration in&nbsp;...",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2025-11-05T19:36:08.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Morocco advances with Digital X.0 <b>law</b> to regulate <b>artificial intelligence</b> - Ecofin Agency",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ecofinagency.com/news-digital/0511-50160-morocco-advances-with-digital-x-0-law-to-regulate-artificial-intelligence&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0N-NvQ8je8oZ_ywngW8jT2",
+      "excerpt": "The draft “Digital X.0” <b>law</b> sets a <b>legal</b> framework for <b>AI</b> integration in Morocco. It focuses on data governance, digital identity, and.",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T19:36:08.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Why Is <b>Nvidia</b> the King of AI Chips, and Can It Last? - Bloomberg.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2025-11-05/nvidia-s-hopper-blackwell-ai-chips-are-market-leaders-can-intel-amd-compete&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw11oUzq3GmMMlnkSZk64yFm",
+      "excerpt": "Both Hopper and Blackwell include technology that turns clusters of computers equipped with <b>Nvidia</b> chips into single units that can process vast&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T19:32:52.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>AI</b> tools help family lawyers meet the tall order of their profession",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.canadianlawyermag.com/practice-areas/family/ai-tools-help-family-lawyers-meet-the-tall-order-of-their-profession/393319&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2VGSSctMO2mnN0lfqXHwQV",
+      "excerpt": "This article was produced in partnership with LEAP. Family <b>law</b> demands more from its practitioners than just <b>legal</b> expertise.",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2025-11-05T19:31:14.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Schmidt Sciences awards $18M to researchers working to ensure <b>AI</b> benefits society",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.schmidtsciences.org/schmidt-sciences-awards-18m-to-researchers-working-to-ensure-ai-benefits-society/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3QAnLyT-Rb_2fDVROPsjft",
+      "excerpt": "Media Contact: Carlie Wiener; cwiener@schmidtsciences.org. NEW YORK—Schmidt Sciences announced today that 28 scholars studying how to fulfill <b>AI's</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T19:30:17.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Barracuda Launches <b>AI</b> Assistant to Streamline <b>Security</b> Operations for MSPs and Enterprises",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.msspalert.com/news/barracuda-launches-ai-assistant-to-streamline-security-operations-for-msps-and-enterprises&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw31emtIkergY6MQ_qhAgh3m",
+      "excerpt": "Barracuda's new <b>AI</b>-powered assistant helps MSPs and IT teams streamline threat investigations, reduce errors, and manage multiple environments.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T19:28:53.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Development of a <b>machine learning</b> model for early pulmonary tuberculosis diagnosis using ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-12029-4&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw1b4sK3X1D02r6sBTJdsQEP",
+      "excerpt": "... <b>machine learning</b> models, using LASSO regression and forward selection to identify optimal features. The final model was interpreted with SHAP and&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2025-11-05T19:16:07.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Evaluating <b>machine learning</b> approaches for host prediction using H3 influenza genomic data",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://journals.plos.org/plosone/article%3Fid%3D10.1371/journal.pone.0336142&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw2NDGQO3gW9RZjNxA8OaBx8",
+      "excerpt": "The objective of this study was to combine <b>machine learning</b> algorithms with H3 IAV sequence data from all eight segments to train predictive machine&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2025-11-05T19:16:05.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "A Tech Stock Reset Is Underway. Can They Survive Until <b>Nvidia</b> Earnings? - Barron's",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.barrons.com/articles/tech-stock-selloff-nvidia-market-006ea63b&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0IYi9WbG9tCbZfoGMz7-Tt",
+      "excerpt": "A Tech Stock Reset Is Underway. Can They Survive Until <b>Nvidia</b> Earnings? &middot; The PHLX Semiconductor index lost approximately $500 billion on Tuesday,&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T19:13:59.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> Just Gave Investors 9.7 Billion Reasons to Buy This Monster <b>Artificial Intelligence</b> ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/news/microsoft-just-gave-investors-9-183700330.html&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2qTS7-xU4WmrHdBNQU3Gfb",
+      "excerpt": "Cloud infrastructure services are swiftly becoming a hot commodity in the world of <b>artificial intelligence</b> (<b>AI</b>) infrastructure.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T19:11:18.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Turner unveils 'wall to wall' partnership with <b>OpenAI</b> - Construction Dive",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.constructiondive.com/news/turner-partnership-openai-startups-tech/804765/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw10BCMVhlgnDvPm23qNwWXQ",
+      "excerpt": "Turner unveils 'wall to wall' partnership with <b>OpenAI</b>. Announced at its innovation summit in Nashville, Tennessee, the two-year deal will help the&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T19:03:54.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Inside <b>OpenAI</b> Chairman's $10 Billion AI Customer Service Startup Sierra - Forbes",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.forbes.com/sites/richardnieva/2025/11/05/sierra-bret-taylor-clay-bavor/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw02QaPGTzihU-egQHO0jj_W",
+      "excerpt": "Bret Taylor and Clay Bavor had leadership roles at the world's biggest tech companies. Now they're in the startup trenches, using <b>AI</b> agents to&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T19:01:46.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "PortGPT: How researchers taught an <b>AI</b> to backport security patches automatically",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.helpnetsecurity.com/2025/11/05/portgpt-ai-backport-security-patches-automatically/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw04ShAVf3ot6b3YC9wAAqaF",
+      "excerpt": "These results suggest that PortGPT could assist maintainers in keeping long-term branches up to date, especially when <b>human resources</b> are limited.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T19:01:14.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Game Departments Warning Hunters About <b>AI</b>-Generated Misinformation",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.americanhunter.org/content/game-departments-warning-hunters-about-ai-generated-misinformation/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3a69nSAtBJ-F4GZfuBJc8i",
+      "excerpt": "Two states are warning hunters to not rely on the <b>artificial intelligence</b>-generated responses that appear after a web search for state <b>regulations</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T19:01:04.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Nvidia joins $2 billion India deep tech alliance to mentor <b>AI</b> startups - CNBC",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/04/nvidia-joins-2-billion-india-deep-tech-alliance-to-mentor-ai-startups.html&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3-I75U4ZF8mLcwsoz2P4f5",
+      "excerpt": "... <b>AI</b> markets. India is boosting its <b>AI</b> ambitions with massive funding programs and plans to host the Global <b>AI</b> Summit in 2026. Co-founder and CEO of&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T19:00:33.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Could a 'grey swan' event bring down the <b>AI</b> revolution? Here are 3 risks we should be preparing for",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://theconversation.com/could-a-grey-swan-event-bring-down-the-ai-revolution-here-are-3-risks-we-should-be-preparing-for-268394&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3kDyN8iXOgG3u9IkIuUgbQ",
+      "excerpt": "Cheap, <b>open</b> models could help design drone swarms, toxins or cyber attacks. Deepfakes could spoof military commands or spread panic through fake&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T18:55:28.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Letter from the Economic Secretary to the Treasury commissioning the Financial Services ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.regulationtomorrow.com/eu/letter-from-the-economic-secretary-to-the-treasury-commissioning-the-financial-services-skills-commission-to-produce-a-report-on-ai-and-other-disruptive-technologies/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw05iA9ZUUBcfuSsRrGJNoBE",
+      "excerpt": "... <b>AI</b> and other disruptive ... <b>Regulation</b> and compliance &middot; <b>Regulation</b> and compliance &middot; <b>Regulations</b> and investigations &middot; Regulators &middot; <b>Regulat...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T18:53:04.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "What Selling Nvidia's Blackwell Chips to China Would Mean for the <b>AI</b> Race - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D7PRy0buxmfM&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw0fRT6JkE4E0tjefib6Ad3s",
+      "excerpt": "What Selling Nvidia's Blackwell Chips to China Would Mean for the AI Race. 1 view · 1 minute ago The <b>AI Policy</b> Podcast ...more. Center for Strategic&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T18:52:22.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Global stock markets fall sharply over <b>AI</b> bubble fears - The Guardian",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1XX6IzCQltyDdHERi4gCXP",
+      "excerpt": "Global stock markets have fallen sharply amid concerns that a boom in valuations of <b>artificial intelligence</b> (<b>AI</b>) companies could be rapidly cooling.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T18:50:41.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "'It's like the future is happening without us' - ABC News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.abc.net.au/news/2025-11-06/artificial-intelligence-rise-australia-readers-concerns/105861182&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1NEUgM8ch3CSWyJOapIyDG",
+      "excerpt": "We asked readers if they were concerned about the rapid rise of <b>artificial intelligence</b>. This is what they told us.",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:49:59.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Why Australians are <b>job</b> hunting and rethinking their <b>careers</b> as <b>AI</b> joins workplaces",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.abc.net.au/news/2025-11-06/workers-face-career-change-ai-technology/105926750&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw0KVM7Tc_-luVLvcx2QGFL6",
+      "excerpt": "But the emergence of generative <b>artificial intelligence</b> (<b>AI</b>) has brought another disruption to her working life over the past couple of years. A woman&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T18:49:59.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>AI</b> in the workplace: what employers in Ontario need to know - Osler, Hoskin &amp; Harcourt LLP",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.osler.com/en/insights/blogs/employment-and-labour-law-blog/ai-in-the-workplace-what-employers-in-ontario-need-to-know/&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw0SAtwerp8GspZAGGgI66ah",
+      "excerpt": "HR plays a central role in understanding how <b>AI</b> systems affect employees, <b>privacy</b> and fairness. HR should be involved in both governance and&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T18:49:20.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Don't panic yet, investors say, as high-flying <b>AI stocks</b> tumble By Reuters - Investing.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investing.com/news/economy-news/dont-panic-yet-investors-say-as-highflying-ai-stocks-tumble-4332824&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw3hMLnkaFW2B80c_vVDsCb7",
+      "excerpt": "<b>Shares</b> in the market darling finished down nearly 8% on Tuesday, and fell a further 3.5% on Wednesday. \"So people are up to their noses in these <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Stocks",
+      "published": "2025-11-05T18:48:07.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "SoftBank shares plunge 10% as <b>AI</b> stocks slide on valuation jitters - CNBC",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3ued8BdHRZGnu_t_Feny22",
+      "excerpt": "The frenzy around <b>AI</b> has sparked concerns that markets could be in the midst of a tech bubble.",
+      "source": "AI News",
+      "category": "Stocks",
+      "published": "2025-11-05T18:46:28.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Sage Launches <b>AI</b> Developer Solutions: 'Next Stage in Sage's Platform Journey'",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cpapracticeadvisor.com/2025/11/05/sage-launches-ai-developer-solutions-next-stage-in-sages-platform-journey/172363/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw125U9uuDZ7Ci6En05Xhl5o",
+      "excerpt": "... <b>AI</b> agents and advanced automations as these capabilities roll out. By unifying quotes, invoicing, accounting, payroll, and <b>human resources</b> into a&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:44:32.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "$730 Billion Wiped Off in A Day: Why Did Big Tech <b>Stocks</b> Plunge | Vantage with Palki Sharma",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DT4Nl99I2DRk&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw2jIAT5BCh__UfdXYr4N0Pv",
+      "excerpt": "For months, Silicon Valley felt like a casino where every bet on <b>AI</b> hit jackpot. Chips, models, platforms — if it had “<b>AI</b>” in the name, it soared.",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:43:37.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "How CIOs approach data, process, and <b>security</b> shortfalls with <b>AI</b> to tackle technical debt",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cio.com/article/4076298/how-cios-approach-data-process-and-security-shortfalls-with-ai-to-tackle-technical-debt.html&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2EcvOq-Gbmwe4upbhA4om9",
+      "excerpt": "Discover why <b>AI</b> initiatives stall under accumulated technical debt — and how CIOs can overcome it. Learn actionable strategies to modernize&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:43:00.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Sam Altman calls ChatGPT erotica tweet 'one of my dumbest mistakes' - The San Francisco Standard",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sfstandard.com/2025/11/04/sam-altman-steve-kerr-san-francisco-talk/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1uEWpW3NOsbTeDKfcDj9G-",
+      "excerpt": "Hyping AI's potential for enhancing pornography was not a well-thought-out move, the <b>OpenAI</b> chief admitted.",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T18:42:08.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Beyond the Hype: Major Study Reveals <b>AI</b> Assistants Have Issues in Nearly Half of Responses",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/beyond-the-hype-major-study-reveals-ai-1127576/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1ev-RWSBdLEN6IjXnCeD6_",
+      "excerpt": "For professionals who rely on precision in digital evidence handling, <b>regulatory</b> compliance, and risk assessment, these error rates represent more&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2025-11-05T18:41:22.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "India <b>AI</b> Governance Guidelines - Press Information Bureau",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw12mxMvOfaosxVyLu8WTIXv",
+      "excerpt": "The world stands at the cusp of the Artificial. Intelligence (<b>AI</b>) revolution. This profound dual-use technology has the potential to fundamentally.",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:41:15.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Why Distributed Databases are Key to Auto-Remediation in the <b>AI</b> Era | AppDevANGLE",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3Dpa0INLb_em4&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1HtYWoZQW6xC4sMjqBnZY1",
+      "excerpt": "... of enterprises are using <b>AI</b>, yet many are unprepared for the explosion of data and the demands of <b>AI</b> workloads ... <b>Y Combinator</b>•2.1M views &middot; 15:37 &middot; Go&nbsp;...",
+      "source": "AI News",
+      "category": "YCombinator",
+      "published": "2025-11-05T18:39:08.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "1 million <b>business</b> customers: the fastest-growing <b>business</b> platform in history | OpenAI",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://openai.com/index/1-million-businesses-putting-ai-to-work/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2Y2jFdmp6hHipciRu-9PcK",
+      "excerpt": "Teams across every industry can now work across text, images, video, and audio in one system. Companies are seeing meaningful ROI. <b>AI</b> is delivering&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T18:38:01.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b>, Nvidia partner to power UAE's ambition as <b>AI</b> hub - The American Bazaar",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://americanbazaaronline.com/2025/11/05/microsoft-nvidia-partner-to-power-uaes-ambition-as-ai-hub-469682/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1HC7o67JqrTUqJ2LVuNFdT",
+      "excerpt": "<b>Microsoft</b> secures U.S. approval to export Nvidia GB300 <b>AI</b> chips to the UAE, investing $7.9 billion to expand regional <b>AI</b> infrastructure.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T18:37:40.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "How generative <b>AI</b> could re-shape professional services and graduate careers - HEPI",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.hepi.ac.uk/2025/11/05/how-generative-ai-could-re-shape-professional-services-and-graduate-careers/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw24OpD78khV1BAGWhDe4jQl",
+      "excerpt": "Enter your email address to subscribe to HEPI Insights. The latest reports, <b>policy</b> debates and events information will be delivered straight to your&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T18:31:56.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Stuck in traffic? Google Maps has a smarter <b>AI</b> assistant for you - Los Angeles Times",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.latimes.com/business/story/2025-11-05/stuck-in-traffic-google-maps-is-getting-more-conversational-with-ai&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3LPF0moo1YvgdEWya23r39",
+      "excerpt": "The move intensifies Google's competition with <b>OpenAI</b> and Meta as tech giants race to embed artificial intelligence into everyday tools and services.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-05T18:31:34.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "DeepL Unveils Next-Gen Language <b>AI</b> tools and Game-Changing Agentic Productivity Solution",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.prnewswire.com/news-releases/deepl-unveils-next-gen-language-ai-tools-and-game-changing-agentic-productivity-solution-302604737.html&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw0fX4ZewxusZBdwE5m_EGo6",
+      "excerpt": "<b>Human Resource</b> &amp; Workforce Management &middot; Licensing &middot; New Products &amp; Services ... During its annual conference, DeepL Dialogues, the company unveiled the&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T18:31:18.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> built a fake marketplace to test <b>AI</b> agents — they failed in surprising ways",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2jKtO1frcKkfyPSdApHJZ5",
+      "excerpt": "On Wednesday, researchers at <b>Microsoft</b> released a new simulation environment designed to test <b>AI</b> agents, along with new research showing that&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T18:31:04.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "i10x.<b>ai</b>: The First <b>Meta</b>-Layer Across the Entire <b>AI</b> Ecosystem | Markets Insider",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://markets.businessinsider.com/news/stocks/i10x-ai-the-first-meta-layer-across-the-entire-ai-ecosystem-1035495285&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0LkGdqoCdfSiwX4QvoxH07",
+      "excerpt": "Singapore, Singapore, Nov. 05, 2025 (GLOBE NEWSWIRE) -- i10x.<b>ai</b> introduces a new <b>meta</b>-layer platform that seamlessly spans the entire <b>AI</b> ecosyst.",
+      "source": "i10x.&lt;b&gt;ai&lt;/b&gt; introduces a new &lt;b&gt;meta&lt;/b&gt;-layer platform that seamlessly spans the entire &lt;b&gt;AI&lt;/b&gt; ecosyst.",
+      "category": "Meta",
+      "published": "2025-11-05T18:30:26.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Sinking into Murky Waters as Creative Industry Fights <b>AI</b> - The National <b>Law</b> Review",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://natlawreview.com/article/creative-industry-ai-fightback-sinks-murky-waters&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2ENnv-4BQ0bv_UbV28TBag",
+      "excerpt": "UK trying to prevent exploiting copyrighted work to train <b>AI</b> models was largely thrown out by High Court- <b>legal</b> expert insists the <b>legal</b> waters of&nbsp;...",
+      "source": "&lt;b&gt;legal&lt;/b&gt; expert insists the &lt;b&gt;legal&lt;/b&gt; waters of&amp;nbsp;...",
+      "category": "Legal",
+      "published": "2025-11-05T18:26:46.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Copyright and <b>AI</b>: why the Getty v Stability <b>AI</b> case signals an urgent need for <b>legal</b> reform",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.penningtonslaw.com/news-publications/latest-news/2025/copyright-and-ai-why-the-getty-v-stability-ai-case-signals-an-urgent-need-for-legal-reform&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2go93uoLtmeM9Y-SeF2C48",
+      "excerpt": "The debate over <b>AI</b> training and copyright has reached a critical juncture. This article looks at what Getty v Stability <b>AI</b> means for copyright&nbsp;...",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2025-11-05T18:26:25.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Nvidia boss defends <b>AI</b> against claims of bubble by 'Big Short' investor - Sky News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.sky.com/story/nvidia-boss-defends-ai-against-claims-of-bubble-by-big-short-investor-13464295&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2G9lmDDdcyeAZ-hIauzat6",
+      "excerpt": "Nvidia boss Jensen Huang has told Sky News the <b>AI</b> sector is a \"long, long way\" from a Big Short-style collapse. Speaking outside Downing Street&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T18:26:00.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Meta</b>: Current Selloff A Case Of Post-Metaverse Stress Disorder - Seeking Alpha",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/article/4837911-meta-stock-current-selloff-case-of-post-metaverse-stress-disorder&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw375YDue4Pn-Kd66DvTgqx6",
+      "excerpt": "<b>Meta</b> Platforms' post-earnings dip is a buying opportunity. Discover why <b>AI</b> investments may fuel growth and why <b>META</b> stock could see 40% upside.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-05T18:23:46.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "After Earnings, Is <b>Meta</b> Stock a Buy, a Sell, or Fairly Valued? | Morningstar",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.morningstar.com/stocks/after-earnings-is-meta-stock-buy-sell-or-fairly-valued-9&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw28MR6lRxVBnh0fG6z7NIJC",
+      "excerpt": "With the ad business performing well and doubts about <b>AI</b> spending, here's what we think of <b>Meta</b> stock.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-05T18:21:01.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "IREN's Massive <b>Microsoft</b> Pact: Could This <b>AI</b> Powerhouse Triple to $200? - 24/7 Wall St.",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://247wallst.com/investing/2025/11/05/irens-massive-microsoft-pact-could-this-ai-powerhouse-triple-to-200/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0EtCZ7HsZgTIGNcZFsCrGr",
+      "excerpt": "IREN's (IREN) $9.7 billion <b>Microsoft</b> deal validates its <b>AI</b> pivot and drove a 30% stock surge. Analyst upgrades, including Bernstein's $125 target,&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T18:18:49.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "What Stablecoin <b>Regulation</b> Means for Business - MIT Sloan Management Review",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sloanreview.mit.edu/article/what-stablecoin-regulation-means-for-business/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw280Hucxy-OpC8gMLzI4ddR",
+      "excerpt": "... <b>AI</b> &amp; Machine Learning &middot; Organizational Culture &middot; Strategy. Our Research ... <b>Regulations</b> Technology Innovation. Reprint #:. 67221. More Like This. Add&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:15:18.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "A proactive approach to Agentic <b>AI security</b> | SC Media",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.scworld.com/perspective/a-proactive-approach-to-agentic-ai-security&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3hz-DzQHU9sKd9ea1M8Rea",
+      "excerpt": "AI/ML. A proactive approach to Agentic <b>AI security</b>. November 5, 2025. Share. By Diana Kelley. AI Agent Concept. Person interacts with AI agent&nbsp;...",
+      "source": "AI News",
+      "category": "Security",
+      "published": "2025-11-05T18:15:13.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
       "title": "What are the highest-paid <b>jobs</b> in <b>AI</b>-related <b>careers</b>? - CBS 17",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cbs17.com/job-alert/what-are-the-highest-paid-jobs-in-ai-related-careers/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3QoTH3mA_vkkzxQ3-w51P6",
       "excerpt": "... <b>artificial intelligence</b> replacing a lot of <b>jobs</b>. While not totally unfounded, based on the position, other <b>careers</b> tied to <b>AI</b> are averaging big&nbsp;...",
       "source": "AI News",
       "category": "Jobs",
       "published": "2025-11-05T18:15:09.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Relax, And Let <b>Microsoft's AI</b> Compounding Machine Work For You - Seeking Alpha",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/article/4838394-relax-and-let-microsoft-ai-compounding-machine-work-for-you&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1cE_Syih8-E6cL3i1D_OpW",
+      "excerpt": "Discover why <b>Microsoft</b> Corporation's <b>AI</b>-driven growth, strong earnings, and strategic partnerships make it a top investment pick.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T18:07:54.000Z",
       "dateString": "Nov 5, 2025"
     },
     {
@@ -28,12 +676,93 @@
       "dateString": "Nov 5, 2025"
     },
     {
+      "title": "Consumer Stocks Falter in <b>AI's Stock</b> Market With Earnings on Tap - Bloomberg.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2025-11-05/consumer-stocks-falter-in-ai-s-stock-market-with-earnings-on-tap&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw1QrEie2RFzGTBGGEsBSK9m",
+      "excerpt": "The S&amp;P 500 technology sector is up, driven by <b>AI</b>-related companies, while the rest of the consumer discretionary sector has seen a contraction in&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T18:03:32.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
       "title": "​​Securing critical infrastructure: Why Europe's risk-based <b>regulations</b> matter - Microsoft",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.microsoft.com/en-us/security/blog/2025/11/05/securing-critical-infrastructure-why-europes-risk-based-regulations-matter/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2AHDamwbAETiwl9Wzjt04I",
       "excerpt": "With <b>AI</b> commoditizing, even cybercriminals with limited technical expertise can expand their operations significantly. Meanwhile, state-sponsored&nbsp;...",
       "source": "AI News",
       "category": "Microsoft",
       "published": "2025-11-05T18:03:27.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "The Elephant In The Room For <b>Legal AI</b> Remains Elephantine Document Sets",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://abovethelaw.com/2025/11/the-elephant-in-the-room-for-legal-ai-remains-elephantine-document-sets/&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0mjJVbWSc72lzPPrKfKfp7",
+      "excerpt": "“The dirty secret,” a veteran eDiscovery consultant told me, “is that <b>AI</b> still can't actually handle these massive document sets.",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2025-11-05T18:03:26.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "UW Electrical Engineering Student Awarded Best Paper at International Conference",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.uwyo.edu/news/2025/11/uw-electrical-engineering-student-awarded-best-paper-at-international-conference.html&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw30ymjoVMHanMn66mNCGxzO",
+      "excerpt": "The paper she presented at EECSS concerns a novel approach to using <b>machine learning</b> to improve the accuracy of the drilling procedure used during&nbsp;...",
+      "source": "AI News",
+      "category": "Education",
+      "published": "2025-11-05T18:03:16.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "AI and <b>Machine Learning</b> - UAE's first integrated smart work resort launched in Sharjah",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.smartcitiesworld.net/ai-and-machine-learning/uaes-first-integrated-smart-work-resort-launched-in-sharjah&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw1IFuBl1HVe9CNJVnTgcUV9",
+      "excerpt": "The United Arab Emirates (UAE) has announced the first AI-designed business complex to help boost economic growth is to be built in the city of&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T18:02:14.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>OpenAI's</b> new AI safety tools could give a false sense of security | Fortune",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fortune.com/2025/11/05/openai-open-source-safety-classifiers-enterprise-ai-false-sense-security/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2ixcvCB1fezlwVKTVv1wGw",
+      "excerpt": "<b>OpenAI</b> has open-sourced two AI safety classifiers that let enterprises set their own guardrails. Experts say the move could improve transparency&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T18:01:45.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Amazon Lands $38B Deal With <b>OpenAI</b>: 3 Signs to Buy the Stock Now - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/news/amazon-lands-38b-deal-openai-163600830.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw09owbgIxAw9WXdUaJ3BzSa",
+      "excerpt": "... outcomes. AWS Solidifies Its Position as AI Infrastructure Leader. The <b>OpenAI</b> partnership showcases AWS' unique ability to operate large-scale AI&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2025-11-05T18:00:43.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Nvidia</b> news: Loop Capital says Jensen Huang-led company's stock could jump 75%",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://m.economictimes.com/news/international/us/nvidia-news-loop-capital-says-jensen-huang-led-companys-stock-could-jump-75-here-are-the-reasons-it-gave/articleshow/125110922.cms&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw2FfsA149hfUihvaAkljcuS",
+      "excerpt": "Loop Capital believes <b>Nvidia's</b> stock could rise by 75% as demand for its AI chips grows fast. The company stays strong in the AI market with new&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-05T18:00:03.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Amazon's <b>legal</b> threat to Perplexity raises questions over <b>AI</b> autonomy and platform control",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.computerworld.com/article/4084703/amazons-legal-threat-to-perplexity-raises-questions-over-ai-autonomy-and-platform-control.html&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3Fnuij4SgV3MMzhd6v_BDg",
+      "excerpt": "<b>AI</b> startup Perplexity has accused Amazon of using <b>legal</b> threats to block innovation after the e-commerce giant demanded that its Comet browser stop&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T17:59:51.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Salesforce report shows poor data quality threatens <b>AI</b> success | Digital Watch Observatory",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://dig.watch/updates/salesforce-report-shows-poor-data-quality-threatens-ai-success&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw1DLoY0l1qr08_me3vt2cPj",
+      "excerpt": "... <b>Privacy</b> and data protection Sociocultural Sustainable development. Related technologies. <b>Artificial intelligence</b>. Related videos. Tap to unmute. Your&nbsp;...",
+      "source": "AI News",
+      "category": "Privacy",
+      "published": "2025-11-05T17:57:41.000Z",
       "dateString": "Nov 5, 2025"
     },
     {
@@ -46,12 +775,66 @@
       "dateString": "Nov 5, 2025"
     },
     {
+      "title": "Responsible Development of <b>Artificial Intelligence</b> in Surgery - JAMA Network",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://jamanetwork.com/journals/jamasurgery/fullarticle/2841142&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1SGglwGF_5dmF37a5dKzlQ",
+      "excerpt": "... <b>AI policy</b> to advocate for surgeons and provide them a seat at the table. The trajectory of surgical AI promises extraordinary benefits, including&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T17:54:05.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Can AI be truly creative? - Nature",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nature.com/articles/d41586-025-03570-y&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3xpXu3Ih6wW00xfWzj2nir",
+      "excerpt": "For decades, psychologists have thought of creativity as a key trait that would set us apart from <b>machines</b>, even as they surpassed us in <b>intelligence</b>&nbsp;...",
+      "source": "AI News",
+      "category": "YCombinator",
+      "published": "2025-11-05T17:52:26.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "The End of the Human Analyst? No, It's the Rise of the <b>AI</b> Team Leader - Perspectives",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.paloaltonetworks.com/perspectives/the-end-of-the-human-analyst-no-its-the-rise-of-the-ai-team-leader/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1G2Xg1uLSawCqkS8BwGKoa",
+      "excerpt": "This isn't necessarily a new job title so much as it is a new operational philosophy. In the <b>AI</b>-driven <b>security</b> operations center (SOC), the most&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-05T17:49:32.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Amazon sues <b>AI</b> startup over browser's automated shopping and buying feature",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theguardian.com/technology/2025/nov/05/amazon-perplexity-ai-lawsuit&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3yipcpJ7MhFANFFfNzlmxP",
+      "excerpt": "Amazon sued a prominent <b>artificial intelligence</b> startup on Tuesday over a shopping feature in the <b>company's</b> browser, which can automate placing orders&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T17:48:19.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
       "title": "Giga raises $61 million in Series A funding led by Redpoint Ventures - MarcaMoney",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marcamoney.com/giga-raises-61-million-in-series-a-funding-led-by-redpoint-ventures/&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3TQZu3lmIJgxx0i0SIaA2C",
       "excerpt": "Giga, the <b>AI</b> company, has raised $61 million in its Series A funding round led by Redpoint Ventures, with participation from <b>Y Combinator</b> and&nbsp;...",
       "source": "AI News",
       "category": "YCombinator",
       "published": "2025-11-05T17:44:42.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "India <b>AI</b> Governance Guidelines: Empowering Ethical and Responsible <b>AI</b>",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://indiaai.gov.in/article/india-ai-governance-guidelines-empowering-ethical-and-responsible-ai&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw0imLrqaFBJyCXRusySKhl4",
+      "excerpt": "<b>Artificial Intelligence</b> (<b>AI</b>) has rapidly emerged as a versatile, general-purpose technology with profound implications for governments,&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2025-11-05T17:42:58.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "<b>Machine Learning</b> Engineer (Intermediate) at Sabenza IT &amp; Recruitment - IT-Online",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://it-online.co.za/2025/11/05/machine-learning-engineer-intermediate-at-sabenza-it-recruitment/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw2E91lAjtjf0LrEh9dR9dRt",
+      "excerpt": "<b>Machine Learning</b> Engineer (Intermediate) at Sabenza IT &amp; Recruitment. Nov 5, 2025. This is a remote position. We're hiring an intermediate Data&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2025-11-05T17:42:51.000Z",
       "dateString": "Nov 5, 2025"
     },
     {
@@ -64,12 +847,48 @@
       "dateString": "Nov 5, 2025"
     },
     {
+      "title": "Tech and chip stocks tumble across Asia as investors rethink the <b>AI</b> boom - Business Insider",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessinsider.com/tech-chip-stocks-asia-selloff-ai-rally-falters-valuation-concerns-2025-11&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3ZCZmGTsrZ6qhw6BHQrTch",
+      "excerpt": "<b>AI</b>-fueled euphoria has sent stock prices to new highs, but investors are concerned that some companies' valuations have outpaced their progress.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T17:37:38.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
       "title": "Indigenous policing, <b>AI</b> and the creative sector and conflict of interest <b>rules</b> on the agenda",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ipolitics.ca/2025/11/05/indigenous-policing-ai-and-the-creative-sector-and-conflict-of-interest-rules-on-the-agenda/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1_vP35HXASS9DzhBBdpBs2",
       "excerpt": "Over at CANADIAN HERITAGE, MPs continue to examine the “effects of technological advances in <b>Artificial Intelligence</b> on the creative industry” with&nbsp;...",
       "source": "AI News",
       "category": "Tech",
       "published": "2025-11-05T17:33:43.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "US FTC to continue <b>AI</b> rulemaking 'binge,' official says | MLex - Law360",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.law360.com/mlex/articles/2128596/us-ftc-to-continue-ai-rulemaking-binge-official-says&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw1IYCFG0mwQRfshtlqQVPB4",
+      "excerpt": "... <b>AI</b> are expected as the industry continues to grow, said Ryan Kriger, a consumer protection and <b>privacy</b> attorney with the commission.More rules&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T17:33:12.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "UNESCO and the Communications, Information and Crypto Office, Aceh",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.unesco.org/en/articles/unesco-and-communications-information-and-crypto-office-aceh-diskominsa-hold-co-creation-workshop-ai&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw2UkS_B0J0E2NYJC157vbd0",
+      "excerpt": "By returning to Banda Aceh for the <b>AI</b> literacy workshop, UNESCO aims to follow up on the <b>policy</b> recommendations of the national <b>AI</b> readiness report&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-05T17:33:04.000Z",
+      "dateString": "Nov 5, 2025"
+    },
+    {
+      "title": "Deutsche Bank explores hedges for data centre exposure as <b>AI</b> lending booms",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ft.com/content/c0428010-1373-463e-91e6-8fe7d64a26df&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw0chxuFHXqmB3r73jEkhFmw",
+      "excerpt": "Executives discussing options including shorting basket of <b>artificial intelligence</b> stocks or using derivatives to transfer risk.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-05T17:32:37.000Z",
       "dateString": "Nov 5, 2025"
     },
     {
@@ -80,828 +899,9 @@
       "category": "Education",
       "published": "2025-11-05T17:32:28.000Z",
       "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Beyond Comparing <b>Machine Learning</b> and Logistic Regression in Clinical Prediction Modelling",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jmir.org/2025/1/e77721&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw1PWg2FmU_CZ-z0AImWwaWJ",
-      "excerpt": "The rapid uptake of supervised <b>machine learning</b> (ML) in clinical prediction modelling, particularly for binary outcomes based on tabular data,&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2025-11-05T17:30:59.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Stocks close lower hit by <b>AI</b> valuation concerns, Nasdaq drops 2% after Palantir earnings",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/03/stock-market-today-live-updates.html&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1uKaldpK4VbnJwk4AOfW2Q",
-      "excerpt": "... <b>AI business</b>. The stock, which has risen more than 150% this year, trades at more than 200 times forward earnings. That means investors in that&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-05T17:30:44.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Intel, Cisco Collaboration Delivers Industry's First Systems Approach for <b>AI</b> Workloads at the Edge",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0Xy_KkpL7tmDtKI3M6BfaZ",
-      "excerpt": "Cisco Unified Edge with Intel Xeon 6 SoCs delivers a future-ready <b>AI</b> infrastructure, boosting performance and <b>security</b> while reducing network&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T17:26:53.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Opinion: This Is the Biggest Bubble on Wall Street Right Now -- and I'm Not Talking About <b>Artificial</b> ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fool.com/investing/2025/11/05/the-biggest-bubble-on-wall-street-right-now-not-ai/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw19wsa3vybhwIvMJ5lBMNkZ",
-      "excerpt": "The parabolic ascent of quantum computing stocks is likely to be followed by an epic tumble. <b>Artificial intelligence</b> (AI) is a potentially game-&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-05T17:25:22.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "How Amazon Search increased ML training twofold using AWS Batch for Amazon ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://aws.amazon.com/blogs/machine-learning/how-amazon-search-increased-ml-training-twofold-using-aws-batch-for-amazon-sagemaker-training-jobs/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3gHvM3CAwNpApzdC6c0a5n",
-      "excerpt": "This managed solution enabled us to orchestrate <b>machine learning</b> (ML) training workloads on GPU-accelerated instance families like P5, P4, and others.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-05T17:23:17.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "I'm worried that they put co-pilot in Excel - Hacker News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.ycombinator.com/item%3Fid%3D45820872&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2KKh8DLTVcGN24DmsL9ejJ",
-      "excerpt": "When I use <b>AI</b> to perform X, every single time I run that <b>AI</b> from now until the heat death of the sun it will maybe produce <b>Y</b>. Forever! When it&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T17:22:17.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Threat actors misuse <b>AI</b> to enhance operations - Google Blog",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://blog.google/technology/safety-security/google-threat-intelligence-group-report-ai-november-2025/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw36o1JDP-uK1frLplh7GHxT",
-      "excerpt": "A report from the Google Threat Intelligence Group shows adversaries misusing <b>AI</b> to enhance their operations ... Safety &amp; <b>Security</b>. Related stories. The&nbsp;...",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2025-11-05T17:20:51.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Artificial Intelligence</b> (AI) ETF Shines in Portfolio Expansion, According to Recent Filing",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/markets-news/Motley%2520Fool/35926953/artificial-intelligence-ai-etf-shines-in-portfolio-expansion-according-to-recent-filing/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2VLws3Xuvp7geihTARAU9V",
-      "excerpt": "On November 4, 2025, Brown Wealth Management, LLC disclosed a buy of approximately $4.35 million in Global X <b>Artificial Intelligence</b> &amp; Technology ETF(&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T17:20:05.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Why people don't demand data <b>privacy</b> – even as governments and corporations collect ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.route-fifty.com/management/2025/11/why-people-dont-demand-data-privacy-even-governments-and-corporations-collect-more-personal-information/409323/%3Foref%3Drf-homepage-river&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw3bejRDVbYPc48ZEW86SIZA",
-      "excerpt": "How people talk about data <b>privacy</b> can overcome – or reinforce – their skepticism that things can change ... What is generative <b>AI</b>? Most of the public&nbsp;...",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-05T17:19:29.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Giga Raises $61M in New Funding to Reinvent <b>AI</b>-Powered Support - GlobeNewswire",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.globenewswire.com/news-release/2025/11/05/3181809/0/en/Giga-Raises-61M-in-New-Funding-to-Reinvent-AI-Powered-Support.html&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw26f_utCE_tUx8LdCuYvdF1",
-      "excerpt": "... <b>Y Combinator</b> and Nexus Venture Partners. The funding will accelerate Giga's growth as it continues to outperform global incumbents and emerges as&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T17:19:06.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "OpenAI launches the Sora app for Android",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://en.ain.ua/2025/11/05/openai-launches-the-sora-app-for-android/&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1dM5cEiLx-OIcNfECZRhUT",
-      "excerpt": "<b>Y Combinator</b> has announced a new batch of startups. Ukrainian defense ... Zscaler acquires Croatian-founded <b>AI</b> security startup SPLX to strengthen&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T17:18:41.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Google Hires High-Ranking <b>Microsoft</b> Channel Executive - CRN",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.crn.com/news/cloud/google-hires-high-ranking-microsoft-channel-executive&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0RzKuMvyUIsZI7JkR5t6Rj",
-      "excerpt": "<b>Microsoft</b> Vice President David Smith is now working with the ecosystem of <b>AI</b> and cloud rival Google.",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T17:18:30.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Mallinckrodt Institute of Radiology to open center for advancing AI-based imaging tools",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://radiologybusiness.com/topics/artificial-intelligence/mallinckrodt-institute-radiology-open-center-advancing-ai-based-imaging-tools&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2kFNf6ZnCNHPlN1D5f-i23",
-      "excerpt": "mail. <b>artificial intelligence</b>. Image by Steve Johnson via Unsplash ... <b>artificial intelligence</b>-based imaging capabilities. The Center for&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2025-11-05T17:17:02.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Meta</b> Investors 'Losing Patience' With <b>AI</b> Spending | PYMNTS.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pymnts.com/news/artificial-intelligence/2025/meta-investors-losing-patience-with-ai-spending&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0Os5AsP7d1t4XwKoYM6gc7",
-      "excerpt": "<b>Meta's artificial intelligence</b> spending is reportedly giving investors unwelcome flashbacks to metaverse outlays in 2022.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T17:15:56.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> to 'unlock $370bn' a year in additional bank profits - The Banker",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thebanker.com/content/99e80fd3-6c6c-4250-835b-950a591cb3b3&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1mioHKreIeRzb9Mi2ZdZhv",
-      "excerpt": "<b>Regulations</b> &amp; <b>standards</b> &middot; World &middot; World HOME &middot; Africa &middot; Americas &middot; Asia-Pacific ... <b>AI</b> to 'unlock $370bn' a year in additional bank profits....",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T17:14:40.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Syntracts Announces $5.3M Seed Round to Power <b>Privacy</b>-First <b>AI</b> Infrastructure for Legal Teams",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://theaiinsider.tech/2025/11/05/syntracts-announces-5-3m-seed-round-to-power-privacy-first-ai-infrastructure-for-legal-teams/&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw0-efSpOdpzHcAzkK4gsXAR",
-      "excerpt": "Syntracts, an API-first contract intelligence platform built for on-premises deployment, has raised $5.3 million in seed funding led by Hyperplane&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T17:13:01.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> Startup Founders Are Getting Younger, Technical As VCs Shift Focus - Business Insider",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessinsider.com/ai-startup-founders-younger-technical-vcs-2025-11&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3MmI9t8lFUuL8-FOQ_INRr",
-      "excerpt": "At the pre-seed and seed stage, <b>Y Combinator</b> leads the pack by a vast margin, backing more than 20% of the 100 fastest-growing <b>AI</b> startups. That&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T17:11:42.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Record Number of UKG Innovation Award Winners Showcase the Power of <b>AI</b>-Led ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businesswire.com/news/home/20251105946072/en&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw1RYCLzNur_vESr0nvJgrHT",
-      "excerpt": "Supporting <b>Resources</b>. Learn more about UKG and our leading global <b>AI</b> platform for <b>HR</b>, pay, and workforce management. Follow UKG on Facebook&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T17:08:11.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>OpenAI</b> for Science",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://openai.com/science&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0XdwCIkwvPwPvRzRy2JvHY",
-      "excerpt": "Discover <b>OpenAI</b> for Science—a collaborative effort with scientists to build AI-powered research tools that accelerate discovery across disciplines&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T17:05:10.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Replika founder raises $20M pre-seed for Wabi, the 'YouTube of apps' | TechCrunch",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3u4xPZ9_RfPfMzKU_mIGku",
-      "excerpt": "She founded Replika, the first major <b>AI</b> companion startup, in 2017 years before ChatGPT launched. ... <b>Y Combinator</b> CEO Garry Tan, Twitch co&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T17:04:33.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "OpenAI launches Sora for Android devices - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/04/openai-sora-android.html&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw227dYSUmXzRNOtXx2gcvDw",
-      "excerpt": "OpenAI on Tuesday launched its Sora app of <b>AI</b>-generated videos for Android devices. ... California Consumer <b>Privacy</b> Act (CCPA) Opt-Out Icon Your <b>Privacy</b>&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:58:41.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Preparing for Global <b>AI Regulations</b>: From the EU AI Act to New US Rules | The AI Journal",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://aijourn.com/preparing-for-global-ai-regulations-from-the-eu-ai-act-to-new-us-rules/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2FFsWMrp9WNau2rQ-rizWX",
-      "excerpt": "Regulators are moving in on <b>AI</b>, and this time they are starting with the systems that influence real financial outcomes.",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2025-11-05T16:57:50.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Deliver the future of <b>legal</b> services with HighQ and CoCounsel",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://legal.thomsonreuters.com/blog/delivering-the-future-of-legal-services-with-highq-and-cocounsel/&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2cAa90WqO8SWH20dcDeIoO",
-      "excerpt": "The integration of HighQ with Thomson Reuters CoCounsel brings a professional-grade <b>legal AI</b> assistant into a trusted collaboration platform. Key&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T16:57:30.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> startup Giga raises $61 million Series A round led by Redpoint Ventures",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thehindubusinessline.com/info-tech/ai-startup-giga-raises-61-million-series-a-round-led-by-redpoint-ventures/article70245581.ece&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2E9gRaW0EsdeDfGzZdrMM9",
-      "excerpt": "<b>AI</b> startup Giga has raised $61 million in a Series A round led by Redpoint Ventures, with participation from <b>Y Combinator</b> and Nexus Venture Partners.",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T16:54:13.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Op-ed: The fuel for the <b>AI</b> boom driving the markets is advertising. It is also an existential risk.",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/05/op-ed-the-fuel-for-the-ai-boom-driving-the-markets-is-advertising-it-is-also-an-existential-risk-.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0L85Gdy966opVSN3Mo8ir7",
-      "excerpt": "<b>Meta's</b> advertising business, based on engagement and attribution, is a close second. And right behind both of these is Amazon's advertising business,&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T16:52:21.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Dr Suborno Bose Recognised as <b>AI Policy</b> Leader of the Year 2025 - PR Newswire",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.prnewswire.com/in/news-releases/dr-suborno-bose-recognised-as-ai-policy-leader-of-the-year-2025-302605881.html&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3TTTcRR7wSdSY2vGQCa3_a",
-      "excerpt": "What began as an experiment within IIHM and has been successful, has evolved into a <b>policy</b> model for responsible, human-centric <b>AI</b> integration in&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2025-11-05T16:52:08.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Rezolve <b>Ai</b> Accelerates U.S. Expansion and Announces - GlobeNewswire",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.globenewswire.com/news-release/2025/11/05/3181427/0/en/Rezolve-Ai-Accelerates-U-S-Expansion-and-Announces-Appointment-of-Former-Microsoft-Executive-Elizabeth-Lachhar-to-Lead-National-Sales-Rollout.html&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1mbGg_HzvYB94j4lJxvh9e",
-      "excerpt": "To lead the Company's U.S.expansion, Rezolve has appointed Elizabeth Lachhar, a former <b>Microsoft</b> executive who previously managed a multi-billion-&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T16:50:27.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Budget <b>job</b> cuts would hit hard, say federal public service unions | CBC News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cbc.ca/news/canada/ottawa/federal-public-service-union-budget-job-cuts-2025-9.6967273&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3sk80Xow7ovWNqVJuF-6Vx",
-      "excerpt": "... thousands of <b>job</b> cuts, early retirement incentives and expanded <b>AI</b> use, threatens to destabilize the workforce and degrade service quality.",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2025-11-05T16:47:20.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Motion Picture Association to <b>Meta</b>: Stop saying Instagram teen content is “PG-13”",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sherwood.news/tech/motion-picture-association-to-meta-stop-saying-instagram-teen-content-is-pg/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3HC7s6sN4Xe_Ffb7jLPJDV",
-      "excerpt": "... <b>Meta's AI</b>-powered content moderation failures to blow back on its work: “Any dissatisfaction with Meta's automated classification will inevitably&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T16:43:51.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Why 'Big Short' Michael Burry Is Betting Against Nvidia, Palantir, <b>AI</b> - <b>Business</b> Insider",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessinsider.com/why-michael-burry-big-short-nvidia-palantir-ai-bubble-stocks-2025-11&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2Z4faVZMLbY3hfSIWtC6rO",
-      "excerpt": "Michael Burry of \"The Big Short\" warned of an <b>AI</b> bubble and shed light on his wagers against Nvidia and Palantir with the help of a \"Star Wars\"&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-05T16:39:19.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Will <b>AI</b> Agents Make The Perfect Contract? | American Enterprise Institute - AEI",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.aei.org/articles/will-ai-agents-make-the-perfect-contract/&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3MYUH1HX3UJuuDBpd7D2rE",
-      "excerpt": "The very <b>legal</b> doctrines designed to protect consumers from unqualified advice may slow the evolution of more efficient, precise contracting.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T16:39:13.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Should You Buy <b>Meta</b> Platforms Stock on the Dip? - MSN",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.msn.com/en-us/money/savingandinvesting/should-you-buy-meta-platforms-stock-on-the-dip/ar-AA1PQzsa%3Focid%3Dfinance-verthp-feeds&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2tpp0yLqkaLLCw_heJC-Su",
-      "excerpt": "<b>Meta's</b> stock plunged after the company announced significantly higher capital expenditures for <b>AI</b> infrastructure. &middot; The accelerated capacity build-out&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T16:37:57.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Ethical safeguards must evolve as <b>AI</b> becomes more prevalent | Healthcare Finance News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.healthcarefinancenews.com/news/ethical-safeguards-must-evolve-ai-becomes-more-prevalent&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1hpMT_RNPRad7n6lhdj3hx",
-      "excerpt": "<b>AI regulation</b> efforts are still coming into focus as current federal ... “Regulations are nebulous,” Bhosai said. Recent international&nbsp;...",
-      "source": "AI News",
-      "category": "Healthcare",
-      "published": "2025-11-05T16:37:41.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Giga raises $61 million to scale <b>AI</b>-driven customer support platform - Business Standard",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.business-standard.com/companies/start-ups/giga-raises-61-million-series-a-to-scale-ai-customer-support-platform-125110501766_1.html&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2A8OaQIo4xacBuCeNPmQt7",
-      "excerpt": "... <b>Y Combinator</b> and Nexus Venture Partners. The company said the fresh funding will be used to expand its technical team and accelerate go-to-market&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T16:34:42.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Analyst calls Wednesday include <b>Nvidia</b>, Tesla, AMD, O'Reilly and more - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/05/analyst-calls-wednesday-include-nvidia-tesla-amd-oreilly-and-more.html&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw3EoCrk26qcpY6dVVfC0yZ9",
-      "excerpt": "Here are Monday's biggest analyst calls: <b>Nvidia</b>, Apple, Tesla, Roku, Cisco Sytstems, Palantir, Costco &amp; more.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-05T16:34:27.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Should You Buy <b>Meta</b> Platforms Stock on the Dip? | The Motley Fool",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fool.com/investing/2025/11/05/should-you-buy-meta-platforms-stock-on-the-dip/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3tbpn9kWnA6wrOLH_IBNAb",
-      "excerpt": "<b>Meta's</b> stock plunged after the company announced significantly higher capital expenditures for <b>AI</b> infrastructure. The accelerated capacity build-out&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T16:33:20.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Instant Insights for Decision-Making Across the Enterprise - Workday Blog",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://blog.workday.com/en-us/instant-insights-decision-making-across-enterprise.html&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2SX8M88Y0cAm9iYe0clzZY",
-      "excerpt": "The new Custom <b>AI</b> Model Library extends contract intelligence beyond <b>Legal</b>, empowering every department to understand and act on their agreements&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T16:33:14.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "OpenAI's new <b>AI</b> safety tools could give a false sense of <b>security</b> | Fortune",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fortune.com/2025/11/05/openai-open-source-safety-classifiers-enterprise-ai-false-sense-security/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2ixcvCB1fezlwVKTVv1wGw",
-      "excerpt": "But while these tools are designed to make <b>AI</b> models safer for business customers, some <b>security</b> experts caution that the way OpenAI has released them&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:31:45.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> study gives insights into why super-recognisers excel at identifying faces - The Guardian",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theguardian.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3qQhppf3AU1V-IusVc-T5w",
-      "excerpt": "In each case the <b>AI</b> system produced a score for how similar the retinal information was to the full facial image it had been given. The team compared&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2025-11-05T16:31:27.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "As soaring <b>AI</b> stocks take a turn, investors say not to panic yet | CBC News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cbc.ca/news/business/stock-market-downturn-9.6967546&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1RK5gmdWF-NnL_w1j1Doxa",
-      "excerpt": "... , trade turmoil and a patchy global economy, leading some to worry about whether hopes surrounding <b>AI</b> were creating a bubble that could burst.",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-05T16:31:26.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "What's the Difference Between <b>AI</b> Glasses and an iPhone? A Helpful Guide for <b>Meta</b> PR",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.404media.co/whats-the-difference-between-ai-glasses-and-an-iphone-a-helpful-guide-for-meta-pr/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1L89iG_I8O_IyXHwPEDiIi",
-      "excerpt": "<b>Meta</b> thinks its camera glasses, which are often used for harassment, are no different than any other camera. What's the Difference Between <b>AI</b>&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T16:30:08.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>OpenAI's</b> Sora app is now available on Android - GSMArena.com news",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.gsmarena.com/openais_sora_app_is_now_available_on_android-news-70164.php&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2xCNYssZ7rA-FJEp2o4f7X",
-      "excerpt": "Last month, <b>OpenAI</b> brought its Sora video-generation app to iOS. Now, the company has rolled it out to Android users. Sora is currently available&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:29:39.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "OpenAI ends <b>legal</b> and medical advice on ChatGPT - CTV News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3Ke-HcYlDpYNQ0bygZPNTr",
-      "excerpt": "OpenAI is changing its policies so that its <b>AI</b> chatbot, ChatGPT, won't dole out medical or <b>legal</b> advice to users.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:28:45.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>OpenAI</b> ends legal and medical advice on ChatGPT - CTV News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3Ke-HcYlDpYNQ0bygZPNTr",
-      "excerpt": "<b>OpenAI</b> is changing its policies so that its AI chatbot, ChatGPT, won't dole out medical or legal advice to users.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:28:45.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Quick Heal version26 Redefines Digital <b>Privacy</b> with Predictive <b>AI</b> and Real-Time Fraud Prevention",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cxodigitalpulse.com/quick-heal-version26-redefines-digital-privacy-with-predictive-ai-and-real-time-fraud-prevention/&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw2VNsJ2rMQQLicvcai5wyw-",
-      "excerpt": "Today's challenges demand more than traditional antivirus protection; they require a comprehensive approach that combines <b>privacy</b>, <b>AI</b>-powered&nbsp;...",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-05T16:28:34.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "3 Reasons Why You Should Buy This Amazing <b>AI Stock</b> - Barchart.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.barchart.com/story/news/35917632/3-reasons-why-you-should-buy-this-amazing-ai-stock&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0YYNuUf119wNFWm_57AowS",
-      "excerpt": "A graph of <b>stock</b> market <b>AI</b>-generated content may be incorrect. www.barchart.com. 1. AWS Is Powering a New <b>AI</b> Supercycle. Once known only as a&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T16:26:51.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "What can Europe learn from China's critical-tech innovation push? - Bruegel",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bruegel.org/policy-brief/what-can-europe-learn-chinas-critical-tech-innovation-push&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw2yxFz7M6fj568NIjMbWDZY",
-      "excerpt": "This <b>Policy</b> Brief examines China's rapid ascent in frontier innovation across <b>artificial intelligence</b>, semiconductors and quantum computing, and&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T16:24:55.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "CrowdStrike Leads New Evolution of <b>Security</b> Automation with Charlotte Agentic SOAR",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2C2tD_yHhUhtgd4H4_DorG",
-      "excerpt": "Agent Builder: Charlotte <b>AI</b> AgentWorks is the industry's first no-code <b>security</b> agent development platform, enabling <b>security</b> teams to build <b>AI</b> agents&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T16:14:58.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Giga Raises $61M to reinvent <b>AI</b>-Powered support - The HinduBusinessLine",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thehindubusinessline.com/info-tech/giga-raises-61m-to-reinvent-ai-powered-support/article70245436.ece&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw36h3CpM3Up9g80fy06cuQL",
-      "excerpt": "Giga has announced it has raised a $61 million Series A round led by Redpoint Ventures, with participation from <b>Y Combinator</b> and Nexus Venture&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T16:13:57.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Saudi cheap energy will turn kingdom into <b>AI</b> data center leader: Aramco CEO - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/04/aramco-saudi-arabia-ai-data-center.html&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2VjSsof_pE_K3GpI-K6YX2",
-      "excerpt": "Aramco disclosed in October that it will become a significant shareholder in Saudi-backed <b>AI company</b> Humain. Aramco CEO Amin Nasser said Saudi's&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T16:07:09.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "1 million business customers: the fastest-growing business platform in history | <b>OpenAI</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://openai.com/index/1-million-businesses-putting-ai-to-work/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2Y2jFdmp6hHipciRu-9PcK",
-      "excerpt": "Customers such as AMEX, Amgen, Commonwealth Bank, Booking.com, Cisco, Lowe's, Morgan Stanley, T-Mobile, Target, and Thermo Fisher Scientific are&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:06:57.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Five debt hotspots in the <b>AI</b> data centre boom | Reuters",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/business/finance/five-debt-hotspots-ai-data-centre-boom-2025-11-05/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2SG9KROUVf5T_dWq8oCUtm",
-      "excerpt": "... <b>business</b> case. Sign up here. Now, however, some observers including the Bank of England say pockets of risk are building in parts of the financial&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T16:06:03.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Microsoft</b> strengthens sovereign cloud capabilities with new services | <b>Microsoft</b> Azure Blog",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2DJzISrPmV2k30GqPYyV0O",
-      "excerpt": "Discover new <b>Microsoft</b> digital sovereignty capabilities and upcoming features across <b>AI</b>, security, and productivity, to address sovereign cloud&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T16:06:01.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "To win the <b>AI</b> race, we must not throttle manufacturing innovation - Rochester Beacon",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://rochesterbeacon.com/2025/11/05/to-win-the-ai-race-we-must-not-throttle-manufacturing-innovation/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1OTaRYn5BGjH6pNuXsxaTX",
-      "excerpt": "Legislation that would create a confusing, fragmented patchwork of <b>AI regulation</b> is not the way to maintain our competitive edge.",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2025-11-05T16:03:43.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Solving the <b>AI</b> Black Box Problem with Prisma AIRS 2.0",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.paloaltonetworks.com/blog/2025/11/ai-black-box-problem-prisma-airs-2-0/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1mGopbGYf14ES7979J6Wnz",
-      "excerpt": "Your success in the AI race depends on addressing the security challenge proactively. We champion a simple, three-phase framework for <b>AI Security</b>,&nbsp;...",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2025-11-05T16:03:18.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Pasco schools outline <b>AI rules</b> before unlocking program for students - Tampa Bay Times",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.tampabay.com/news/education/2025/11/04/pasco-schools-outline-ai-rules-before-unlocking-program-students/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1p-Qtw7UN-C7qqmAr5x5Jz",
-      "excerpt": "The draft guidelines stress that <b>artificial intelligence</b> should be a tool, not a replacement for thinking.",
-      "source": "AI News",
-      "category": "Education",
-      "published": "2025-11-05T16:02:51.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Tencent AI Veteran Raises Funds for Rival to <b>OpenAI</b> Sora - Bloomberg.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2025-11-05/tencent-ai-veteran-snags-funds-for-year-old-rival-to-openai-sora&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw30gwNkOQHO1aUkQUEzbN9e",
-      "excerpt": "The scientist who oversaw development of Tencent Holdings Ltd.'s flagship <b>AI</b> model has raised $50 million with a startup planning to release a&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T16:02:03.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Data <b>Privacy</b> Newsletter - Issue 29",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.slaughterandmay.com/insights/new-insights/data-privacy-newsletter-issue-29/&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw1vXe2AC5SJ6yZuvftJb4Sx",
-      "excerpt": "CASE LAW UPDATE. Upper Tribunal upholds ICO fine against facial-recognition database provider Clearview <b>AI</b> Inc. The Upper Tribunal (UT) has handed&nbsp;...",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-05T16:01:53.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Data Privacy Newsletter - Issue 29",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.slaughterandmay.com/insights/new-insights/data-privacy-newsletter-issue-29/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1vXe2AC5SJ6yZuvftJb4Sx",
-      "excerpt": "Looking beyond <b>AI</b>, the EU is doubling down on digital <b>regulation</b> with ... <b>regulations</b> expected in or around January 2026 and June 2026. In&nbsp;...",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-05T16:01:53.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Chipmaker AMD Delivers Beat-And-Raise Report, But Stock Drops",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investors.com/news/technology/amd-stock-q3-2025-earnings/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2BfszbA5KNnFgW4wQ7GM5m",
-      "excerpt": "... <b>AI business</b> drive significant revenue and earnings growth.\" However, much of the company's better-than-expected Q3 performance was due to its PC&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T15:57:19.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Meta</b> Ray-Ban Display Glasses Start Rollout: What Does it Mean for the Enterprise?",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.uctoday.com/immersive-workplace-xr-tech/meta-ray-ban-display-glasses-start-rollout-what-does-it-mean-for-the-enterprise/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2dqGdU4Clrruz5pDAYA0aa",
-      "excerpt": "Plus, with Gen 3 rumors pointing to better battery and on-device <b>AI</b>, it's clear this isn't a one-off experiment; it's the beginning of <b>Meta's</b> wearable&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T15:56:41.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Beyond ChatGPT: The Silent Birth of Conscious <b>AI</b> | Hacker News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.ycombinator.com/item%3Fid%3D45824262&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3UQgAnxsnda4rbjE4hi7HM",
-      "excerpt": "That's the beginning of Conscious <b>AI</b> — the silent seed of what the world will soon call AGI: Artificial General Intelligence. What LLMs Really Are.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T15:56:07.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "3 ETFs for Diversifying Beyond <b>AI</b> | Morningstar",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.morningstar.com/funds/3-etfs-diversifying-beyond-ai-2&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0k8kiGjrNmeeiLEAGk6tf9",
-      "excerpt": "This ETF holds MSCI EAFE <b>stocks</b>, then tilts toward companies that J.P. Morgan analysts like and steers away from those it doesn't. <b>Stock</b>-picking is&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-05T15:55:40.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> browsers: the <b>security</b> headache nobody asked for - Freedom of the Press Foundation",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://freedom.press/digisec/blog/ai-browsers-the-security-headache-nobody-asked-for/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3xkv1x3ZE3zz6IsZiYlve9",
-      "excerpt": "Despite their growing presence, <b>AI</b>-powered browsers aren't ready for prime time when it comes to <b>security</b>.",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2025-11-05T15:54:36.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "SoftBank, <b>OpenAI</b> launch new joint venture in Japan as AI deals grow ever more circular",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/05/softbank-openai-launch-new-joint-venture-in-japan-as-ai-deals-grow-ever-more-circular/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2u_WxY9fuPuxH8ZI94hOwj",
-      "excerpt": "SoftBank's joint venture with <b>OpenAI</b> that will localize and sell the AI company's enterprise tech to companies in Japan. And the first customer of&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T15:54:16.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Machine Learning</b> Differentiates AD and Behavioral Variant Frontotemporal Dementia",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.neurologyadvisor.com/news/machine-learning-differentiates-ad-behavioral-variant-frontotemporal-dementia/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0jx2f9xnxEzF989n70r-CO",
-      "excerpt": "<b>Machine learning</b> models using initial neuropsychological and neuropsychiatric clinical data accurately distinguished AD from bvFTD.",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2025-11-05T15:53:12.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI Security</b> Starts Here: The Essentials for Every Organization - Trend Micro",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.trendmicro.com/vinfo/pl/security/news/virtualization-and-cloud/ai-security-starts-here-the-essentials-for-every-organization&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3D4tmC8rJjXlPDyFcuJe8b",
-      "excerpt": "<b>AI's</b> rapid growth brings new risks as well as opportunities. Strong <b>security</b> foundations are essential to ensure innovation remains safe,&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T15:52:43.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Warner, Hawley to Introduce Bipartisan Legislation to Track Number of <b>Jobs</b> Lost to <b>AI</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.warner.senate.gov/public/index.cfm/pressreleases%3Fid%3DFD838E66-72CE-49E0-A4AD-90896C8576BC&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw2z_-uCgrHkgvPdazR9uVx2",
-      "excerpt": "WASHINGTON –Today, U.S. Sens. Mark R. Warner (D-VA) and Josh Hawley (R-MO) announced they will introduce the <b>AI</b>-Related <b>Job</b> Impacts Clarity Act.",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2025-11-05T15:51:37.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "CrowdStrike and CoreWeave Partner to Power the <b>Secure AI</b> Cloud for the Agentic Era",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://investors.coreweave.com/news/news-details/2025/CrowdStrike-and-CoreWeave-Partner-to-Power-the-Secure-AI-Cloud-for-the-Agentic-Era-2025-hX8KK8ynU4/default.aspx&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2sSxWgRfVvdFTRkZ4WaxCb",
-      "excerpt": "... <b>AI</b> infrastructure. “<b>AI</b> is transforming <b>security</b> and CrowdStrike is transforming how <b>AI</b> is secured,” said George Kurtz, CEO and founder of CrowdStrike.",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T15:49:03.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "India's new <b>AI</b> governance <b>guidelines</b> push hands-off approach - The Hindu",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thehindu.com/sci-tech/technology/indias-new-ai-governance-guidelines-push-hands-off-approach/article70244557.ece&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2anXCbuyM8GShjYoQ0Yuc3",
-      "excerpt": "India's new <b>AI</b> governance <b>guidelines</b> promote innovation while ensuring safety, adopting a hands-off <b>regulatory</b> approach without immediate plans&nbsp;...",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2025-11-05T15:45:45.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Don't panic yet, investors say, as high-flying <b>AI stocks</b> tumble - The Sunday Guardian",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sundayguardianlive.com/feature/dont-panic-yet-investors-say-as-high-flying-ai-stocks-tumble-159629/&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw098SWIQyxcMAI9AIHfx_3j",
-      "excerpt": "... <b>AI stocks</b> tumble. Don't panic yet, investors say, as high-flying <b>AI stocks</b> tumble. Last Updated: November 5, 2025 21:12:40 IST. 10. By Ankur Banerjee&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-05T15:45:32.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Get a Lifetime of <b>Microsoft</b> Office With <b>AI</b> Features for $130 - Entrepreneur",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.entrepreneur.com/science-technology/get-a-lifetime-of-microsoft-office-with-ai-features-for-130/499124&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3xAujNInE65HSjANW9nisO",
-      "excerpt": "Get a Lifetime of <b>Microsoft</b> Office With <b>AI</b> Features for $130. Ditch those pricey subscription fees for the programs you need most. By Entrepreneur&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T15:44:18.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Stocks get boost from stronger-than-expected private sector <b>jobs</b>, <b>AI</b> trade still struggles",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/news/4515753-sp500-nasdaq-composite-dow-jones-market-stocks-news&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3eH7rAejr5tuRgWX1sZ_QK",
-      "excerpt": "Wall Street's major averages saw some relief after the private sector <b>employment</b> staged a rebound in October, while <b>AI</b> stocks continued to be&nbsp;...",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2025-11-05T15:43:00.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Microsoft</b> partners with Lambda in multibillion <b>AI</b> infrastructure deal",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://dig.watch/updates/microsoft-partners-with-lambda-in-multibillion-ai-infrastructure-deal&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3btQExz17JtgbNpThQEanV",
-      "excerpt": "The new multi-year agreement between Lambda and <b>Microsoft</b> will deliver <b>AI</b> supercomputers powered by tens of thousands of NVIDIA GPUs to meet&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T15:42:29.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "As soaring <b>AI stocks</b> take a turn, investors say not to panic yet | CBC News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cbc.ca/news/business/stock-market-downturn-9.6967546&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw1RK5gmdWF-NnL_w1j1Doxa",
-      "excerpt": "Markets in Asia and Europe took a hit Wednesday before Wall Street's muted open. For months, markets have ignored elevated interest rates,&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T15:36:46.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Meta</b> Slumps on <b>AI</b> Spending, Echoing 2022 Metaverse Rout - Bloomberg.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2025-11-05/meta-spending-spree-recalls-metaverse-debacle-that-crushed-stock&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3VgXZdEJaJ0QhHSQIcsCQ0",
-      "excerpt": "The huge checks <b>Meta</b> Platforms Inc. is writing to support its <b>artificial intelligence</b> ambitions are reminding some investors of the massive&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T15:36:09.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Layoffs at <b>Microsoft</b> and Amazon spark ethical questions about their impact on Seattle amid <b>AI</b> frenzy",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.geekwire.com/2025/layoffs-at-microsoft-and-amazon-spark-ethical-questions-about-their-impact-on-seattle-amid-ai-frenzy/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1RyhshTcREo00uAbNLabI0",
-      "excerpt": "<b>Microsoft</b> President Brad Smith speaks at the company's headquarters campus last month to unveil a new initiative to provide <b>AI</b> software to&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T15:36:08.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Nvidia</b> and Deutsche Telekom Unveil €1B AI Factory in Munich - eWeek",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.eweek.com/news/nvidia-deutsche-telekom-ai-factory/&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw2xuGWPmEWdjlWzLOtHfqQ5",
-      "excerpt": "The idea is to pair <b>Nvidia's</b> chips with Deutsche Telekom's network backbone. <b>Nvidia</b> founder and CEO Jensen Huang said, “These are factories, just&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-05T15:34:55.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Finally, an <b>AI</b> Device I Don't Immediately Despise - Bloomberg",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/opinion/articles/2025-11-05/finally-an-ai-device-i-don-t-immediately-despise&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw27Kn_ujrXu-lKm_wsV0KFP",
-      "excerpt": "The Stream Ring, a smart ring created by former <b>Meta</b> employees, passes some key criteria for wearable tech and <b>AI</b>, including not drawing unwanted&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T15:32:45.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>NVIDIA</b>, Qualcomm join U.S., Indian VCs to help build India's next deep tech startups",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0LvTGsIIHVm2nuPm0K-muX",
-      "excerpt": "<b>NVIDIA</b> has joined the coalition as a strategic technical advisor, without any financial commitments, while Qualcomm Ventures has come on board&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-05T15:32:06.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Deep Learning</b> OCR Powered by Theia ML610M Lens and Imaging Source DFK 33UX178 ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.qualitymag.com/articles/99206-deep-learning-ocr-powered-by-theia-ml610m-lens-and-imaging-source-dfk-33ux178-in-aurora-vision-studio&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw2XE9aXuTzKQA0uuOluMuq2",
-      "excerpt": "Pixel Density Meets <b>Deep Learning</b> for Industrial OCR. The DFK 33UX178 camera features a 2/3″ format, 6.3-megapixel sensor with 2.4 µm pixels, making&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T15:32:05.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Stuck in traffic? Google Maps has a smarter <b>AI</b> assistant for you - Los Angeles Times",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.latimes.com/business/story/2025-11-05/stuck-in-traffic-google-maps-is-getting-more-conversational-with-ai&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3LPF0moo1YvgdEWya23r39",
-      "excerpt": "The product updates are examples of how the Mountain View, Calif., <b>company</b> is integrating new <b>AI</b>-powered features as it competes with tech companies&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-05T15:31:34.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Former <b>Meta</b> employees launch Sandbar, a smart ring that takes voice notes and controls music",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2025/11/05/former-meta-employees-launch-sandbar-a-smart-ring-that-takes-voice-notes-and-controls-music/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1EyP7jHKFrZ0idOygqxekL",
-      "excerpt": "The company calls the ring “a mouse for voice” because it can take notes, help you interact with an <b>AI</b> assistant, and also let you control music.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T15:31:04.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "MPA Cease-and-Desist Letter to <b>Meta</b> Over Instagram PG-13 Teen Accounts - Variety",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://variety.com/2025/digital/news/mpa-meta-cease-desist-letter-instagram-pg-13-rating-teen-accounts-1236570205/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0tpOCGNQytj_tzXFhr-VQ8",
-      "excerpt": "Instead, <b>Meta's</b> content restrictions appear to rely heavily on <b>artificial intelligence</b> or other automated technology measures,” the trade group said&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-05T15:30:13.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Thomson Reuters Reveals New Agentic <b>AI</b> in CoCounsel <b>Legal</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thomsonreuters.com/en/press-releases/2025/november/thomson-reuters-reveals-new-agentic-ai-in-cocounsel-legal&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0e1jnQncXwOON7T-HTd_CS",
-      "excerpt": "... <b>AI</b> for <b>legal</b> professionals. “<b>Legal</b> technology is moving from narrow solutions to agentic systems on a fast path to generalized intelligence – and&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-05T15:28:38.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "'The chilling effect': how fear of 'nudify' apps and <b>AI</b> deepfakes is keeping Indian women off ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theguardian.com/global-development/2025/nov/05/india-women-ai-deepfakes-internet-social-media-artificial-intelligence-nudify-extortion-abuse&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2buPAiDun_w0AdqjHPA5pL",
-      "excerpt": "Gaatha Sarvaiya would like to post on social media and share her work online. An Indian <b>law</b> graduate in her early 20s, she is in the earliest stages&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2025-11-05T15:25:55.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Ilya Sutskever breaks silence on <b>OpenAI</b> departure: “I had a big new vision” | Ctech",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.calcalistech.com/ctechnews/article/sjp2u5oj11e&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2b0UbaiHarfYk8Jz0i91Po",
-      "excerpt": "Ilya Sutskever, the elusive scientist who co-founded <b>OpenAI</b> and helped build ChatGPT, has spoken publicly for the first time about the events that&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-05T15:25:42.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>AI</b> is changing who gets hired – what skills will keep you employed? - Japan Today",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://japantoday.com/category/tech/ai-is-changing-who-gets-hired-%25E2%2580%2593-what-skills-will-keep-you-employed&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw10kpBrDeSxWHfRJZrwqTMi",
-      "excerpt": "It's a sharp reminder that the same technology driving efficiency is also redefining what it takes to keep a <b>job</b>. And Accenture isn't alone. IBM has&nbsp;...",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2025-11-05T15:23:28.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Stability <b>AI's legal</b> win over Getty leaves copyright <b>law</b> in limbo | The Verge",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3i94C4_FJV0P-3FYoGqPMc",
-      "excerpt": "Stability <b>AI</b> largely prevailed over Getty Images at London's High Court, but the ruling leaves big unanswered questions over copyright and <b>AI</b>.",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2025-11-05T15:23:03.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "<b>Microsoft</b>, G42 announce 200 MW data centre capacity expansion in the UAE | Reuters",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/world/middle-east/microsoft-g42-announce-200-mw-data-centre-capacity-expansion-uae-2025-11-05/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1rHZBCl0QT-dOIr0hBkmTB",
-      "excerpt": "The expansion will provide further <b>AI</b> and cloud infrastructure to the UAE, \"strengthening <b>Microsoft</b> Azure's secure, scalable, and sovereign cloud&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-05T15:22:27.000Z",
-      "dateString": "Nov 5, 2025"
-    },
-    {
-      "title": "Federal government to cut another 28000 public service <b>jobs</b> by 2029 - CTV News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ctvnews.ca/ottawa/article/federal-government-to-cut-another-28000-public-service-jobs-by-2029/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw32nbLKW7NNTSqjqLc_7O4K",
-      "excerpt": "Budget 2025 said the government will slow direct program spending growth from eight per cent to under one per cent. New <b>AI</b> tool. The federal&nbsp;...",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2025-11-05T15:21:42.000Z",
-      "dateString": "Nov 5, 2025"
     }
   ],
-  "lastUpdated": "2025-11-05T18:34:04.023Z",
+  "lastUpdated": "2025-11-05T21:22:08.278Z",
   "totalFeeds": 17,
   "success": true
 }
