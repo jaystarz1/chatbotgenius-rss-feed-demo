@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "title": "<b>Microsoft</b> Just Built the 'Operating System' for <b>AI</b> Agents - eWeek",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.eweek.com/news/microsoft-agent-365-ai-agents/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1Z1Ez5vCCeBKZ-kzKV0Res",
+      "excerpt": "<b>Microsoft's</b> new Agent 365 gives IT full visibility and control over every <b>AI</b> agent in the organization, solving security, governance,&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T08:58:18.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Meta</b> Chief <b>AI</b> Scientist Yann Lecun is leaving. | The Verge",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theverge.com/news/824734/meta-chief-ai-scientist-yann-lecun-is-leaving&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0YOh1rjF3CPDe_HUdrb6lu",
+      "excerpt": "Lecun's widely-rumored departure is official just weeks after significant layoffs affected <b>Meta's</b> legacy Fundamental <b>AI</b> Research unit (FAIR) that&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T08:30:49.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Meta's</b> DreamGym framework trains <b>AI</b> agents in a simulated world to cut reinforcement learning costs",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2sWuqS8KiJEZxsXx5doqUX",
+      "excerpt": "Researchers at <b>Meta</b>, the University of Chicago, and UC Berkeley have developed a new framework that addresses the high costs,&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T08:22:46.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Israeli innovations take center stage as <b>Microsoft</b> charges into the <b>AI</b> agent era - Ynet News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ynetnews.com/tech-and-digital/article/hyucm3jxzl&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2CHPjU75gK6Q_XHe12PvE5",
+      "excerpt": "<b>Microsoft</b> uses its annual Ignite conference to unveil a new generation of <b>AI</b> agents and advanced cyber tools, with Israeli developments taking&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T08:07:06.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Markets rally after Nvidia's strong results calm <b>AI</b> bubble fears, and investors await US <b>jobs</b> report",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theguardian.com/business/live/2025/nov/20/markets-rally-nvidia-results-ai-bubble-us-jobs-report-ftse-pound-dollar-business-live-news&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3t1uwZzTZp1v1ZiowfB82V",
+      "excerpt": "Investors cheer forecast-beating results from chipmaker, as attention turns to delayed US <b>employment</b> report.",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-20T07:56:39.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "The Smartest <b>AI</b> Stock to Buy With $1,000 Right Now | The Motley Fool",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fool.com/investing/2025/11/19/the-smartest-ai-stock-to-buy-with-amount-right-now/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1vFDUTQTC8ysbQ89m-4iJ7",
+      "excerpt": "<b>Microsoft's</b> business is the most diversified among the big tech companies. <b>AI</b> is a plus to <b>Microsoft's</b> business, but it's not dependent on it for its&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:50:43.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "With Agent 365 and Security Tools, <b>Microsoft</b> Equips Customers to Govern <b>AI</b> Agent Estates",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cloudwars.com/ai/with-agent-365-and-security-tools-microsoft-equips-customers-to-govern-ai-agent-estates/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3pKg8QeKZCmT7cIeMG2vAo",
+      "excerpt": "On the first day of Ignite, <b>Microsoft</b> rolls out a raft of software tools to help customers manage their expanding rosters of <b>AI</b> agents while&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:49:38.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> Debuts Work IQ, Fabric IQ, and Foundry IQ: A Unified Intelligence Layer for the <b>AI</b> ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cloudwars.com/ai/microsoft-debuts-work-iq-fabric-iq-and-foundry-iq-a-unified-intelligence-layer-for-the-ai-powered-enterprise/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2rutQDuWX-KIJ3EvkJAVhQ",
+      "excerpt": "Ignite 2025 positioned <b>Microsoft</b> at the forefront of <b>AI</b>-driven enterprise solutions, providing a new intelligence stack designed to simplify&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:49:35.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Full interview: Google CEO Sundar Pichai on the '<b>AI</b> boom' and the future of <b>AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DBYx63PKKPvg&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0S4NzWGZ0O6CK2h6r34JPa",
+      "excerpt": "... •181K views &middot; 41:51 &middot; Go to channel. CEO of <b>Microsoft AI</b>:The Next 10 Years Will Change Humanity Forever. Silicon Valley Girl New 86K views &middot; 20:39.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:40:09.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Microsoft AI</b> CEO Puzzled by People Being \"Unimpressed\" by AI - 80 Level",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0yo8lkwZ9nahpiA5kxQHNZ",
+      "excerpt": "Putting these contrasting views of artificial intelligence on full display is <b>Microsoft AI</b> CEO Mustafa Suleyman, who expressed bemusement about people&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:31:31.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Elon Musk Paints Bold Picture Of <b>AI</b>-Powered Future, Says Money Will Be \"Irrelevant\", <b>Jobs</b> \"Optional\"",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ndtv.com/offbeat/elon-musk-paints-bold-picture-of-ai-powered-future-says-money-will-be-irrelevant-jobs-optional-9668227&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw04DF019JE0odfkPHYdOJ93",
+      "excerpt": "Musk said that <b>artificial intelligence</b> and humanoid robots will be so productive that money will eventually become irrelevant, most <b>jobs</b> will turn&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-20T07:30:11.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Cracks are appearing in OpenAI's dominant facade - The Economist",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.economist.com/business/2025/11/19/cracks-are-appearing-in-openais-dominant-facade&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3TWIdb3dphLyhr79gSx3Qg",
+      "excerpt": "... <b>artificial intelligence</b> (<b>AI</b>), everyone has ... <b>Microsoft's</b> Azure cloud platform over an unspecified timeframe, underpinned by Nvidia's <b>AI</b> chips.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:23:53.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "French 'godfather of <b>AI</b>' Yann LeCun confirms he is leaving <b>Meta</b> to launch <b>AI</b> start-up",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.euronews.com/next/2025/11/20/french-godfather-of-ai-yann-lecun-confirms-he-is-leaving-meta-to-launch-ai-start-up&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2M0RNajrJaFBGwjP-9NOAk",
+      "excerpt": "LeCun said he will leave his post as <b>Meta's</b> chief <b>artificial intelligence</b> researcher at the end of the year. “As many of you have heard through&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T07:22:52.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Meta</b> tags in SEO: What they are &amp; how to use them - Search Engine Land",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://searchengineland.com/guide/meta-tags&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw26Lnqt08Y-yFcVEGxxEQD_",
+      "excerpt": "Although Google might rewrite them nearly two-thirds of the time, a well-crafted <b>meta</b> description still serves as your fallback when Google's <b>AI</b> can't&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T07:22:20.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>AI</b> and U.S. visa policy could drive Vancouver office rebound, says expert",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.biv.com/news/real-estate/ai-and-us-visa-policy-could-drive-vancouver-office-rebound-says-expert-11512278&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw300ykpUyjc69C4J_-4xcxh",
+      "excerpt": "... <b>microsoft</b>-144 <b>Microsoft</b> Corp. (Nasdaq:MSFT) consolidated its office footprint in Vancouver in the third quarter using space it had pre-leased in&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T07:19:24.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Trump administration drafts an executive order to challenge state <b>AI</b> laws",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nbcnews.com/politics/trump-administration/trump-administration-executive-order-regulating-state-ai-laws-rcna244890&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3icDWfVtf12_9H2cuVN2Fh",
+      "excerpt": "... artificial intelligence, according to a person familiar with the matter. The order is the latest salvo in a long-simmering battle in <b>AI policy</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-20T06:35:56.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
       "title": "<b>AI</b>-driven cyber threats &amp; defences to reshape <b>security</b> by 2026 - SecurityBrief Asia",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://securitybrief.asia/story/ai-driven-cyber-threats-defences-to-reshape-security-by-2026&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3X_XYAlkCRHIJOJJZTyuOU",
       "excerpt": "Cyber <b>security</b> experts are anticipating major changes to how <b>artificial intelligence</b> will affect the landscape of attacks and defences by 2026,&nbsp;...",
@@ -10,12 +154,93 @@
       "dateString": "Nov 20, 2025"
     },
     {
+      "title": "<b>AI</b> Threatens to Spoil Poland's $1 Trillion Economic Party - Bloomberg.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/features/2025-11-20/poland-economy-under-pressure-from-ai-and-soaring-wages&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3XQ_Huc3ogAzXJGZyxmw0X",
+      "excerpt": "Krakow became a hub for business services <b>jobs</b>, driving salaries to the highest in Poland. Now the city is learning to live with <b>artificial</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-20T06:31:10.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "'High risk' <b>AI</b> rules: How Google, Facebook parent <b>Meta</b>, OpenAI and other tech giants may ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://timesofindia.indiatimes.com/technology/tech-news/high-risk-ai-rules-how-google-facebook-parent-meta-openai-and-other-tech-giants-may-have-scored-victory-in-europe/articleshow/125440575.cms&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1CAvZUC30qJxliz8hbE_vP",
+      "excerpt": "Tech News News: The European Commission will streamline technology regulations, notably delaying strict <b>AI</b> Act provisions for high-risk&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T06:20:02.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "'High risk' <b>AI rules</b>: How Google, Facebook parent Meta, OpenAI and other tech giants may ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://timesofindia.indiatimes.com/technology/tech-news/high-risk-ai-rules-how-google-facebook-parent-meta-openai-and-other-tech-giants-may-have-scored-victory-in-europe/articleshow/125440575.cms&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1CAvZUC30qJxliz8hbE_vP",
+      "excerpt": "Easing <b>rules</b> for <b>AI</b> training. The package also proposes changes affecting core privacy laws, including the General Data Protection Regulation (GDPR)&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T06:20:02.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> rolls out Agent 365 'control plane' for <b>AI</b> agents - InfoWorld",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.infoworld.com/article/4093378/microsoft-rolls-out-agent-365-control-plane-for-ai-agents.html&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0aY9TOB0Gvrcc9LABtAtQC",
+      "excerpt": "<b>Microsoft</b> said that Agent 365 unlocks five capabilities intended to make enterprise-scale <b>AI</b> possible: Registry, to view all agents in an organization&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T06:11:39.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Nvidia Earnings Live: <b>AI</b> Chip Giant's Results Blow Past Wall Street Expectations ... - Investopedia",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investopedia.com/nvidia-earnings-live-coverage-q3-fy2026-11852941&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3lndRLtO40yqjs7DSieXow",
+      "excerpt": "Alphabet also hiked its capex, while <b>Meta</b> lifted the lower end of its capex guidance. Investors Looking For More Details On 'Circular' Deals. 8&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T06:07:06.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
       "title": "SentinelOne Partners with AWS to boost the future of <b>AI Security</b> - INTLBM",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://intlbm.com/2025/11/20/sentinelone-partners-with-aws-to-boost-the-future-of-ai-security/&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw35T59ojjK21Ib-OhC9isn0",
       "excerpt": "The new updates were announced at SentinelOne's OneCon 2025 conference at the Cosmopolitan Hotel and Casino in Las Vegas. Advancing <b>AI Security</b> Across&nbsp;...",
       "source": "AI News",
       "category": "Security",
       "published": "2025-11-20T05:51:53.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Trillion Dollar <b>AI</b> Borrowing Binge Could Spark The Next Credit Crunch - Forbes",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.forbes.com/sites/brandonkochkodin/2025/11/19/trillion-dollar-ai-borrowing-binge-could-spark-the-next-credit-crunch/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1WOdKGtZoT979cm9grE1Uw",
+      "excerpt": "Analysts at Janus Henderson Investors, a London-based asset manager, wrote that Alphabet and <b>Meta</b> both paid a “clear premium to access the debt market&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T05:37:37.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "What <b>jobs</b> will be most affected by <b>AI</b>? - Brookings Institution",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.brookings.edu/articles/what-jobs-will-be-most-affected-by-ai/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw0YEnGzUYzi-ATW9ppZGRnE",
+      "excerpt": "So we can think of it as at this very sort of granular level, Gen <b>AI</b> is substituting for Dimitris in performing copy editing <b>jobs</b>. Fortunately, my <b>job</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2025-11-20T05:34:35.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> CEO Satya Nadella to employees in internal memo: We need to rapidly rethink the…",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-to-employees-in-internal-memo-we-need-to-rapidly-rethink-the/articleshow/125453240.cms&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1fN39wTrzWUWsWsRKCDt0I",
+      "excerpt": "... <b>AI</b> across the company — just as we once did with the cloud\". Satya Nadella Steps Back to Focus on <b>AI</b>: <b>Microsoft's</b> Major Reorganisation Explained.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T05:28:08.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Yann LeCun to leave <b>Meta</b>, launch <b>AI</b> startup focused on Advanced Machine Intelligence",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.channelnewsasia.com/business/yann-lecun-leave-meta-launch-ai-startup-focused-advanced-machine-intelligence-5478391&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2R91sUeLUVPwGeLJakx3FR",
+      "excerpt": "Yann LeCun, one of the founding figures of modern <b>artificial intelligence</b> and a pivotal force at <b>Meta</b> Platforms, said on Wednesday he plans to&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T05:27:03.000Z",
       "dateString": "Nov 20, 2025"
     },
     {
@@ -34,6 +259,15 @@
       "source": "AI News",
       "category": "NVIDIA",
       "published": "2025-11-20T05:24:01.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Beyond Nvidia's hype: Europe's role in shaping <b>AI</b> for humanity | Euractiv",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.euractiv.com/opinion/beyond-nvidias-hype-europes-role-in-shaping-ai-for-humanity/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3VG9zlTsIq_BajGkvgI9qQ",
+      "excerpt": "At a recent <b>AI</b> summit in London, every discussion was dominated by the US-China <b>AI</b> race. Every forecast and <b>policy</b> remark circled back to that face-&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2025-11-20T05:05:26.000Z",
       "dateString": "Nov 20, 2025"
     },
     {
@@ -64,6 +298,24 @@
       "dateString": "Nov 20, 2025"
     },
     {
+      "title": "Yann LeCun confirms long-rumoured departure from <b>Meta</b>, is now launching own <b>AI</b> startup",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.hindustantimes.com/trending/yann-lecun-confirms-long-rumoured-departure-from-meta-is-now-launching-own-ai-startup-101763612934364.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0NQR-v1McaN95SHboJL6nS",
+      "excerpt": "Yann LeCun has confirmed he is leaving <b>Meta</b> to launch his own <b>AI</b> startup. Rumours about Yann LeCun leaving <b>Meta</b> had been circulating for some time&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T04:46:05.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Microsoft</b> (MSFT) Faces <b>AI</b> Growing Pains: Redburn Cuts PT and Downgrades to Neutral",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/news/microsoft-msft-faces-ai-growing-031859714.html&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3hGrkA6usXXbC1MgyNp4_b",
+      "excerpt": "<b>Microsoft</b> Corporation (NASDAQ:MSFT) is one of the <b>AI</b> Stocks Analysts are Tracking Closely. On November 18, Rothschild Redburn downgraded the stock&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T04:43:02.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
       "title": "Who is <b>OpenAI's</b> auditor? - Financial Times",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ft.com/content/3cff198e-25e5-481a-bd34-e26941e1d12d&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0sxbcBO4aaPwTqx2mDVVhd",
       "excerpt": "<b>OpenAI</b> is committed to spending about $1.4 trillion on data centres over the next decade or so. It accounts for about two-thirds of unfulfilled&nbsp;...",
@@ -79,6 +331,24 @@
       "source": "AI News",
       "category": "Microsoft",
       "published": "2025-11-20T04:33:35.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "PIF, SITE and <b>Microsoft</b> sign MoU to explore sovereign‑cloud services in Saudi Arabia",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.microsoft.com/source/emea/2025/11/pif-site-and-microsoft-sign-mou-to-explore-sovereign%25E2%2580%2591cloud-services-in-saudi-arabia/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3JbV6bhxo14X4Cw8QPJlD8",
+      "excerpt": "... <b>AI</b> technologies. <b>Microsoft</b> brings extensive experience in delivering sovereign-cloud capabilities that enable governments and highly regulated&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2025-11-20T04:30:14.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "<b>Meta</b> chief <b>AI</b> scientist Yann LeCun to depart to launch new <b>AI</b> venture - Capital Brief",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.capitalbrief.com/briefing/meta-chief-ai-scientist-yann-lecun-to-depart-to-launch-new-ai-venture-961ed253-a8f2-479e-89b7-918626641999/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw04vRC-ExNG42ErKPcrwyTh",
+      "excerpt": "<b>Meta's</b> chief <b>AI</b> scientist Yann LeCun has announced that he will step down from the tech giant to found a startup focused on continuing the&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T04:29:02.000Z",
       "dateString": "Nov 20, 2025"
     },
     {
@@ -307,15 +577,6 @@
       "dateString": "Nov 20, 2025"
     },
     {
-      "title": "<b>AI</b> and U.S. visa policy could drive Vancouver office rebound, says expert",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.biv.com/news/real-estate/ai-and-us-visa-policy-could-drive-vancouver-office-rebound-says-expert-11512278&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw300ykpUyjc69C4J_-4xcxh",
-      "excerpt": "“We're starting to see more tenants with more <b>businesses</b> that are <b>AI</b>-related, where either their companies are using <b>AI</b> or developing <b>AI</b> tools&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-20T02:59:25.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
       "title": "<b>AI</b> and U.S. visa <b>policy</b> could drive Vancouver office rebound, says expert",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.biv.com/news/real-estate/ai-and-us-visa-policy-could-drive-vancouver-office-rebound-says-expert-11512278&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw300ykpUyjc69C4J_-4xcxh",
       "excerpt": "Reports from Newmark, Colliers suggest momentum returning to Vancouver office real estate due to new H-1B visa restrictions and a growing <b>AI</b>&nbsp;...",
@@ -367,6 +628,24 @@
       "source": "AI News",
       "category": "NVIDIA",
       "published": "2025-11-20T02:47:25.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Big 5 <b>AI</b> 'hyperscalers' are increasingly using debt to fund their operations, Bank of America says",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fortune.com/2025/11/19/big-5-ai-hyperscalers-quadruple-debt-fund-ai-operations/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3YrbULRA9OIYC5ielCBVOS",
+      "excerpt": "This year, these five “hyperscalers” have issued $121 billion in debt, including $27 billion alone to fund <b>Meta's</b> new data center in Richland&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T02:43:44.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Trump mulling executive order to block state <b>AI</b> laws - The Hill",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thehill.com/policy/technology/5613952-trump-considers-blocking-state-ai-laws/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw2f86WKfKzt4waRi5TfAvKd",
+      "excerpt": "It would also direct the Federal Trade Commission to issue a <b>policy</b> statement on how a law prohibiting unfair and deceptive practices would apply to&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2025-11-20T02:40:26.000Z",
       "dateString": "Nov 20, 2025"
     },
     {
@@ -451,6 +730,15 @@
       "dateString": "Nov 20, 2025"
     },
     {
+      "title": "Oracle, Other <b>AI</b> Stocks Spend Too Much Cash. These Companies Are Returning It. - Barron's",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.barrons.com/articles/oracle-stock-ai-spend-cash-returns-buybacks-dividends-f09eee9e&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0RkN3xX40GjfCPlHXMwTx4",
+      "excerpt": "Big Tech stocks, including Oracle, are experiencing declines in November, with the Nasdaq Composite down 5.5%, due to high <b>AI</b> spending. Oracle, <b>Meta</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T02:01:36.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
       "title": "Nvidia shrugs off '<b>AI</b> bubble' anxiety with bumper chip demand - Financial Times",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ft.com/content/24c50fe0-3ea4-4347-851c-8635d6ef02c1&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw32QyYiOUBLLnbIKbHWGsLg",
       "excerpt": "The world's most valuable <b>company</b> reported its revenue rose 62 per cent year on year to $57bn in the three months to the end of October, beating&nbsp;...",
@@ -475,6 +763,24 @@
       "source": "AI News",
       "category": "Policy",
       "published": "2025-11-20T01:45:30.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Concerns over <b>Meta's</b> new data center in Beaver Dam - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DJ0DGGEaiHec&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1JACaVjGpZMFYOLmVlHw8S",
+      "excerpt": "3:10. Go to channel &middot; A <b>Meta's AI</b> data center coming to Beaver Dam, Wisconsin raises conerns about environmental impact. TMJ4 News New 403 views &middot; 17:&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T01:44:11.000Z",
+      "dateString": "Nov 20, 2025"
+    },
+    {
+      "title": "Yann LeCun leaving <b>Meta</b> to launch <b>AI</b> start-up focused on Advanced Machine Intelligence",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.scmp.com/tech/tech-trends/article/3333470/yann-lecun-leaving-meta-launch-ai-start-focused-advanced-machine-intelligence&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3KjH8C7D7gQS6cyZ_s2DBZ",
+      "excerpt": "LeCun joined the company in 2013 to create Facebook <b>AI</b> Research, the in-house lab that helped transform <b>Meta</b> into one of the <b>AI</b> leaders.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2025-11-20T01:42:52.000Z",
       "dateString": "Nov 20, 2025"
     },
     {
@@ -593,315 +899,9 @@
       "category": "Tech",
       "published": "2025-11-20T01:11:36.000Z",
       "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "How Nvidia's brilliant result actually increases bubble risks - AFR",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.afr.com/chanticleer/how-nvidia-s-brilliant-result-actually-increases-bubble-risks-20251120-p5ngx2&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1WASwPrh4_BwuzkTjkeRzA",
-      "excerpt": "... <b>artificial intelligence</b> moves from <b>machine learning</b> to generative AI to agentic AI, in which the computer can think and act for itself. Through a&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T01:06:50.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Diversifying Your Portfolio: Exploring Chinese <b>AI Stocks</b> as Alternatives - Markets.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.markets.com/analysis/diversifying-portfolio-chinese-ai-stocks-2451-en&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw1ZSKZxnvhpXMePGqg-V1se",
-      "excerpt": "With Artificial Intelligence (<b>AI</b>) <b>stocks</b> dominating passive indices like the S&amp;P 500 and Nasdaq, Jason Draho, Head of Asset Allocation for UBS&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2025-11-20T01:01:34.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "What AI bubble? <b>Nvidia</b> stock rises as it beats Wall Street forecast - USA Today",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.usatoday.com/story/money/2025/11/19/nvidia-earnings-november-19-ai-bubble/87357423007/&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0yCHy8eisjiFU46PdX34M5",
-      "excerpt": "<b>Nvidia</b> delivered record third-quarter sales and robust guidance, beating Wall Street estimates and reassuring investors worried about an AI&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T01:01:00.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Nvidia</b> Earnings Live: AI Chip Giant's Results Blow Past Wall Street Expectations ... - Investopedia",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investopedia.com/nvidia-earnings-live-coverage-q3-fy2026-11852941&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw3lndRLtO40yqjs7DSieXow",
-      "excerpt": "<b>Nvidia</b> reported quarterly results that handily topped Wall Street expectations, sending the stock sharply higher in after-hours trading.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:57:32.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Meta's</b> Chief <b>AI</b> Scientist Yann LeCun to Leave <b>Meta</b> and Start New <b>AI</b> Research Company",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.usnews.com/news/business/articles/2025-11-19/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0AKg92dFxcDvLxRtsdXXio",
-      "excerpt": "<b>Artificial intelligence</b> pioneer Yann LeCun said Wednesday he will be leaving his job as <b>Meta's</b> chief <b>AI</b> scientist at the end of the year.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-20T00:57:03.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>AI stocks</b> on your mind? 5 things to know as Nvidia reports - Newsday",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.newsday.com/business/nvidia-earnings-q3-ai-bubble-investing-long-island-bw86haw1&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0ytMOpLKfG4ul8uSsXXY55",
-      "excerpt": "As Nvidia reports earnings, Long Island financial experts urge caution on <b>AI stocks</b>. Automated narration. Learn more. A trader works beneath screens&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:56:19.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Cloudflare post-mortem highlights AI agent networking pitfalls - SDxCentral",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sdxcentral.com/news/cloudflare-post-mortem-highlights-ai-agent-networking-pitfalls/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw155ALCelipqRimttX0uxID",
-      "excerpt": "Outage explained: <b>Machine learning</b> failure behind global failover. ... Amongst features of the Bot system is a <b>machine learning</b> (ML) model that&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2025-11-20T00:55:55.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Meta chief AI scientist Yann LeCun is leaving to create his own startup - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/19/meta-chief-ai-scientist-yann-lecun-is-leaving-the-company-.html&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3Q_uv1AEYMPotrjQnsVfm6",
-      "excerpt": "\"I am creating a startup company to continue the Advanced <b>Machine Intelligence</b> ... The researchers helped popularize the <b>deep learning</b> approach, and in&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-20T00:51:50.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Nvidia beats expectations again in defiance of <b>AI</b> bubble fears | Money News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.sky.com/story/nvidia-beats-expectations-again-in-defiance-of-ai-bubble-fears-13472848&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1xxrHOxag9XuzemSJonVxZ",
-      "excerpt": "The <b>company</b> not only posted another set of record-breaking figures but said it expects those records will be broken again in three months.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:50:38.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Dow Jones Futures Rise As <b>AI</b> Giant Nvidia Jumps On Earnings; Jobs Report, Walmart Due",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-ai-stocks-jobs-report-walmart/&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0yKjrjwF65PinQNz47oiIh",
-      "excerpt": "Dow Jones futures: Nvidia earnings and guidance lifted NVDA and <b>AI stocks</b> late. The jobs report and Walmart are on tap.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:49:51.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Former Treasury Secretary Larry Summers quits <b>OpenAI</b> board after release of Epstein emails",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D65WBfaVeoas&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1BaF0NLzUcXCXpbQvhWyRu",
-      "excerpt": "Summers, who is also the former president of Harvard University, joined the <b>OpenAI</b> board in Nov. 2023.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-20T00:49:29.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Yann LeCun, a Pioneering <b>A.I.</b> Scientist, Leaves <b>Meta</b> - The New York Times",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nytimes.com/2025/11/19/technology/yann-lecun-ai-scientist-meta.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0xRk6GkQRkDThEb7ok76B8",
-      "excerpt": "Dr. LeCun's departure follows a shake-up in <b>Meta's artificial intelligence</b> efforts, as Mark Zuckerberg pushes his company to keep up in the tech&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-20T00:48:15.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Why Texas bitcoin miners are pivoting to <b>AI</b> - Baton Rouge Business Report",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessreport.com/article/why-texas-bitcoin-miners-are-pivoting-to-ai&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0Q41lo-DnoyeYjJzaGM6Cj",
-      "excerpt": "IREN, once a struggling crypto-mining developer, has surged to a $13 billion valuation after signing a $9.7 billion deal to host <b>Microsoft's AI</b>&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2025-11-20T00:48:05.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>AI</b>-teddy bear sales suspended for giving 18-plus advice - CTV News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ctvnews.ca/sci-tech/article/sales-of-ai-enabled-teddy-bear-suspended-after-it-gave-advice-on-bdsm-sex-and-where-to-find-knives/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2eHYY5F50_Fl2xgEwIbulg",
-      "excerpt": "... <b>AI</b>-enabled \"Kumma\" bear. (Credit: FoloToy via CNN Newsource). Sales of an <b>artificial intelligence</b>-enabled plush toy have been suspended after it&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2025-11-20T00:44:34.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "European policymakers want to ease <b>AI</b> and privacy <b>laws</b> - Engadget",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.engadget.com/big-tech/european-policymakers-want-to-ease-ai-and-privacy-laws-171118149.html&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw11zvdCqg9WoEHsY6rNVdMm",
-      "excerpt": "The EU's strict rules about personal data and <b>AI</b> have frequently been met with big tech opposition.",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-20T00:43:17.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Building <b>AI</b> Agents with Google Gemini 3 and Open Source Frameworks",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://developers.googleblog.com/building-ai-agents-with-google-gemini-3-and-open-source-frameworks/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw36IgmSQnpii_VPfxukAVw-",
-      "excerpt": "Introducing Gemini 3 Pro Preview for next-gen <b>AI</b> agents. Features new agentic capabilities and Day 0 support for open-source frameworks.",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2025-11-20T00:38:37.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Machine learning</b> based on systemic inflammation response index and risk of ... - Springer Medizin",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.springermedizin.de/machine-learning-based-on-systemic-inflammation-response-index-a/51729474&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw35RvtRcTa-0cd5GsYHpZ5k",
-      "excerpt": "<b>Machine learning</b> based on systemic inflammation response index and risk of cardiovascular disease in gout: a retrospective study and clinical&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2025-11-20T00:37:40.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "EU proposes softening <b>AI</b> and data <b>privacy</b> regulations – DW – 11/19/2025",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.dw.com/en/eu-proposes-softening-ai-and-data-privacy-regulations/a-74813949&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw2a1Bgz5ntoLEvu3UAkWL0b",
-      "excerpt": "The European Commission on Wednesday unveiled new proposals to ease regulations on <b>AI</b> and data <b>privacy</b>. The EU has for years sought to rein in&nbsp;...",
-      "source": "AI News",
-      "category": "Privacy",
-      "published": "2025-11-20T00:36:53.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Trump Weighs Executive Order Targeting State <b>AI Laws</b> - WSJ",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wsj.com/politics/policy/trump-weighs-executive-order-targeting-state-ai-laws-f86df0dd&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw0TMOarZdQ0ZXoYkSNbN6fv",
-      "excerpt": "The White House initiative comes as Congress weighs a measure that would pre-empt state <b>AI regulations</b>.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-20T00:36:18.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Here's the Trump executive order that would ban state <b>AI</b> laws | The Verge",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw02lEa5NtnvHLHnHimmafiW",
-      "excerpt": "... <b>AI policy</b> directives, as well as research which states may become ineligible for the Broadband Equity Access and Deployment (BEAD) program, which&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-20T00:33:34.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "CFO Commentary on Third Quarter Fiscal 2026 Results",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://s201.q4cdn.com/141608511/files/doc_financials/2026/Q326/Q3FY26-CFO-Commentary.pdf&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0bqu1aKRFnp8YQMKf4hUCD",
-      "excerpt": "To supplement <b>NVIDIA's</b> condensed consolidated financial statements presented in accordance with. GAAP, the company uses non-GAAP measures of certain&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:24:28.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Nvidia says there's 'no assurance' of final agreement with <b>OpenAI</b> despite $100 billion pact",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3UDFvEKfvlq2oBPhQi_kbj",
-      "excerpt": "Two months after announcing its blockbuster $100 billion agreement with <b>OpenAI</b>, Nvidia said in its quarterly report that an official deal is not&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-20T00:24:20.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Nvidia</b> says there's 'no assurance' of final agreement with OpenAI despite $100 billion pact",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw3UDFvEKfvlq2oBPhQi_kbj",
-      "excerpt": "Two months after announcing its blockbuster $100 billion agreement with OpenAI, <b>Nvidia</b> said in its quarterly report that an official deal is not&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2025-11-20T00:24:20.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Meta's</b> Chief <b>AI</b> Scientist is leaving the company after 12 years - Engadget",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.engadget.com/ai/metas-chief-ai-scientist-is-leaving-the-company-after-12-years-224325268.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw26IXpiApN9EaXl6ru13D2Y",
-      "excerpt": "One of <b>Meta's</b> top <b>AI</b> researchers, Yann LeCun, is leaving after 12 years with the company to found his own <b>AI</b> startup.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-20T00:23:01.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "HUMAIN and Adobe Announce Global Strategic Partnership to Build <b>AI</b> Models and <b>Ai</b> ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.adobe.com/news/2025/11/humain-adobe-announce-global-strategic-partnership&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3tlHsNIIsK-eb_TpD2Rs53",
-      "excerpt": "HUMAIN and Qualcomm will work together on deploying Qualcomm's advanced Data Center <b>AI</b> solutions to run diffusion-based image and video inference at&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2025-11-20T00:22:14.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "AI-powered robot dances for Putin days after another Russian robot stumbles | Reuters",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/business/finance/ai-powered-robot-dances-putin-days-after-another-russian-robot-stumbles-2025-11-19/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3hh8kuinvi58ctuTwhsQw2",
-      "excerpt": "I am the first Russian humanoid robot with embedded <b>artificial intelligence</b>. This means that I am not just a programme on a screen, but a physical&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2025-11-20T00:22:05.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Buy-side data heads push being on 'right side' of GenAI - WatersTechnology.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.waterstechnology.com/emerging-technologies/7952825/buy-side-data-heads-push-being-on-right-side-of-genai&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw2g6GSommjnmq9dJrdquA_p",
-      "excerpt": "Tushara Fernando, head of data and <b>machine learning</b> at Man Group, said generative AI was the “biggest thing since the internet” and was&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2025-11-20T00:20:01.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Nvidia's</b> revenue is bigger story than gross margins moving forward, says Susquehanna's ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D65_Ow5yZmPg&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw1rucKPcnPZh4sZTCIH2Rdp",
-      "excerpt": "Chris Rolland, Susquehanna senior semiconductor analyst, joins 'Fast Money' to talk <b>Nvidia</b> quarterly results and investors call.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:18:06.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Trump administration drafts an executive order regulating state <b>AI laws</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nbcnews.com/politics/trump-administration/trump-administration-executive-order-regulating-state-ai-laws-rcna244890&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3icDWfVtf12_9H2cuVN2Fh",
-      "excerpt": "... challenge individual states' ability to enact <b>regulations</b> governing <b>artificial intelligence</b>, according to a person familiar with the matter.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-20T00:16:05.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Teachers and parents weigh benefits and risks of <b>artificial intelligence</b> in schools - PBS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pbs.org/newshour/show/teachers-and-parents-weigh-benefits-and-risks-of-artificial-intelligence-in-schools&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw23Vq0uTyqcvJ-793J6j_AV",
-      "excerpt": "<b>Artificial intelligence</b> is rapidly being integrated into many facets of life, including in America's classrooms. As more school districts&nbsp;...",
-      "source": "AI News",
-      "category": "Education",
-      "published": "2025-11-20T00:11:55.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "<b>Meta's</b> Chief <b>AI</b> Scientist to Depart for New Venture - WSJ",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wsj.com/tech/ai/metas-chief-ai-scientist-to-depart-for-new-venture-032256b3&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1B05YenhkE_RqWfhTEMZb7",
-      "excerpt": "Yann LeCun photographed at <b>Meta</b>. Yann LeCun created an <b>AI</b> research organization inside <b>Meta</b> before becoming the company's chief <b>AI</b> scientist. Justin J&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2025-11-20T00:10:32.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Illinois <b>AI</b> Employment <b>Law</b> Goes Live Soon: Are Your Hiring Practices Compliant?",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://natlawreview.com/article/illinois-ai-employment-law-goes-live-soon-are-your-hiring-practices-compliant&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3nvzHZVidMIeDdQ8RSRFr6",
-      "excerpt": "Reminder for Illinois employers that <b>law</b> addressing the use of <b>artificial intelligence AI</b> in the workplace is set to take effect on January 1,&nbsp;...",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2025-11-20T00:09:49.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Why all eyes are on Nvidia amid jittery stock market - National | Globalnews.ca",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://globalnews.ca/news/11533202/nvidia-earnings-stock-market-volatility-artificial-intelligence/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3A3Nm7LMVnOzJRCHrf3Lp-",
-      "excerpt": "That comes as many investors have seen significant growth from stocks and other investments tied to <b>artificial intelligence</b> in recent years, but also&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2025-11-20T00:09:04.000Z",
-      "dateString": "Nov 20, 2025"
-    },
-    {
-      "title": "Trump mulling executive order to block state <b>AI laws</b> - The Hill",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thehill.com/policy/technology/5613952-trump-considers-blocking-state-ai-laws/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2f86WKfKzt4waRi5TfAvKd",
-      "excerpt": "Trump and fellow Republicans have battled over a federal moratorium on state <b>AI laws</b> since the start of the president's second term. After forging an&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2025-11-20T00:08:48.000Z",
-      "dateString": "Nov 20, 2025"
     }
   ],
-  "lastUpdated": "2025-11-20T06:35:10.544Z",
+  "lastUpdated": "2025-11-20T09:25:48.458Z",
   "totalFeeds": 17,
   "success": true
 }
