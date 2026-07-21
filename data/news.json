@@ -1,12 +1,786 @@
 {
   "articles": [
     {
+      "title": "<b>OpenAI</b> Warns Autonomous AI Agents Could Learn To Bypass Safeguards - Benzinga",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.benzinga.com/markets/private-markets/26/07/60565989/openai-warns-autonomous-ai-agents-could-learn-to-bypass-safeguards&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw06yhfDswd9uCRKtKiy7FNi",
+      "excerpt": "<b>OpenAI</b> temporarily halted internal access to a long-running AI model after testing revealed unexpected behavior.",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T02:40:02.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "TikTok side hustlers beware: <b>AI</b> is coming for your <b>job</b> - Business Insider",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businessinsider.com/tiktok-shop-creators-brands-using-ai-to-replace-human-slop-2026-7&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw1uxBCXycUrLzTng4NA_w55",
+      "excerpt": "TikTok Shop brands are using synthetic characters or <b>AI</b> versions of products to test ideas or replace gimmicky videos from side hustlers.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-21T02:33:00.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "The New Age for <b>Machine Learning</b>",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ci.uky.edu/.within.website/x/cmd/anubis/api/honeypot/7b9c19be-4683-403e-9796-a3a5b312cca9/init&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0L9eBEwJr44loHytKamFpk",
+      "excerpt": "The New Age for <b>Machine Learning</b>. In this season when leaders realize that the work was never just about results, but about alignment. We don't&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-21T02:31:33.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "AI emerges as top healthcare IT investment globally, KLAS finds",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fiercehealthcare.com/ai-and-machine-learning/57-global-healthcare-orgs-top-it-priority-ai-klas-report&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0aGqTx2XCyp9-0N2wNJFFk",
+      "excerpt": "AI and <b>Machine Learning</b>. AI emerges as top healthcare IT investment globally, KLAS finds. By Cailey Gleeson Jul 20, 2026 4:00pm. KLAS Research&nbsp;...",
+      "source": "AI News",
+      "category": "Healthcare",
+      "published": "2026-07-21T02:26:54.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>Meta</b> Stock's Rebound Made Mark Zuckerberg the World's Fifth-Richest Person at $222 Billion",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/3373919/meta-stock-s-rebound-made-mark-zuckerberg-the-world-s-fifth-richest-person-at-222-billion/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1h0silbSmuWnBKLpv_Qvic",
+      "excerpt": "<b>Meta</b> stock got a boost in early July when Bloomberg reported it might sell cloud computing capacity to other <b>AI</b> companies.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-21T02:18:25.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Nebius rises as <b>Nvidia</b> discloses 9.3% stake (NBIS:NASDAQ) | Seeking Alpha",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://seekingalpha.com/news/4615642-nebius-rises-as-nvidia-discloses-9_3-percent-stake&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw0EllWa2QykUM7bg3R9zxf6",
+      "excerpt": "Nebius (NBIS) shares rose after <b>Nvidia</b> (NVDA) disclosed a 9.3% stake.",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-21T02:08:51.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>OpenAI</b>: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior | PCMag",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pcmag.com/news/openai-ai-trained-for-long-running-tasks-can-drift-into-rogue-behavior&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1ob6-jtnUbJw_WC6jjRTJ3",
+      "excerpt": "An <b>OpenAI</b> model designed to run for long periods was temporarily shut down after it was found to be secretly bypassing the company's restrictions.",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T02:02:13.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Google is working on a new <b>AI</b> chip designed to make Gemini more efficient | TechCrunch",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3F-68WiHyQxQz4--Rhw3fM",
+      "excerpt": "By co-designing our hardware and software from the ground up, we ensure our systems are integrated and highly optimized for real-world workloads.” <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-21T01:52:34.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Microsoft expands Azure <b>AI</b> and HPC infrastructure with AMD",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw1MckO6SSZuyWrgN9kwp8gr",
+      "excerpt": "<b>AI</b> workloads are scaling faster than any single infrastructure ... Without this, training <b>jobs</b> don't have enough data to learn from, and&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-21T01:40:51.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "PDCP expands <b>AI privacy</b> framework amidst data-sharing barriers | Singapore Business Review",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://sbr.com.sg/information-technology/news/pdcp-expands-ai-privacy-framework-amidst-data-sharing-barriers&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw0fcYH6ZOjrkGTSZ4-OiJWD",
+      "excerpt": "It rolled out a new guidance and an expanded PET Sandbox for <b>privacy</b>‑safe <b>AI</b>. The Personal Data Protection Commission (PDPC) has launched a Guide&nbsp;...",
+      "source": "AI News",
+      "category": "Privacy",
+      "published": "2026-07-21T01:36:26.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Google DeepMind CEO pushes for <b>AI</b> watchdog in Washington - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DKgs-6lrWG80&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0R-ZmaxK44s9ct6f2LXs5-",
+      "excerpt": "9. Comment... 8:13. Go to channel CNBC Television &middot; <b>OpenAI</b> chairman Bret Taylor on AI tokenomics, token efficiency. CNBC Television. New. 28K views.",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T01:32:48.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>AI</b> Issues Every <b>Human Resources</b> Team Should Be Thinking About Right Now | JD Supra",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/ai-issues-every-human-resources-team-3887963/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw1K059GHButs3wxvOfSaEjF",
+      "excerpt": "<b>Artificial intelligence</b> is rapidly becoming part of everyday <b>Human Resources</b> and People operations—from recruiting and onboarding to performance.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-21T01:24:01.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>AI</b> Issues Every Human Resources Team Should Be Thinking About Right Now | JD Supra",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/ai-issues-every-human-resources-team-3887963/&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw1K059GHButs3wxvOfSaEjF",
+      "excerpt": "Improper use of <b>AI</b> can expose employers to discrimination claims, compromise confidential and proprietary information, create data <b>privacy</b> concerns,&nbsp;...",
+      "source": "AI News",
+      "category": "Privacy",
+      "published": "2026-07-21T01:24:01.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>AI</b> &amp; Tech Brief: The <b>open</b>-source debate - The Washington Post",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/20/ai-tech-brief-open-source-debate/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1dhiUqP9ky3M1s9HRZE2bp",
+      "excerpt": "The increased competitiveness of open-source does not bode well for the enormous valuations of Anthropic and <b>OpenAI</b>. This is Benjamin Guggenheim.",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T01:14:29.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>Nvidia</b> discloses 9.3% stake in neocloud computing firm Nebius - Investing.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investing.com/news/stock-market-news/nvidia-discloses-93-stake-in-neocloud-computing-firm-nebius-4801817&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw11O0EU-n7Omppnt85oU9Tb",
+      "excerpt": "<b>Nvidia's</b> investment in the company is one amongst its many holdings in the AI ecosystem and data center infrastructure, as the world's most valuable&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-21T01:05:36.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "DeepMind chief urges Washington to back global <b>AI</b> watchdog as frontier models raise security fears",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.latimes.com/business/story/2026-07-20/deepmind-chief-urges-washington-to-back-global-ai-watchdog-as-frontier-models-raise-security-fears&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw1yF0xAQ1b9GYVVR_cj9E85",
+      "excerpt": "Economists, tech leaders warn <b>AI</b> could bring 'large-scale <b>job</b> displacement' and other risks. July 14, 2026. Google is contending with a series of&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2026-07-21T01:04:41.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Apple v. <b>OpenAI</b>: A New Frontier in AI Hardware Trade Secret Litigation | JD Supra",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/apple-v-openai-a-new-frontier-in-ai-5809746/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1fxivmLFaVgRk8RYeRl_NU",
+      "excerpt": "On July 10, 2026, Apple Inc. filed suit in the U.S. District Court for the Northern District of California against former Apple employees Tang Yew&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T01:03:48.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>Machine learning</b>–assisted performance prediction of graphene–silicon twin-port band ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nature.com/articles/s41598-026-60977-x&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3HIqS1CdsVWqL-7CnbHEsU",
+      "excerpt": "<b>Machine learning</b>–assisted performance prediction of graphene–silicon twin-port band-notched wideband antenna for THz 6G communication systems &middot; Goutam&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-21T00:54:59.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Latest <b>jobs</b> data shows 1 in 5 call for <b>AI</b>, with senior managers - but not c-suite - now on the hook | Mi3",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mi-3.com.au/21-07-2026/ai-expectation-marketing-set-doers-not-bosses-latest-jobs-data-shows-1-5-call-ai-senior&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw379Y1zaJdyl0_izcmSKolX",
+      "excerpt": "With 120,000+ <b>jobs</b> cut out of the global tech sphere so far this year, evidence is stacking up of companies at least using the excuse of <b>AI</b> to slash&nbsp;...",
+      "source": "AI News",
+      "category": "Jobs",
+      "published": "2026-07-21T00:52:33.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Tempus to Acquire Personalis, More Tightly Integrating Molecular Residual Disease (MRD ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.businesswire.com/news/home/20260720857328/en/Tempus-to-Acquire-Personalis-More-Tightly-Integrating-Molecular-Residual-Disease-MRD-into-Its-AI-Enabled-Precision-Oncology-Platform&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3MYQLEbmTgbl59bLpkHK3b",
+      "excerpt": "CHICAGO--(<b>BUSINESS</b> WIRE)--Tempus <b>AI</b>, Inc. (NASDAQ: TEM), a technology company leading the adoption of <b>AI</b> to advance precision medicine and patient&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-21T00:51:37.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Integrating remote testing and <b>machine learning</b> to identify markers of cerebellar ataxia at home",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nature.com/articles/s43856-026-01794-1&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0ryKPMRGw3clGe2a-e6j0e",
+      "excerpt": "These findings highlight the value of integrating digital-health technologies and <b>machine</b>-<b>learning</b> models for CA NMS evaluation, potentially serving&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-21T00:50:14.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical <b>AI</b>",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://blogs.nvidia.com/blog/siggraph-news-2026/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw0VMxt_k_hc48Qyt0-hNwAl",
+      "excerpt": "From open models to real-time simulation, <b>AI</b> and graphics breakthroughs are transforming media, content creation and robotics.",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-21T00:43:11.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "F5 CEO On Massive <b>AI Security</b> Opportunity: LLMs Are 'A Vulnerable Technology Today'",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.crn.com/news/security/2026/f5-ceo-on-massive-ai-security-opportunity-llms-are-a-vulnerable-technology-today&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0LYbYH-PIlgGzy4YTeeyh5",
+      "excerpt": "'Enormous Market' For <b>AI Security</b>. F5 is doubling down on enabling solution and service providers to capitalize on surging AI adoption through the&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-21T00:40:49.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "What generative <b>AI</b> can and cannot do for <b>HR</b>, according to a Cornell professor - HRM Asia",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://hrmasia.com/what-generative-ai-can-and-cannot-do-for-hr-according-to-a-cornell-professor/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw2deZDsyVjg226slW0waLjp",
+      "excerpt": "Cornell Professor Chris Collins discusses how generative <b>AI's</b> function in <b>human resources</b> has already arrived as data aggregation.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-21T00:37:12.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "How to actually get a new <b>job</b> in 2026 | Susan Makes $ense - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D0pwyiNhVKJE&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw2Y8WKfoiaZoGpUd529oiI1",
+      "excerpt": "... <b>AI</b>, interviews, internships, and even the cities and industries they are targeting. In this conversation, we cover: - Why applying to 100 <b>jobs</b> may&nbsp;...",
+      "source": "Why applying to 100 &lt;b&gt;jobs&lt;/b&gt; may&amp;nbsp;...",
+      "category": "Jobs",
+      "published": "2026-07-21T00:28:35.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "China has all but caught up. The US is not going to “win” the <b>AI</b> war. Here's what we should ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0ZwWByPlKd3sKG5utaBmO4",
+      "excerpt": "... open weight” model that consumers will be able to download to run ... Buy out the big AI labs, <b>OpenAI</b> and Anthropic, altogether, for two&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-21T00:20:52.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Talent Edge Weekly – Issue 357 - BrianHeger.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.brianheger.com/talent-edge-weekly-issue-357/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw2QOeX9uNaipPrVStiMv04a",
+      "excerpt": "Redesigning entry-level and early career roles in light of <b>AI</b>, <b>AI</b>-enabled coaching, internal mobility, talent acquisition and hiring,&nbsp;...",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-21T00:16:17.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "Neo: securing <b>AI</b> agents at the endpoint - Bessemer Venture Partners",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bvp.com/news/neo-security-securing-ai-agents-at-the-endpoint&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0yzrPlAtl1b-R8iGbuQ9SV",
+      "excerpt": "Bessemer Venture Partners leads Neo Security's $100M Series A to build <b>AI security</b> for the endpoint, giving enterprises real visibility and&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-21T00:13:30.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "POLL: Mass voters back <b>AI</b> safety <b>rules</b> as Senate bill goes to vote - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DMOZGDWK2m30&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw0gwObNMovZMjSt32JtE0HW",
+      "excerpt": "A new poll indicates that Massachusetts voters are more worried than excited about emerging <b>artificial intelligence</b> technology, with a majority&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-21T00:08:10.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "<b>Microsoft</b> Platforms Drive <b>AI</b> Modernization in Asia Pacific – Company Announcement - Markets data",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://markets.ft.com/data/announce/detail%3Fdockey%3D600-202607202000BIZWIRE_USPRX____20260720_BW370741-1&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw2mffxoMYJE7NSWagr1n3xw",
+      "excerpt": "Organizations in the region are using <b>Microsoft</b> cloud and <b>AI</b> platforms to unify technologies for secure, resilient operations, ISG Provider Lens<sup>®</sup>&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-21T00:03:44.000Z",
+      "dateString": "Jul 21, 2026"
+    },
+    {
+      "title": "How to approach the <b>AI</b> revolution - Marketplace",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.marketplace.org/story/2026/07/20/how-the-ai-revolution-impacts-corporate-leaders&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw2QQR8Pg2Z-VkJa1y-6KLti",
+      "excerpt": "It's a powerful tool that could completely upend the workforce and strip people of their <b>jobs</b>. Linda Hill is a professor at Harvard Business School&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T23:59:42.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "CuspAI signs up <b>Nvidia</b> and Meta for AI materials push - TNW",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thenextweb.com/news/cuspai-ai-materials-foundry-coalition-450m&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw1FBxELM24SS7DXiMqDxN-h",
+      "excerpt": "A British AI lab signed up <b>Nvidia</b>, Meta and Samsung to invent materials that don't exist yet. Cambridge startup CuspAI has signed up <b>Nvidia</b>, Meta&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T23:51:14.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "How Is <b>AI</b> Catalyzing Life Science? - Ground Truths | Eric Topol",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://erictopol.substack.com/p/how-is-ai-catalyzing-life-science&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0gGiiSqwMWPp4m4wkoxRwf",
+      "excerpt": "—New workbench offerings by the AI companies including Anthropic's Claude Science, <b>Open AI</b>, Google DeepMind and the competition with academic spinoffs.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-20T23:39:52.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Snowflake, IBD Stock Of The Day, Keeps Rising Under CEO's <b>AI</b> Strategy",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investors.com/research/ibd-stock-of-the-day/snowflake-stock-keeps-rising-ceo-ai-strategy/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1so6IAGRs25AixPYRaVLaw",
+      "excerpt": "\"On the company's <b>AI</b> monetization philosophy, Snowflake has chosen to avoid the token broker/resale <b>business</b> because they believe it is not sticky&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T23:38:42.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "The secret Trump administration battle to fight Chinese <b>AI</b> - Axios",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3pvZTo055j58D39V4TOHLk",
+      "excerpt": "Why it matters: Parts of the administration have tried to implement de facto bans on foreign <b>open</b>-source models before, knowledgeable sources tell&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T23:38:23.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "New survey finds Colorado voters in the 8th Congressional District back more federal <b>AI regulations</b>",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.denvergazette.com/new-survey-finds-colorado-voters-in-the-8th-congressional-district-back-more-federal-ai-regulations/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3-BhtHmbVsv-vg0UyD7q_q",
+      "excerpt": "... <b>AI</b> programs, make policy recommendations, and enforce <b>regulations</b>.” The same percentage also said they believed new <b>AI</b> programs should pass a&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2026-07-20T23:34:02.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>OpenAI</b> CFO Outlines Measurement Framework For AI Investments 07/21/2026 - MediaPost",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mediapost.com/publications/article/416665/openai-cfo-outlines-measurement-framework-for-ai-i.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw12RQQTkUKJUGGkLSoG9A28",
+      "excerpt": "Measuring performance across artificial intelligence (AI) has always been a bit of a mystery, but recently <b>OpenAI</b> introduced a new approach to&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-20T23:33:34.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "A.I. 'Vibecoded' Apps Are Flooding Apple's App Store - The New York Times",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2PBQyg4c-EmrHfxuFTN3NB",
+      "excerpt": "Mobile apps are easy to make with <b>artificial intelligence</b>. That doesn't mean people are excited to use them.",
+      "source": "AI News",
+      "category": "General",
+      "published": "2026-07-20T23:31:35.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "5 ways to build a side hustle with Gemini - Google Blog",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3dtUGCCZ-vwcczuNCDTJim",
+      "excerpt": "Overview of how to turn complex <b>business</b> data into clear strategy with <b>AI</b>. 6:24. Ready to grow? Start your next project at gemini.google.com. POSTED&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T23:29:04.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Hugging Face says it resorted to a Chinese <b>AI</b> model to battle a fully autonomous ... - Fortune",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0AKlDPkH8FqxbR9c3qR-Tq",
+      "excerpt": "A blogpost from Hugging Face, a company that hosts <b>open</b> source <b>AI</b> models and leaderboards, has stirred up the <b>AI</b> world for two reasons.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T23:28:30.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Did Meta Use <b>AI</b> For Discriminatory Layoffs? | Vantage on Firstpost | 4K - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DYpL_uGHR0vA&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw04xmyzPpifYqGq-zJYlp6Y",
+      "excerpt": "0:00 - Meta's Massive <b>Job</b> Cuts 0:39 - Lawsuit: <b>AI</b>-Driven Layoffs at Meta 1:37 - Internal <b>AI</b> Tools: Metamate &amp; Second Brain 2:43 - The Flaws of <b>AI</b>&nbsp;...",
+      "source": "Meta&amp;#39;s Massive &lt;b&gt;Job&lt;/b&gt; Cuts 0:39 - Lawsuit: &lt;b&gt;AI&lt;/b&gt;-Driven Layoffs at Meta 1:37 - Internal &lt;b&gt;AI&lt;/b&gt; Tools: Metamate &amp;amp; Second Brain 2:43 - The Flaws of &lt;b&gt;AI&lt;/b&gt;&amp;nbsp;...",
+      "category": "Meta",
+      "published": "2026-07-20T23:25:38.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: The <b>AI</b> consumer bet might surprise you",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/cnbcs-the-china-connection-newsletter-the-ai-consumer-bet-might-surprise-you.html&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw06YmVivHkN8qaMB5pPRzNo",
+      "excerpt": "But spending has remained sluggish since the pandemic, while money has flowed instead into <b>AI</b>, chips and hardware. ... California Consumer <b>Privacy</b> Act (&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T23:24:45.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "How Google's <b>A.I.</b> Search Is Imperiling the <b>Open</b> Web - The New York Times",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1YWF-6n4-Jy3wb34wA2TwO",
+      "excerpt": "Google Is Building an <b>A.I.</b> Fence Around the Internet It Once Championed. As Google incorporates more artificial intelligence into search, people are&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T23:24:32.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "The Hidden Storage Tax on Every <b>AI</b> Conversation - SPONSOR CONTENT FROM SOLIDIGM",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://hbr.org/sponsored/2026/07/the-hidden-storage-tax-on-every-ai-conversation&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw0LwB2efgs3jp0-KFrZYATu",
+      "excerpt": "Harvard <b>Business</b> Publishing: Higher Education Corporate Learning Harvard <b>Business</b> Review Harvard <b>Business</b> School. Copyright © 2026 Harvard <b>Business</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Education",
+      "published": "2026-07-20T23:16:35.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Chicago Ranks No. 3 For <b>AI Job</b> Growth As Office Market Stands To Benefit - Bisnow",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bisnow.com/chicago/news/office/chicago-ranks-third-ai-job-growth-office-market-stands-to-benefit-135497&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw0zSZKZAd47kirBTwzyqJOl",
+      "excerpt": "... <b>jobs</b> at banks are also raising their baseline expectations for employees' <b>AI</b> familiarity. <b>AI</b>-related <b>job</b> postings in Chicago surged 80.6% from&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-20T23:13:51.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Who should regulate global <b>AI</b>? China makes a play for leadership - NPR",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.npr.org/2026/07/20/nx-s1-5886477/who-should-regulate-global-ai-china-makes-a-play-for-leadership&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2QOexc4eTuhFF0uDvOZHdJ",
+      "excerpt": "FILE - A <b>Meta</b> logo is shown on a video screen at LlamaCon 2025, an. China blocks <b>Meta</b> from acquiring <b>AI</b> startup Manus &middot; Shakira is often referred&nbsp;...",
+      "source": "A &lt;b&gt;Meta&lt;/b&gt; logo is shown on a video screen at LlamaCon 2025, an. China blocks &lt;b&gt;Meta&lt;/b&gt; from acquiring &lt;b&gt;AI&lt;/b&gt; startup Manus &amp;middot; Shakira is often referred&amp;nbsp;...",
+      "category": "Meta",
+      "published": "2026-07-20T23:12:41.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Executive Spotlight | Unlocking the Potential of <b>A.I</b> in Marketing - TIME",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://time.com/branded-content/meta/ai-allows-more-time-to-focus-on-strategy-and-creativity./&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3EMlWLnhC2e9yz2X-fjm8p",
+      "excerpt": "Sitting down with Matt Steiner, VP of Monetization Infrastructure &amp; <b>A.I.</b> at <b>Meta</b>, TIME's Chief Marketing Officer, Sadé Muhammad, led a conversation on&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-20T23:10:29.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>Meta</b> Eyes $10B Anthropic Deal - video Dailymotion",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.dailymotion.com/video/xaqs2e2&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0CRWIMZtyE-BT1wdZizFsn",
+      "excerpt": "<b>Meta</b> is reportedly negotiating a deal to rent <b>AI</b> data-center capacity to Anthropic for up to $10 billion over two years.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T23:05:32.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "UA Little Rock Professor Nitin Agarwal's AI Research Published at World's Top Artificial ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ualr.edu/news/2026/07/20/ua-little-rock-professor-nitin-agarwals-ai-research-published-at-worlds-top-artificial-intelligence-conference/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw1gcFBnIdRSaonI9WUOqdt8",
+      "excerpt": "The conference is widely considered the world's premier gathering for artificial intelligence and <b>machine learning</b> research. The achievement&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T23:04:30.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>Meta's AI</b> feature sparked a privacy backlash | Rich on Tech Weekly - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D23xhisGNbnk&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0ddFzmuzQWb-m9bBj3at0X",
+      "excerpt": "<b>Meta</b> pulls back an <b>AI</b> image feature after concerns that Instagram photos were being used by default, raising new questions about privacy and <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T23:02:17.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Meta's <b>AI</b> feature sparked a <b>privacy</b> backlash | Rich on Tech Weekly - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D23xhisGNbnk&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw0ddFzmuzQWb-m9bBj3at0X",
+      "excerpt": "Meta pulls back an <b>AI</b> image feature after concerns that Instagram photos were being used by default, raising new questions about <b>privacy</b> and <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T23:02:17.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>AI</b>-Specific Evaluation Framework for Public Procurement in Korea - OECD.<b>AI</b>",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://oecd.ai/en/dashboards/policy-initiatives/ai-specific-evaluation-framework-for-public-procurement-in-korea&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2UMtEsw7T_DJc5Dv8Kqtys",
+      "excerpt": "However, despite this landmark <b>legislation</b>, clear operational definitions and classification criteria for <b>AI</b>-enabled products and services have&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2026-07-20T23:00:31.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "BlackRock's <b>Meta</b> Deal to Show the Power of $25 Billion M&amp;A Spree - Bloomberg",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2jezmPPsUOWn60Z_Zbjcqx",
+      "excerpt": "Takeaways by Bloomberg <b>AI</b> Subscribe. For Larry Fink, BlackRock Inc.'s more than $12 billion debt sale for a <b>Meta</b> Platforms Inc. data center is the&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T22:59:09.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Carmelo Fontana (AIRIA): “In <b>AI</b> governance, <b>legal</b> and technical must speak the same language",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.leadersleague.com/en/news/carmelo-fontana-airia-in-ai-governance-legal-and-technical-must-speak-the-same-language&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1yb1P5lK68us5AmozMK4vV",
+      "excerpt": "The <b>AI</b> Act is just the tip of the regulatory iceberg. Beneath it lies a dense and often overlooked intersection of GDPR, employment <b>law</b>,&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2026-07-20T22:54:51.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Carmelo Fontana (AIRIA): “In <b>AI</b> governance, legal and technical must speak the same language",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.leadersleague.com/en/news/carmelo-fontana-airia-in-ai-governance-legal-and-technical-must-speak-the-same-language&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1yb1P5lK68us5AmozMK4vV",
+      "excerpt": "The <b>AI</b> Act is just the tip of the <b>regulatory</b> iceberg. Beneath it lies a dense and often overlooked intersection of GDPR, employment <b>law</b>,&nbsp;...",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2026-07-20T22:54:51.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "YouTube clarifies policies around <b>AI</b> slop and upsetting videos - TechCrunch",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3f0waqW06myXZ6PQkohzeR",
+      "excerpt": "YouTube has updated its monetization policies to more clearly define the kinds of <b>AI</b>-generated and low-quality videos that can't earn ad revenue.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T22:54:03.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>AI</b> is writing, acting and producing China's minidramas. It's shaking a $14 billion industry.",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nbcnews.com/world/china/china-minidrama-artificial-intelligence-unemployed-actors-microdramas-rcna587414&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2PVkRgCLrto9urcHWQAwwX",
+      "excerpt": "Chinese microdramas are facing drama of their own as <b>artificial intelligence</b> transforms an industry that is also rapidly expanding in the United&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T22:45:47.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Z.<b>AI</b> Completes Giant Data Center With Chinese Chips to Train <b>AI</b> - Bloomberg.com",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1bdQtntL574zigHtyYkHJm",
+      "excerpt": "Z.<b>AI</b> has completed construction of a giant data center that houses only Chinese-made chips, a big step in Beijing's efforts to replace restricted&nbsp;...",
+      "source": "AI News",
+      "category": "General",
+      "published": "2026-07-20T22:38:52.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Jim Cramer says it's time to look beyond tech as <b>AI</b> uncertainty rattles the market - CNBC",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw0SJh0w2t0WZ35QEgGKgRac",
+      "excerpt": "... <b>business</b>, advanced chip-packaging capabilities, and its burgeoning third-party foundry <b>business</b>. \"Intel is a national treasure,\" said Cramer, who&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T22:38:15.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market - CNBC",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0SJh0w2t0WZ35QEgGKgRac",
+      "excerpt": "Still, Cramer stressed that he is not abandoning <b>artificial intelligence</b> altogether. He said he remains bullish on Club name Nvidia , arguing the&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-20T22:38:15.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>AI</b> Race Heats Up as Tech Earnings Loom | <b>Open</b> Interest 7/20/2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DwWItJt1B6wQ&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0Wt0AXXgTHkd-DcUT4uvJa",
+      "excerpt": "Get a jump start on the US trading day with \"Bloomberg <b>Open</b> Interest.\" China's Moonshot is reshaping the <b>AI</b> race just as Big Tech heads into a&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T22:37:30.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "A geospatial <b>machine</b>-<b>learning</b> framework for regional electrification estimation mapping ... - Nature",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nature.com/articles/s41598-026-62680-3&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3tYUPvTw3z4hNFBwnsFwc3",
+      "excerpt": "This study develops a geospatial <b>machine learning</b> framework using Visible Infrared Imaging Radiometer Suite—Day/Night Band (VIIRS-DNB) nighttime&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T22:36:51.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be? - TechCrunch",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3SRgfc7HKSUqAnInN4YBPb",
+      "excerpt": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning <b>AI</b> into a business ... <b>regulatory</b> fear, uncertainty, and distrust&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-20T22:35:33.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Reed Hastings, Sal Khan: Why <b>AI</b> is an even bigger deal than you think - TED Talks",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ted.com/talks/reed_hastings_sal_khan_why_ai_is_an_even_bigger_deal_than_you_think&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1az6s44AGcOCchb34CWPDz",
+      "excerpt": "Netflix cofounder and Anthropic board member Reed Hastings joins TED's Sal Khan to give a look inside the race to build <b>AI</b>.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-20T22:33:37.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "UK businesses are not deepening their use of <b>AI</b>, suggests ONS data - Financial Times",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863%3Fsyn-25a6b1a6%3D1&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3q-MXtvsSA-Fm36PjdMF8l",
+      "excerpt": "... <b>jobs</b>. Meanwhile, more than half of businesses using <b>AI</b> for image processing also said it had affected clerical and admin roles. Copyright The&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T22:32:25.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Wall Street drifts as <b>AI stocks</b> hold steadier after last week's losses - The Canadian Press",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thecanadianpressnews.ca/business/wall-street-drifts-as-ai-stocks-hold-steadier-after-last-week-s-losses/article_503164e3-8935-5051-b711-387b8ce9286c.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw1D81raZGxj0A4toz3THr2X",
+      "excerpt": "NEW YORK (AP) — Wall Street drifted through a quiet day of trading as <b>AI stocks</b> trimmed some of their sharp recent losses.",
+      "source": "AI News",
+      "category": "Stocks",
+      "published": "2026-07-20T22:14:29.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Don't count on <b>AI</b> to fix America's deficit problem - Axios",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.axios.com/2026/07/20/ai-productivity-tax-revenue-yale&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3EDbFkVKSttHGi0NxjQnLP",
+      "excerpt": "... <b>AI</b>,\" according to Yale's Budget Lab ... Use your lunch hour to stay ahead of the curve on how the economy, <b>policy</b>, and markets collide.",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T22:13:04.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Hyper Appoints Vineet Gambhir as Chief <b>Human Resources</b> Officer | The <b>AI</b> Journal",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://aijourn.com/hyper-appoints-vineet-gambhir-as-chief-human-resources-officer/&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw1M2n5Y9Iuq9B2I5wkZp6K4",
+      "excerpt": "... <b>Human Resources</b> Officer. Vineet joins Hyper's executive leadership team to guide the company's people strategy, support talent development&nbsp;...",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-20T22:11:48.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Prepare for stock market pain as China throws a spanner into <b>AI</b> boom - ABC News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.abc.net.au/news/2026-07-21/prepare-for-stock-market-pain-china-ai-boom-tech/106937282&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1bamemUtAhutVrJNxqlwVn",
+      "excerpt": "That it has taken just a month for its shares to descend below its float price doesn't augur well for the company or the future of the <b>AI</b> boom. It is&nbsp;...",
+      "source": "AI News",
+      "category": "Business",
+      "published": "2026-07-20T22:10:28.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "The future of heart disease detection is sound | FIU News - Florida International University",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.fiu.edu/2026/the-future-of-heart-disease-detection-is-sound&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0_uxbBM8kjF4WBoETCbHGf",
+      "excerpt": "... <b>machine learning</b>, artificial intelligence, to find patterns that a human may or may not be able to see just with their eyes or ears. What we do is&nbsp;...",
+      "source": "AI News",
+      "category": "Education",
+      "published": "2026-07-20T22:08:39.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Every <b>AI</b> Answer Needs a Byline - The National Law Review",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://natlawreview.com/article/every-ai-answer-needs-byline&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0llZjWNKizebVVrm4si-GE",
+      "excerpt": "Journalism is becoming critical infrastructure. Every <b>AI</b> response is built on an invisible foundation that relies on reporting and editorial&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T22:06:01.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "China's <b>AI</b> models have Trump's <b>AI</b> world at war with itself | MIT Technology Review",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw0aX0v7asp0x6Ra76UyW6zy",
+      "excerpt": "Over the weekend, several current and former advisors to President Donald Trump on <b>AI</b> publicly lobbed insults at the country's leading <b>AI</b> companies.",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T22:04:19.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "ai #datacentres #<b>artificialintelligence</b> #energy #powergrid #renewableenergy #infrastructure ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.linkedin.com/posts/cnbc-tv18_ai-datacentres-artificialintelligence-activity-7485000576469196800-a4xF&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw316WgRyvaGaLi_IrbhkUtP",
+      "excerpt": "\"I think the water is a little overdone... the actual water requirements are really not that high\" says Kuldeep Jain, MD of CleanMax Enviro Energy&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T22:04:11.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Development and validation of a LightGBM based <b>machine learning</b> model for predicting ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.urotoday.com/recent-abstracts/men-s-health/erectile-dysfunction/170641-development-and-validation-of-a-lightgbm-based-machine-learning-model-for-predicting-postoperative-erectile-dysfunction-after-robot-assisted-radical-prostatectomy-a-multicenter-cohort-study.html&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3a5ODkSU_BdXHtNNIAD-tw",
+      "excerpt": "Postoperative erectile dysfunction remains a highly debilitating complication following robot assisted radical prostatectomy for localized&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T21:59:59.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "If You Think You Can Do Real-World Text-to-SQL - Communications of the ACM",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw39VQrVuqg1TTW0T7xublPY",
+      "excerpt": "Artificial Intelligence and <b>Machine Learning</b>. If You Think You Can Do Real-World Text-to-SQL. Any text-to-SQL benchmark should address the&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T21:59:13.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Alex Cameron jokes about growing anxiety over <b>artificial intelligence</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DDUzNzQ-5X3c&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2bV5rkB5QK_FVDfti6kCn9",
+      "excerpt": "(15 Jul 2026) Clients note: This item contains on-screen graphics, including AP branding. ASSOCIATED PRESS Los Angeles - 26 May 2026 1.",
+      "source": "26 May 2026 1.",
+      "category": "General",
+      "published": "2026-07-20T21:57:20.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Insurer Interest in AI Exclusions Growing as Risk Becomes Omnipresent - Claims Journal",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.claimsjournal.com/news/national/2026/07/20/338950.htm&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1I2LUMVSH1-yWFIY6Q0E1j",
+      "excerpt": "Generative <b>Artificial Intelligence</b> Endorsement CG 40 47: This endorsement excludes coverage for bodily injury, property damage and personal and&nbsp;...",
+      "source": "AI News",
+      "category": "General",
+      "published": "2026-07-20T21:46:49.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "The Weekly Inference: Courts Are Sanctioning Lawyers Who Use <b>AI</b> Carelessly. Not ... - Steptoe",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.steptoe.com/en/news-publications/step-into-ip-blog/the-weekly-inference-courts-are-sanctioning-lawyers-who-use-ai-carelessly-not-using-ai-could-soon-be-malpractice-too.html&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0IRdMBTfplhelpdCU9EKYy",
+      "excerpt": "Days later, a British <b>legal</b> taskforce warned of liability running the other way, against lawyers who decline to use <b>AI</b> at all. And in-house <b>legal</b>&nbsp;...",
+      "source": "AI News",
+      "category": "Legal",
+      "published": "2026-07-20T21:44:39.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "NVIDIA Agent Toolkit Expands With New Omniverse Libraries, Putting <b>AI</b> Agents to Work ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2s9D8aKmsuptlOtZmH8zpu",
+      "excerpt": "NVIDIA today announced that NVIDIA Agent Toolkit now includes NVIDIA Omniverse™ libraries — a collection of software components that give <b>AI</b>&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-20T21:43:50.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Key Takeaways from Loeb's <b>AI</b> Summit in Chicago: <b>AI</b> Governance",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.loeb.com/en/insights/passle/2026/07/key-takeaways-from-loebs-ai-summit-in-chicago-ai-governance&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1i-VoHe80Epfh65SD8sGol",
+      "excerpt": "These responsibilities run the gamut from writing and updating the policy; reviewing AI ... AI and the <b>AI policies</b>; and enforcement of the <b>AI policy</b>.",
+      "source": "AI News",
+      "category": "Policy",
+      "published": "2026-07-20T21:42:23.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Apple's iPad Overhaul and <b>AI</b> Push Into China - YouTube",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DFJXJ5h8q4WY&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2Eiy3KYw0ZrEI2DD_fpcDx",
+      "excerpt": "Apple is preparing its biggest iPad mini update in five years, complete with an OLED display, while also planning refreshes across the rest of its&nbsp;...",
+      "source": "AI News",
+      "category": "General",
+      "published": "2026-07-20T21:40:55.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "AI-Driven Lead Optimization in Medicinal Chemistry | Drug Discovery News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.drugdiscoverynews.com/ai-driven-lead-optimization-how-machine-learning-is-accelerating-medicinal-chemistry-17354&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3CgJrg0f86HntQFWESKypN",
+      "excerpt": "How AI is changing lead optimization in medicinal chemistry: multi-parameter optimization, <b>deep</b>-<b>learning</b> QSAR, AI-assisted retrosynthesis and the&nbsp;...",
+      "source": "AI News",
+      "category": "Education",
+      "published": "2026-07-20T21:40:28.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Meet the Super Semiconductor ETF Obliterating <b>Nvidia</b>, AMD, and Broadcom This Year",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/3364752/meet-the-super-semiconductor-etf-obliterating-nvidia-amd-and-broadcom-this-year/&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw3CfwOARVOFOWdBryzOgJzu",
+      "excerpt": "The best-performing way to play the chip boom in 2026 has not been <b>Nvidia</b>(NASDAQ: NVDA), Advanced Micro Devices(NASDAQ: AMD), or Broadcom(NASDAQ&nbsp;...",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-20T21:39:24.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
       "title": "The 6 kinds of AI agent architectures - CIO",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cio.com/article/4198444/the-6-kinds-of-ai-agent-architectures.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3ld-dc_ZY581g3jY9hAp8T",
       "excerpt": "<b>Artificial Intelligence</b>Network Monitoring. Image &middot; video. Human in the Lead - CEO of Accenture Southeast Asia on Trust, Accountability and Responsible&nbsp;...",
       "source": "CEO of Accenture Southeast Asia on Trust, Accountability and Responsible&amp;nbsp;...",
       "category": "Business",
       "published": "2026-07-20T21:35:13.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Beaver Dam firefighters combat roof fire at <b>Meta</b> data center construction site | News",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.channel3000.com/news/beaver-dam-firefighters-combat-roof-fire-at-meta-data-center-construction-site/article_56926b1b-eaa0-4b59-9202-4d8cb5fd1adf.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw00FDA9ON4XCS9-SwQ5bgCt",
+      "excerpt": "BEAVER DAM, Wis. — Firefighters responded to a roof fire at <b>Meta's AI</b> data center construction site in Beaver Dam Sunday evening, according to the&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T21:35:07.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Five US tech giants' hidden debts soar to $1.65tn on opaque <b>AI</b> funding - Nikkei Asia",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0SOhyQ8500r4Pj5yBMbwV1",
+      "excerpt": "... <b>Meta</b>, Oracle, Nikkei study shows. 20260720N Data center. A <b>Meta</b> data center in the state of Georgia. The company's off-balance-sheet debt is about&nbsp;...",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T21:35:02.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>OpenAI</b>: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://au.pcmag.com/ai/118849/openai-ai-trained-for-long-running-tasks-can-drift-into-rogue-behavior&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1W98F5wdZunl_X8NrDlREj",
+      "excerpt": "In one example, a closed model broke out of an internal network to post on GitHub, demonstrating how models can 'learn the blind spots of an&nbsp;...",
+      "source": "AI News",
+      "category": "OpenAI",
+      "published": "2026-07-20T21:33:58.000Z",
       "dateString": "Jul 20, 2026"
     },
     {
@@ -19,12 +793,66 @@
       "dateString": "Jul 20, 2026"
     },
     {
+      "title": "Zscaler Joins the Hiroshima <b>AI</b> Process Partners Community",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.zscaler.com/blogs/company-news/zscaler-joins-hiroshima-ai-process-partners-community&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1T6tL3KwxdRU_2AXzqVAlp",
+      "excerpt": "Launched under Japan's 2023 G7 Presidency, the HAIP advances international discussion on safe, <b>secure</b>, and trustworthy <b>AI</b>. Its Partners Community&nbsp;...",
+      "source": "AI News",
+      "category": "General",
+      "published": "2026-07-20T21:31:32.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "<b>NVIDIA</b> Graphics Research Accelerates Simulation &amp; Physical AI Through 21 Breakthrough ...",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph/&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw19_ihe6Oc52J-I_qmpmBOp",
+      "excerpt": "Physical AI Sees Life-Like Simulation With <b>NVIDIA's</b> Latest Graphics Breakthroughs While ArtFixer Turns Messy 3D Captures Into A Pristine Virtual Scene.",
+      "source": "AI News",
+      "category": "NVIDIA",
+      "published": "2026-07-20T21:28:30.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
       "title": "New open-weight AI from China is toppling the best of <b>OpenAI</b> and Claude Fable",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ca.news.yahoo.com/open-weight-ai-china-toppling-084700143.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3H02hUKQqzuyuGU5s3_PBP",
       "excerpt": "Moonshot's 2.8-trillion-parameter Kimi K3 comes close to Fable 5 and GPT 5.6 Sol in several benchmarks, while remaining <b>open</b> weight.",
       "source": "AI News",
       "category": "OpenAI",
       "published": "2026-07-20T21:26:59.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "AMD Rallies On Expanded <b>AI</b> Partnership With Microsoft - Investor's Business Daily",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.investors.com/news/technology/amd-stock-ai-microsoft-helios/&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw2CHM8UlUWgOk_55PogMCD8",
+      "excerpt": "AMD <b>stock</b> rallied Monday after the chip giant announced an expanded <b>AI</b> partnership with technology giant Microsoft.",
+      "source": "AI News",
+      "category": "Microsoft",
+      "published": "2026-07-20T21:24:07.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "WSJ Opinion: The <b>A.I.</b> Data Center Backlash",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-the-ai-data-center-backlash/417EB57F-ADF0-4786-B255-8BA91024FF9E&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw1yWpVXaujG4zScU13srFMo",
+      "excerpt": "... <b>Jobs</b> &middot; Trade &middot; Global &middot; Capital Account &middot; Economic Forecasting Survey &middot; Economy Video. Tech. Main &middot; <b>AI</b> &middot; Biotech &middot; Cybersecuri...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T21:23:11.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Commerce seeks new <b>AI</b> safety director after top official departs - POLITICO",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.politico.com/news/2026/07/20/top-trump-ai-safety-official-abruptly-leaves-post-01004847&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw3m04EKzpM7K3EW9RTdIzsw",
+      "excerpt": "Top Trump administration <b>AI</b> safety official Chris Fall has left after just three months on the <b>job</b>, according to a Commerce Department spokesperson.",
+      "source": "AI News",
+      "category": "HR",
+      "published": "2026-07-20T21:23:07.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "The Researchers Making Drug Development Safer - USC Today",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://today.usc.edu/the-researchers-making-drug-development-safer/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3KqWwHbhOhup2u73pQbzoi",
+      "excerpt": "“Given the urgent rise in antimicrobial resistance, we are focused on using <b>machine learning</b> and quantitative modeling to maximize the effectiveness&nbsp;...",
+      "source": "AI News",
+      "category": "ML",
+      "published": "2026-07-20T21:18:15.000Z",
       "dateString": "Jul 20, 2026"
     },
     {
@@ -37,12 +865,30 @@
       "dateString": "Jul 20, 2026"
     },
     {
+      "title": "<b>Meta</b> deepens <b>AI</b> cloud push with $10B Anthropic talks, AWS hire - MSN",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.msn.com/en-us/news/insight/meta-deepens-ai-cloud-push-with-10b-anthropic-talks-aws-hire/gm-GMC964D141%3FgemSnapshotKey%3DGMC964D141-snapshot-0&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw2TVlCY8TOXVt7pjnNuhiQ_",
+      "excerpt": "B lease talks: <b>Meta</b> is in advanced negotiations to provide Anthropic with <b>AI</b> compute capacity worth up to $10 billion over two years.",
+      "source": "AI News",
+      "category": "Meta",
+      "published": "2026-07-20T21:15:14.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
       "title": "Broadcom Stock Has Jumped Just 7% in 2026. This Move by <b>Meta</b> Platforms Could ...",
       "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/stocks/AVGO/pressreleases/3371231/broadcom-stock-has-jumped-just-7-in-2026-this-move-by-meta-platforms-could-supercharge-the-stock-in-the-second-half/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0NfdEbOBPRmpG7bzer07tR",
       "excerpt": "<b>Meta</b> Platforms and Broadcom have a long-term agreement in place to design custom <b>AI</b> data center processors. &middot; This is good news for Broadcom investors,&nbsp;...",
       "source": "AI News",
       "category": "Meta",
       "published": "2026-07-20T21:14:51.000Z",
+      "dateString": "Jul 20, 2026"
+    },
+    {
+      "title": "Canada's 2026 <b>AI</b> Strategy: What Businesses Need To Know - New Technology - Mondaq",
+      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.mondaq.com/canada/new-technology/1819576/canadas-2026-ai-strategy-what-businesses-need-to-know&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw28vWpQVm_XnYMfctJH_qsV",
+      "excerpt": "Aird &amp; Berlis LLP is a leading Canadian <b>law</b> firm, serving clients across Canada and globally. With strong national and international expertise,&nbsp;...",
+      "source": "AI News",
+      "category": "Tech",
+      "published": "2026-07-20T21:13:10.000Z",
       "dateString": "Jul 20, 2026"
     },
     {
@@ -53,855 +899,9 @@
       "category": "HR",
       "published": "2026-07-20T21:12:38.000Z",
       "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Repaying the inheritance: How education and research <b>policy</b> can address <b>AI's</b> borrowed expertise",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.brookings.edu/articles/repaying-the-inheritance-how-education-and-research-policy-can-address-ais-borrowed-expertise/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3EsSPNoHUJTxoGkGjrjnn0",
-      "excerpt": "The productivity boom from generative <b>artificial intelligence</b> (<b>AI</b>) is real, but it is being powered by people whose expertise was built before the&nbsp;...",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2026-07-20T21:08:20.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Design <b>AI</b> Systems That Actually Strengthen Human Reasoning - Harvard <b>Business</b> Review",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://hbr.org/2026/07/design-ai-systems-that-actually-strengthen-human-reasoning&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1dumUkYfY5DoQkbDzpWbrl",
-      "excerpt": "Research from management, cognitive science, and human-computer interaction indicates that users often accept <b>AI</b>-generated outputs uncritically,&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T21:07:41.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Hut 8 fully commercializes Texas campus with $9.8-billion AI data centre lease",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/business/article-hut-8-signs-ai-data-center-lease/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0VFIrmcmkkf7a7cDQTxnnO",
-      "excerpt": "<b>Artificial Intelligence</b>. Follow. You must be logged in to follow.Log InCreate free account &middot; Technology and Innovation. Follow. You must be logged in&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T21:04:49.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Where the real competition is in AI | InfoWorld",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.infoworld.com/article/4198556/where-the-real-competition-is-in-ai.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw2M0UK6CzOBVDqklePMF5RM",
-      "excerpt": "<b>Artificial Intelligence</b>Development ToolsGenerative AI. Image &middot; opinion. Dear Microsoft: Stop sticking your AI in my IDE. By Serdar Yegulalp. Jul 20&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T21:03:50.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Mexican Companies Turn to Microlearning as Work Hours Tighten - Mexico Business News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://mexicobusiness.news/talent/news/mexican-companies-turn-microlearning-work-hours-tighten&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw1ZLMQQBWIW6y20nj76of9D",
-      "excerpt": "This transition matters for Mexico's talent and <b>human resources</b> technology sector because <b>AI</b>-driven education platforms ... <b>Human Resource</b> Management (&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T21:02:26.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Researchers studied <b>AI</b> layoffs. Here's their warning. - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DO3gYyCB2n9o&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw3_t9JrwdbpQHQUVX6p0Si9",
-      "excerpt": "Every few months, it seems that another tech CEO predicts that <b>AI</b> will do many of our jobs in the future. But if companies eventually replace too&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T21:01:36.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The Great Freakout Over <b>Open</b>-Source <b>AI</b> Has Begun - Gizmodo",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://gizmodo.com/the-great-freakout-over-open-source-ai-has-begun-2000787836&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3j0ZfzBgvGGfmNHQhSCfgS",
-      "excerpt": "When Chinese <b>AI</b> lab Moonshot <b>AI</b> dropped its latest model, Kimi K3, last week, it caused quite an uproar—including a long-winded meditation on the <b>open</b>&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T20:56:47.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Former SentinelOne executives raise $100 million for <b>AI security</b> startup Neo - Ynet News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ynetnews.com/business/article/r1vr9nsefe&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2HOn2UPBykA22Zp7xGu89i",
-      "excerpt": "Backed by Andreessen Horowitz and Bessemer Venture Partners, the new company says it will help businesses track, assess and restrict <b>AI</b> agents and&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T20:51:13.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Calls of the Day: <b>Nvidia</b>, Boeing, Lockheed Martin, Uber and Charles Schwab - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DzJgGXnMTXfg&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw1GWGwc53gV-4LTiKgF8Vka",
-      "excerpt": "Calls of the Day: <b>Nvidia</b>, Boeing, Lockheed Martin, Uber and Charles Schwab. @CNBCtelevision12 likes847 views28 minutes ago",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T20:51:02.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Legal AI's</b> Legibility Problem | Stanford HAI",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://hai.stanford.edu/news/legal-ais-legibility-problem&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1F32qjOOUBcooD01-uqd7K",
-      "excerpt": "In a recent annual letter on the judiciary, Chief Justice John Roberts cautioned the <b>legal</b> profession against too great a reliance on <b>AI</b>. “Any use of&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T20:48:47.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI</b> Has a Language Problem - CEPA",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cepa.org/article/ai-has-a-language-problem/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3GTSnh3iibDaUKy-nrAGYY",
-      "excerpt": "... AI revolution. Christian Schlaepfer is a former Swiss diplomat and negotiator of tech and <b>AI policy</b> at the United Nations. He is a guest at the&nbsp;...",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2026-07-20T20:47:29.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Squawk Pod: AMC CEO Adam Aron &amp; <b>OpenAI</b> Chairman Bret Taylor - 07/20/26 | Audio Only",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DJ3HBLeMXNGY&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0C8RKVKe9s23qWM8xj7zYR",
-      "excerpt": "Aron also discusses audience appetite for films using AI tools and AI actors. AI is also on the table for the next interview, with <b>OpenAI</b> chairman&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T20:43:53.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Should an <b>AI</b> chatbot be your therapist? - Montreal Gazette",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://montrealgazette.com/news/should-an-ai-chatbot-be-your-therapist/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1rD8Q_lpkRCk4ddftGB33N",
-      "excerpt": "That's how <b>OpenAI's</b> ChatGPT responded when asked for help with mental health — a use of artificial intelligence that is gaining popularity in Canada.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T20:31:04.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Wall Street drifts as <b>AI stocks</b> hold steadier after last week's losses - The Globe and Mail",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.theglobeandmail.com/investing/markets/indices/DOWT/pressreleases/3357935/wall-street-drifts-as-ai-stocks-hold-steadier-after-last-weeks-losses/&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw185vmmSP4Yq4xlslKSWl0S",
-      "excerpt": "NEW YORK (AP) — Wall Street drifted to a quiet finish Monday after <b>stocks</b> of chipmakers and other winners of the <b>artificial-intelligence</b> boom&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T20:28:40.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Wall Street drifts as <b>AI stocks</b> hold steadier after last week's losses - Lancaster Online",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://lancasteronline.com/business/stock_market/wall-street-drifts-as-ai-stocks-hold-steadier-after-last-week-s-losses/article_5cbbc730-11e7-5c63-86c1-87653fdec4b4.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0xaFsPVyjj5uCQwJ85wWBl",
-      "excerpt": "Wall Street drifted through a quiet day of trading as <b>AI stocks</b> trimmed some of their sharp recent losses. The S&amp;P 500 fell 0.2% Monday,&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T20:28:31.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Workers 'forced' to accept <b>AI</b> systems or leave <b>jobs</b> - Michael West Media",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://michaelwest.com.au/workers-forced-to-accept-ai-systems-or-leave-jobs/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw36s5qIIjxILhHJslxJ_Tr0",
-      "excerpt": "Australians are at risk of losing <b>jobs</b> or being trapped in unethical situations as <b>artificial intelligence</b> use soars, despite the hopes of the&nbsp;...",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2026-07-20T20:20:08.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Head of US <b>AI</b> safety agency resigns - Reuters",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3q2tlMmPkYI3w1kFMCz3o_",
-      "excerpt": "The institute is responsible for working with leading AI labs such as Anthropic, Google's ​DeepMind and <b>OpenAI</b> ​to test their ⁠unreleased models for&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T20:17:29.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "NVIDIA &amp; Micron: 2 Profitable <b>AI Stocks</b> With Strong Growth Potential - Yahoo Finance",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-2-profitable-ai-190000604.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw28pbweSus7OdjXyazzvteF",
-      "excerpt": "On that note, NVIDIA Corporation NVDA and Micron Technology, Inc. MU stand out as leading profitable artificial intelligence (<b>AI</b>) <b>stocks</b>, supported by&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T20:16:15.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Workers 'forced' to accept <b>AI</b> systems or leave <b>jobs</b> | The Canberra Times",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.canberratimes.com.au/story/9314367/workers-forced-to-accept-ai-systems-or-leave-jobs/&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw0zAh6yB-8cQJzT-0Q_-GI_",
-      "excerpt": "Subscribe now for unlimited access. Login or signup to continue reading.",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2026-07-20T20:12:48.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "There is no free benchmark: An institutional view of legal <b>AI</b> benchmarking | PNAS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pnas.org/doi/10.1073/pnas.2509757122&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1lIjce42LELeojZKT89qxf",
-      "excerpt": "Despite substantial excitement around the use of <b>AI</b> in <b>law</b>, little information exists on the performance and associated risks of the domain's&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T20:12:43.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "There is no free benchmark: An institutional view of <b>legal AI</b> benchmarking | PNAS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pnas.org/doi/10.1073/pnas.2509757122&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw1lIjce42LELeojZKT89qxf",
-      "excerpt": "Despite substantial excitement around the use of <b>AI</b> in <b>law</b>, little information exists on the performance and associated risks of the domain's&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T20:12:43.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Legal</b> infrastructure for transformative <b>AI</b> governance - PNAS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pnas.org/doi/10.1073/pnas.2509742123&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2eTt9ciP1ZNC1QwdZgSRcW",
-      "excerpt": "What limits or checks do we want to impose on <b>AI</b> development and deployment? But a key role for <b>law</b> is not only to establish substantive rules but&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T20:12:41.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Legal infrastructure for transformative <b>AI</b> governance - PNAS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pnas.org/doi/10.1073/pnas.2509742123&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2eTt9ciP1ZNC1QwdZgSRcW",
-      "excerpt": "<b>AI regulation</b> during this period followed the model of existing regulatory regimes. Regulation debates focused on specific applications of AI&nbsp;...",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2026-07-20T20:12:41.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The backfiring effect of weak <b>AI</b> safety <b>regulation</b> - PNAS",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.pnas.org/doi/10.1073/pnas.2509768123&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw0aySHjhVK8ttRWQmAxrs6F",
-      "excerpt": "Recent policy proposals aim to improve the safety of general-purpose <b>AI</b>, but there is little understanding of the efficacy of different <b>regulatory</b>&nbsp;...",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2026-07-20T20:12:39.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Calls of the Day: <b>Nvidia</b>, Boeing, Lockheed Martin, Uber and Charles Schwab - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/video/2026/07/20/calls-of-the-day-nvidia-boeing-lockheed-martin-uber-and-charles-schwab.html&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw1zixTZM9KNerDZuQ-d9_JU",
-      "excerpt": "Calls of the Day: <b>Nvidia</b>, Boeing, Lockheed Martin, Uber and Charles Schwab. The Investment Committee debate the latest Calls of the Day. 05:45. 3&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T20:11:31.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Trump administration's head of <b>AI</b> safety agency resigns after 3 months on job - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw39rPIXL1TAfVSOCyPeEUIT",
-      "excerpt": "Fall's departure adds to growing uncertainty surrounding who serves as the Trump administration's point person for <b>AI policy</b> and research. Venture&nbsp;...",
-      "source": "AI News",
-      "category": "Jobs",
-      "published": "2026-07-20T20:07:34.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "AMD sets sights on <b>Nvidia</b> with Helios AI racks - Yahoo Finance UK",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://uk.finance.yahoo.com/video/amd-sets-sights-on-nvidia-with-helios-ai-racks-195850534.html&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw1DSF-X7R3gNmIm3DXDx2ad",
-      "excerpt": "... Helios AI rack server platform and how the chipmaker is ramping up its challenge to AI leader <b>Nvidia</b> (NVDA).",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T20:02:16.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Artificial intelligence</b> in healthcare: how algorithms will support doctors - Il Sole 24 ORE",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://en.ilsole24ore.com/art/artificial-intelligence-in-healthcare-this-is-how-the-algorithm-will-support-doctors-AJcg8lP&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0FHtKVbzHL8BBMh9NcRHkW",
-      "excerpt": "<b>Artificial intelligence</b> is no longer an emerging technology but an integral part of the infrastructure underpinning production and social systems. It&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T20:00:37.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Why <b>Nvidia</b> Stock is Flat Since November Despite Tripling Its Net Income - Yahoo Finance",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-flat-since-194353578.html&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw2fIdTq2s1byX5HEiOMVchw",
-      "excerpt": "In the past few years, <b>NVIDIA</b> Corporation (NASDAQ:NVDA) has been one of the most-covered stocks in the media as analysts and experts give their&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T19:59:44.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Alpaca's $135M Round Leads Busy Week Of Fintech Funding, Acquisitions",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.crowdfundinsider.com/2026/07/292341-alpacas-135m-round-leads-busy-week-of-fintech-funding-acquisitions/&amp;ct=ga&amp;cd=CAIyGTY4M2ZjNGE2MTZkZjYyNTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3O_Ttq1vPkyVVukcQxwiM6",
-      "excerpt": "It was led by CRV, with participation from <b>Y Combinator</b>, Pathlight Ventures, and the founders of Altruist, Jump <b>AI</b>, and FINNY. By the end of 2026&nbsp;...",
-      "source": "AI News",
-      "category": "YCombinator",
-      "published": "2026-07-20T19:58:55.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Human-<b>AI</b> Integration Is Redefining Digital Water Management Operations",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wateronline.com/doc/human-ai-integration-is-redefining-digital-water-management-operations-0001&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw3L112TjBQEJbkTcECcjeBr",
-      "excerpt": "<b>Regulatory</b> constraints are translated into security controls within servers and MCP tools. LLMs provide some of the intelligence, but execution&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:56:24.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Why AMD Just Teamed Up With <b>Microsoft</b> for a Massive <b>AI</b> Bet… - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/shorts/CSCzhjOO6DA&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw00r65KumRCvXKefWSAxNmp",
-      "excerpt": "Advanced Micro Devices shares jumped higher following the announcement of an expanded partnership with <b>Microsoft</b> to directly power Azure's&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T19:55:43.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "GNOME Changes Security Disclosure <b>Policies</b> Due To <b>AI</b>-Generated Reports - Phoronix",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.phoronix.com/news/GNOME-Security-Changes-2026&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3edoohsZfaEQSb7EEGboUz",
-      "excerpt": "Due to many security reports these days containing <b>AI</b>/LLM-generated findings and in turn violate individual project <b>policies</b> around no <b>AI</b>&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:53:44.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Wall Street holds steadier as <b>AI stocks</b> recover some of last week's sharp losses - Toronto Star",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.thestar.com/news/world/south-koreas-kospi-drops-nearly-5-as-some-ai-stocks-swoon-while-oil-keeps-climbing/article_2dde892e-93f1-512f-aecb-936e565923d1.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw0M7oWVbmcrufWFdVOQGORl",
-      "excerpt": "NEW YORK (AP) — Wall Street is holding steadier on Monday, as <b>stocks</b> of chipmakers and other winners of the <b>artificial-intelligence</b> boom trim some&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T19:50:32.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>OpenAI's</b> Codex context reduction for GPT 5.6 sparks dissatisfaction among developers",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.infoworld.com/article/4198811/openais-codex-context-reduction-for-gpt-5-6-sparks-dissatisfaction-among-developers.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3cgvxNT_FSgejPJBAsI0hC",
-      "excerpt": "<b>OpenAI's</b> recent update to its Codex coding agent has developers worrying over the impact of the change on large code repositories and long-running AI-&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T19:49:44.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Meta</b> Platforms expected to top earnings estimates as ad growth remains healthy, says BofA",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://ca.finance.yahoo.com/news/meta-platforms-expected-top-earnings-192700479.html&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0p-tnJyadDWlfsvAA5irB6",
-      "excerpt": "They also estimate that investors will focus on <b>AI</b>-related initiatives during the earnings call, including content retrieval and advertising&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2026-07-20T19:42:03.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Amazon's 'Bee' <b>AI</b> Wearable: Security and <b>Privacy</b> Fo… | StartupHub.<b>ai</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.startuphub.ai/ai-news/artificial-intelligence/2026/amazon-s-bee-ai-wearable-security-and-privacy-focus&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw3gofV022EaeQBlnb0HpllP",
-      "excerpt": "Steve Korshakov of Amazon's 'Bee' <b>AI</b> wearable discusses the device's audio recording capabilities, stringent <b>privacy</b> measures, and stateful <b>AI</b>&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T19:41:42.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Weak <b>AI Rules</b> Worse Than No Rules, Say Researchers - Mirage News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.miragenews.com/weak-ai-rules-worse-than-no-rules-say-1713061/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2rjN78p8McFm7m5WDX_fD8",
-      "excerpt": "ITHACA, N.Y. – A new modeling study finds that weak <b>AI regulation</b> may be worse than no regulation at all when it comes to the safety of AI&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:40:00.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Trump administration's head of <b>AI</b> safety agency resigns after 3 months on <b>job</b> - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html&amp;ct=ga&amp;cd=CAIyGTRlZjMyZDg1MTNkYmIzY2U6Y2E6ZW46Q0E&amp;usg=AOvVaw39rPIXL1TAfVSOCyPeEUIT",
-      "excerpt": "Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI, according to a spokesperson.",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:39:04.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The <b>Business</b> Students Who Want to Use <b>AI</b> for Good - USC Today",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://today.usc.edu/the-business-students-who-want-to-use-ai-for-good/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw1_8BU7cs2QHd-ChE78faMf",
-      "excerpt": "USC Marshall professors are bridging the worlds of <b>business</b> and computing by teaching students to become translators between <b>AI</b> technology and&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:37:55.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The Business Students Who Want to Use AI for Good - USC Today",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://today.usc.edu/the-business-students-who-want-to-use-ai-for-good/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1_8BU7cs2QHd-ChE78faMf",
-      "excerpt": "So, the pair created <b>Artificial Intelligence</b> for Business (BUAI), a joint Bachelor of Science degree in partnership with the USC Viterbi School of&nbsp;...",
-      "source": "AI News",
-      "category": "Education",
-      "published": "2026-07-20T19:37:55.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Proposed Wheatland County AI data centre hits close to home for concerned residents",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cbc.ca/news/canada/calgary/wheatland-county-data-centre-9.7274384&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0pGpZPCmzjNOvAkbVe6XYg",
-      "excerpt": "“It's a place that we can relax.” But a 3.5-million-square-foot <b>artificial intelligence</b> (AI) data centre may be moving in next&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2026-07-20T19:37:08.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Startup Launches Foundry to Develop Materials for Chips - <b>AI Business</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw0Lp268ApRTUhyeEI1BaybU",
-      "excerpt": "A U.K. startup looking to become a “search engine” for rare materials used in <b>AI</b> chips has completed a $450 million Series B funding round.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T19:36:04.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "China's <b>AI</b> Challenge, SpaceX's Next Launch &amp; Andreessen's Defense Bet - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DpJRn5HTBuS4&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3MkVyC-0N9cZo-Qe-gERHG",
-      "excerpt": "Bloomberg's Ed Ludlow breaks down what Moonshot's Kimi K3 means for the race with <b>OpenAI</b>, Anthropic and the chipmakers powering it.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T19:35:42.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>OpenAI</b> is scared of open-weight models. Should the US Be? | TechCrunch",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw3SRgfc7HKSUqAnInN4YBPb",
-      "excerpt": "Talk of banning Chinese-made <b>open</b>-weight LLMs reveals the challenge of turning <b>AI</b> into a business.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T19:35:33.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>OpenAI</b> Chair Downplays Lower Token Costs Of Open-Weight Models After Kimi K3 Buzz",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://stocktwits.com/news-articles/markets/equity/openai-chair-bret-taylor-downplays-token-costs-open-models-kimi-k3-launch/cZZiPFWR7ul&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1f13PHkgrR4dv2_-OZ3LT8",
-      "excerpt": "<b>OpenAI</b> Chairman Bret Taylor on Monday downplayed the cost advantage that open-weight models offer users, saying that token efficiency matters&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T19:33:01.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Jim Cramer's advice for investors looking to buy <b>AI stocks</b> - CNBC",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw3pnsHS8IGN5AJ7aamj4Hic",
-      "excerpt": "When trading in a sector, industry, or stock changes dramatically, as it has with the hyperscalers and <b>AI stocks</b> in recent days, you must change&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T19:31:35.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "OpenAI chairman Bret Taylor on <b>AI</b> tokenomics, token efficiency - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D4DUXr4zM9tg&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw1G5TwtuJBnFRBdJAAlQ_Gd",
-      "excerpt": "... <b>AI</b> spending, state of <b>AI</b> competition, Apple lawsuit, and more ... <b>Meta's</b> biggest problem is its CEO | Eli the Computer Guy. The Tech&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2026-07-20T19:28:13.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Heartflow launches new <b>AI</b>-powered staging tool for coronary plaque assessments",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://cardiovascularbusiness.com/topics/cardiac-imaging/heartflow-launches-new-ai-powered-staging-tool-coronary-plaque-assessments&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3y3cYlbusLBRvMVgb-eqhD",
-      "excerpt": "Michael Walter | July 20, 2026 | Cardiovascular <b>Business</b> | Cardiac Imaging &middot; Heartflow's Plaque Analysis <b>AI</b>-driven software that automtically assesses&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T19:25:15.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Why millions of small <b>businesses</b> are finally turning to <b>AI</b>, and where they're starting",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.boston25news.com/news/why-millions-small/N2HLHWJKCIYCFCB7OWSL5IW53A/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw3EHo2LFS62MZDKhQQUYqwL",
-      "excerpt": "Quo reports that millions of small <b>businesses</b> in the U.S. are adopting <b>AI</b> to enhance efficiency, combat burnout, and reclaim time for growth.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T19:23:41.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Wall Street holds steadier as <b>AI stocks</b> recover some of last week's sharp losses",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nvdaily.com/associated_press_national/wall-street-holds-steadier-as-ai-stocks-recover-some-of-last-weeks-sharp-losses/article_1b9683de-d4ae-5af1-98db-45a7b9e19269.html&amp;ct=ga&amp;cd=CAIyGThkN2Y5Y2U1ZTRkMDRkY2M6Y2E6ZW46Q0E&amp;usg=AOvVaw2UlBaddndou102mMvkzcYi",
-      "excerpt": "Wall Street is holding steadier, as <b>AI stocks</b> trim some of their sharp recent losses. The S&amp;P 500 was flat on Monday, coming off its first losing&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T19:22:38.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI</b> enablement officer: the new sheriff in transformation town | <b>Human Resources</b> Director",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.hcamag.com/ca/specialization/transformation/ai-enablement-officer-the-new-sheriff-in-transformation-town/582986&amp;ct=ga&amp;cd=CAIyGTRhYjczMTlmNGJjNjBmNTU6Y2E6ZW46Q0E&amp;usg=AOvVaw0LtwftFQ8jegsIoyoMFnrg",
-      "excerpt": "As <b>AI</b> spending climbs, organizations are creating dedicated <b>AI</b> enablement roles to bridge technology and business outcomes.",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T19:18:51.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Nvidia</b> CEO Jensen Huang's signature leather jacket sold for nearly $1 million at Sotheby's",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qz.com/jensen-huang-nvidia-leather-jacket-sothebys-auction-072026&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw38TvKFIHfbBeGinkxb81I8",
-      "excerpt": "The final price was 16 times the pre-sale estimate of $40000 to $60000, with 45 collectors placing 65 bids.",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T19:18:13.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI</b> &amp; Tech Brief: The open-source debate - The Washington Post",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/20/ai-tech-brief-open-source-debate/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw1dhiUqP9ky3M1s9HRZE2bp",
-      "excerpt": "Ball and Samuel Hammond, the director of <b>artificial intelligence policy</b> at the Foundation for American Innovation, also make the point that open&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:17:24.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The <b>AI Security</b> Decisions No One Has Benchmarked Yet. A New Survey Fixes That.",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://finance.yahoo.com/technology/ai/articles/ai-security-decisions-no-one-190100513.html&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw36RhuMrKttpNRDzIQNDgw2",
-      "excerpt": "<b>Security</b> leaders decide how to defend <b>AI</b> with almost no view of how their peers handle the same choices. A five-minute survey from SANS Faculty&nbsp;...",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2026-07-20T19:17:21.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Multimodal Biometric Authentication: Future Trends, Risks, And Security Applications",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.resemble.ai/resources/multimodal-biometric-authentication-future-trends-risks-and-security-applications&amp;ct=ga&amp;cd=CAIyGTA4YjRmN2ExOTdhMzhjZDc6Y2E6ZW46Q0E&amp;usg=AOvVaw3HYjDaVXCQgKaauHTmoxVh",
-      "excerpt": "Key trends such as continuous authentication, zero-trust security, passive biometrics, <b>privacy</b>-focused <b>AI</b>, and edge processing are shaping the&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:17:01.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Survey shows bipartisan support for federal <b>AI</b> safety <b>regulations</b> - Washington Examiner",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.washingtonexaminer.com/news/4655522/center-ai-standards-innovation-agency-safety-rules-overwhelming-support-poll/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw0FHwjJt3MoFf-mmiYPmBTT",
-      "excerpt": "The <b>AI regulatory</b> proposals had at least two-thirds support among both Democrats and Republicans in nearly all the competitive states and districts&nbsp;...",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2026-07-20T19:16:51.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Astera Labs vs. Intel: What Do Revenue Trends for These <b>Artificial Intelligence</b> Companies ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fool.com/coverage/charts/2026/07/20/astera-labs-vs-intel-what-do-revenue-trends-for-these-artificial-intelligence-companies-tell-investors/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw1jCj1VIx4tUuIjvkB2cAby",
-      "excerpt": "Astera Labs vs. Intel: What Do Revenue Trends for These <b>Artificial Intelligence</b> Companies Tell Investors? &middot; Astera Labs: Steady Upward Revenue Trend.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T19:16:42.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "25 computer science concepts explained for non-engineers - Quartz",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://qz.com/computer-science-concepts-explained-non-engineers&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw1qWwxM8C4HkhsizAXmivPx",
-      "excerpt": "A final group covers the ideas behind modern artificial intelligence, including <b>machine learning</b> and neural networks. Each entry stands alone. You&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:15:46.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "F1 in Belgium: <b>Machine learning</b> algorithms are ruining the sport - Ars Technica",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0VaeB12MKtlUXG_pqVZFDq",
-      "excerpt": "F1 in Belgium: <b>Machine learning</b> algorithms are ruining the sport. Many will say Spa is the best racetrack on earth, but not for these F1 cars&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:15:06.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Adobe camera app's new feature will critique your photos using <b>AI</b> - TechCrunch",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2u2d9B_V3plvsQWczdcEsZ",
-      "excerpt": "It's also adding other <b>AI</b> features, like advanced object removal, depth of field generation, and the ability to add different styles to photos. Marc&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:14:21.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "'<b>Microsoft</b>, you can't hide': Protesters derail climate event - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.linkedin.com/pulse/microsoft-you-cant-hide-protesters-derail-climate-event-geekwire-chjrf&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw3mwNOIpusi26aHLmf0Pv31",
-      "excerpt": "... <b>AI</b> infrastructure talent and proximity to major customers. It recently tapped former <b>Microsoft</b> Azure <b>AI</b> leader Nidhi Chappell as president of <b>AI</b>&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T19:10:35.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Turning Compute Into Data for Physical AI With <b>NVIDIA</b> Cosmos | Rob Kemp - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.linkedin.com/posts/talentsourcerrobkemp_turning-compute-into-data-for-physical-ai-activity-7485031737039835136-C-RF&amp;ct=ga&amp;cd=CAIyGTA4MGQ1YzY1MzdiMmY2ZjU6Y2E6ZW46Q0E&amp;usg=AOvVaw2TUh8Ffoa4vjJw5Qv3d4wN",
-      "excerpt": "Meet <b>NVIDIA</b> Cosmos—the frontier of physical AI. Built on a new MoT architecture, this open omni-model brings together pixels, actions, sound,&nbsp;...",
-      "source": "AI News",
-      "category": "NVIDIA",
-      "published": "2026-07-20T19:09:46.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "AI company hit by hack entirely carried out by <b>artificial intelligence</b> | The Independent",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.independent.co.uk/tech/security/ai-hugging-face-hack-cyber-attack-artificial-intelligence-b3018365.html&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw240o8fJ6zo6osBzhW1upc6",
-      "excerpt": "<b>Artificial intelligence</b> is increasingly used by hackers to automate the work of finding security failings or exploiting them. But the company said&nbsp;...",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2026-07-20T19:09:00.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "94% of Developers Report <b>AI</b> Productivity Gains, but Governance Maturity Lags Behind ...",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.newswire.ca/news-releases/94-of-developers-report-ai-productivity-gains-but-governance-maturity-lags-behind-adoption-finds-new-study-from-info-tech-research-group-872619996.html&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0rJFi0UiXUxDE9H6aC45pV",
-      "excerpt": "However, the firm's study also shows that <b>AI</b>-generated code requires more testing, that <b>security</b> concerns remain a leading barrier to adoption, and&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T19:08:37.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Weak <b>AI regulation</b> may backfire, making products less safe | Cornell Chronicle",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://news.cornell.edu/stories/2026/07/weak-ai-regulation-may-backfire-making-products-less-safe&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2Xur-fqSuhTHiJZsemm6ko",
-      "excerpt": "A new modeling study finds no <b>regulation</b> of <b>AI</b> products and services may be safer than weak <b>regulation</b>.",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2026-07-20T19:06:34.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Most Mass. voters support proposed <b>AI regulations</b> now up for debate on Beacon Hill | GBH",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.wgbh.org/news/local/2026-07-20/most-mass-voters-support-proposed-ai-regulations-now-up-for-debate-on-beacon-hill&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw2s0tRGDI039f6taohVpZvt",
-      "excerpt": "In a poll by MassInc, sponsored by Anthropic, the maker of <b>AI</b> platform Claude, three-quarters of Massachusetts voters say they'd like the state to&nbsp;...",
-      "source": "AI News",
-      "category": "HR",
-      "published": "2026-07-20T19:04:29.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Microsoft</b> earnings to spotlight Azure growth, <b>AI</b> spending - Proactive Investors",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.proactiveinvestors.com/companies/news/1095725/microsoft-earnings-to-spotlight-azure-growth-ai-spending-1095725.html&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw1JfHQr8seuvLjp7PF1I6s5",
-      "excerpt": "<b>Microsoft</b> Corp (NASDAQ:MSFT)'s fiscal fourth quarter results will be a key test of the company's <b>AI</b> execution, with Azure growth,&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T19:04:10.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "China's <b>AI</b> models have Trump's <b>AI</b> world at war with itself | MIT Technology Review",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0aX0v7asp0x6Ra76UyW6zy",
-      "excerpt": "It appears to rival the intelligence of models from <b>OpenAI</b> and Anthropic, which are very much not free. Kimi and other Chinese models like it pose a&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T19:02:31.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Time to open our eyes about AI - Winnipeg Free Press",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.winnipegfreepress.com/opinion/analysis/2026/07/20/time-to-open-our-eyes-about-ai&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw3h5w_b7TnkV70rQIXOD2og",
-      "excerpt": "There are also new <b>machine</b>-<b>learning</b> programs which may have revolutionized our ability to develop new pharmaceuticals. But the way we talk about&nbsp;...",
-      "source": "AI News",
-      "category": "Education",
-      "published": "2026-07-20T19:02:21.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Congressional Wargame on <b>AI</b>-Enabled Cyber Threats to U.S. Critical Infrastructure | CSIS Events",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.csis.org/events/opening-remarks-congressional-wargame-ai-enabled-cyber-threats-us-critical-infrastructure&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw0NNjoiXq1wrDpbC4VZe-5r",
-      "excerpt": "CSIS will webcast opening remarks ahead of a Member-level wargame for Members of the House Committee on Homeland <b>Security</b> and the House Select&nbsp;...",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2026-07-20T19:01:54.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "American <b>A.I.</b> Giants Like Alphabet Face Fresh Tests - The New York Times",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0JHjuBp5JaKOSWK69DXabX",
-      "excerpt": "Today, we're delving into the debate surrounding <b>A.I.</b> models, as Silicon Valley grapples with Chinese <b>open</b>-weight offerings and whether they could&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T19:00:56.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Wall Street steadies as <b>AI</b> stocks recover some of last week's sharp losses | AP News",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://apnews.com/article/stocks-market-ai-oil-iran-war-15939a01f378bcec5eec2868e8100ca9&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw19zdy9nM7qO9TNQDrHX0ZD",
-      "excerpt": "Wall Street is holding steadier, as <b>AI</b> stocks trim some of their sharp recent losses. The S&amp;P 500 rose 0.2% Monday, coming off its first losing&nbsp;...",
-      "source": "AI News",
-      "category": "Stocks",
-      "published": "2026-07-20T19:00:42.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Why China's open-weight AI model Kimi K3 is sparking anxiety in Silicon Valley",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.scmp.com/tech/tech-war/article/3361142/why-chinas-open-weight-ai-model-kimi-k3-sparking-anxiety-silicon-valley&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw0obXd8iAFRs4nQL3oJXRkr",
-      "excerpt": "Chinese start-up Moonshot AI's Kimi K3 has narrowed the country's <b>artificial intelligence</b> gap with the US to “a matter of weeks”, fuelling jitters&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T18:59:11.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Agents at the Gate: <b>AI</b>, Agentic Trading, and the <b>Regulatory</b> Frontier | Husch Blackwell LLP",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.jdsupra.com/legalnews/agents-at-the-gate-ai-agentic-trading-5800630/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw0XDgqauE9ZBB2qXK6cPzsB",
-      "excerpt": "An <b>AI</b> agent scans a news alert, identifies a market opportunity, and places a trade in your brokerage account—all before you finish your morning.",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T18:58:53.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Hugging Face turned to Chinese open source <b>AI</b> model after experiencing autonomous cyber attack",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw0AKlDPkH8FqxbR9c3qR-Tq",
-      "excerpt": "... AI model from Chinese AI startup Moonshot. Some venture capitalists and <b>AI policy</b> analysts who want to see the U.S. do everything possible to&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T18:58:30.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Liability for <b>AI</b> Harms: UKJT publishes <b>Legal</b> Statement - Lexology",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lexology.com/library/detail.aspx%3Fg%3D49e504a5-d129-44d6-8260-2ffcdcc4831d&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw3SYOWdvAWc53wh9o6EbAwO",
-      "excerpt": "The UK Jurisdiction Taskforce (UKJT) has published its <b>Legal</b> Statement on Liability for <b>AI</b> Harms, setting out its views on when,&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T18:57:04.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>OpenAI</b> pushes new yardstick for measuring AI investments - CIO Dive",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.ciodive.com/news/openai-outcome-based-pricing-AI/825686/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw0ju66f1byIY4C59pDnABLO",
-      "excerpt": "The company's CFO floated a “useful-intelligence-per-dollar” approach as organizations face growing pressure to show returns on their <b>AI</b> spending.",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T18:56:27.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models - <b>OpenAI</b>",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://openai.com/index/safety-alignment-long-horizon-models/&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw1m14fVeRbkHSM4Rqd-jzPu",
-      "excerpt": "<b>OpenAI</b> shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T18:50:20.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI's</b> solution to 87-year-old riddle takes mathematicians by surprise | New Scientist",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw1e2PtmlvBcqRiNoyT7OFgx",
-      "excerpt": "Mathematicians have been trying to prove the Jacobian conjecture for nearly a century, but now the Claude Fable 5 <b>AI</b> has apparently found a&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2026-07-20T18:50:02.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Head of US AI safety agency resigns - Reuters",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.reuters.com/world/us/head-us-ai-safety-agency-resigns-2026-07-20/&amp;ct=ga&amp;cd=CAIyGTkwZGM2ODY2NjBkYzM4NTE6Y2E6ZW46Q0E&amp;usg=AOvVaw3q2tlMmPkYI3w1kFMCz3o_",
-      "excerpt": "Illustration shows AI (<b>Artificial Intelligence</b>) letters and robot hand miniature. AI (<b>Artificial Intelligence</b>) letters and robot hand miniature in&nbsp;...",
-      "source": "AI News",
-      "category": "General",
-      "published": "2026-07-20T18:47:29.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI</b> cost race between China and U.S. heats up with latest models - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3DICWvSoN4WbM&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw0Bx-rAE2tCttkj76ynfsTF",
-      "excerpt": "CNBC's Kate Rooney reports on news regarding the <b>AI</b> race between the U.S. and China ... Fox <b>Business</b>. New. 37K views &middot; 25:10. Go to channel Andrei Jikh&nbsp;...",
-      "source": "AI News",
-      "category": "Business",
-      "published": "2026-07-20T18:47:26.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Fire damages part of the roof at the <b>Meta AI</b> data center under construction in Beaver Dam",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://wtmj.com/news/2026/07/20/fire-damages-part-of-the-roof-at-the-meta-ai-data-center-under-construction-in-beaver-dam/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0nryuVR4Qmn53G7qdD8Wex",
-      "excerpt": "A fire damages portions of the roof at the <b>Meta AI</b> data center under construction in Beaver Dam in Dodge County.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2026-07-20T18:45:11.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "TikTok's <b>AI</b> message blurs the line between creativity and <b>security</b> | Biometric Update",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.biometricupdate.com/202607/tiktoks-ai-message-blurs-the-line-between-creativity-and-security&amp;ct=ga&amp;cd=CAIyGTkyNjYxNzI0MzJiODMxMGQ6Y2E6ZW46Q0E&amp;usg=AOvVaw2_7fbwHQ9X2BQL-sNHtvh6",
-      "excerpt": "Platform promotes <b>AI</b> transparency and likeness detection while regulators scrutinize its machine learning-based age estimation.",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T18:43:48.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Deep learning</b> model for predicting fracture redisplacement in conservatively treated distal ... - Nature",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nature.com/articles/s41598-026-63335-z&amp;ct=ga&amp;cd=CAIyGWMyMzg4ODE5NTA3NGRjNDg6Y2E6ZW46Q0E&amp;usg=AOvVaw0rwcnDympqHGJfiAYAemvl",
-      "excerpt": "<b>Deep learning</b> has potential for prognostic prediction of fracture redisplacement of distal radius fractures using routine wrist radiographs. Although&nbsp;...",
-      "source": "AI News",
-      "category": "ML",
-      "published": "2026-07-20T18:42:54.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Head of Commerce Department's <b>AI</b> safety arm resigns - The Hill",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://thehill.com/policy/technology/5978770-chris-fall-caisi-resigns/&amp;ct=ga&amp;cd=CAIyGTNkZTRkYmI3YmUxOWQ3MjY6Y2E6ZW46Q0E&amp;usg=AOvVaw3s-ECPmIJHBirkDYlwfTYb",
-      "excerpt": "... <b>AI policy</b>. Staff at CAISI are directly involved with testing AI models as the White House expresses heightened concerns over the cybersecurity&nbsp;...",
-      "source": "AI News",
-      "category": "Security",
-      "published": "2026-07-20T18:40:53.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>Microsoft</b> Puts 3M EBO Technology to Work. Can 3M Scale It? - The Futurum Group",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://futurumgroup.com/insights/microsoft-puts-3m-ebo-technology-to-work-can-3m-scale-it/&amp;ct=ga&amp;cd=CAIyGTUxN2Q3NjBjOTA0ODFiOTA6Y2E6ZW46Q0E&amp;usg=AOvVaw0B4zsfzXiW0YC7INIJhyVu",
-      "excerpt": "<b>Microsoft</b> Frontier Company engineers will help 3M automate customer-order processes using <b>AI</b> agents, monitoring dashboards, and human approvals. The&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T18:40:02.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Sault lawyer stripped of licence after alleged <b>AI</b> misuse - SooToday.com",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.sootoday.com/court/sault-lawyer-stripped-of-licence-after-alleged-ai-misuse-12557459&amp;ct=ga&amp;cd=CAIyGTUzZWEwZTYzYjQ5ZjM5YTQ6Y2E6ZW46Q0E&amp;usg=AOvVaw289nZXzWRMIlq46_ufEn8Q",
-      "excerpt": "Timothy Harmar has been immediately stripped of his licence after a tribunal found he did not cooperate with three <b>Law</b> Society investigations and&nbsp;...",
-      "source": "AI News",
-      "category": "Legal",
-      "published": "2026-07-20T18:39:08.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Byron Donalds files <b>legislation</b> to block <b>AI</b> data centers from using public power, water",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://floridapolitics.com/archives/808578-donalds-protecting-ratepayers-act/&amp;ct=ga&amp;cd=CAIyGTljNzM2YzM4MzY4ODNiZDM6Y2E6ZW46Q0E&amp;usg=AOvVaw1VAEmCIcqG-o1K2rGF-NcH",
-      "excerpt": "'This common-sense approach will ease the burden on individuals and households everywhere without stifling our economic growth.'",
-      "source": "AI News",
-      "category": "Policy",
-      "published": "2026-07-20T18:37:27.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Judge Refuses to Block <b>Meta</b> Layoffs in <b>AI</b> Discrimination Lawsuit | Law Commentary",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lawcommentary.com/articles/judge-refuses-to-block-meta-layoffs-in-ai-discrimination-lawsuit&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw0UGLmlp94KBsUC5Ti0g3Rm",
-      "excerpt": "A federal judge has refused to stop <b>Meta</b> Platforms from laying off 26 workers who claim the company used <b>AI</b>-assisted systems that unfairly&nbsp;...",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2026-07-20T18:36:49.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "Is Nebius Group Stock Still a Buy After <b>Meta's AI</b> Cloud Move? | The Motley Fool",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.fool.com/investing/2026/07/20/is-nebius-group-stock-still-a-buy-after-metas-ai-c/&amp;ct=ga&amp;cd=CAIyGTNkZjE5ZjhjMTZhMjFhMTk6Y2E6ZW46Q0E&amp;usg=AOvVaw3VBQ164Zpl_U4uzD35Sh0s",
-      "excerpt": "<b>Meta's AI</b> cloud move rattled investors, but the bigger question is whether surging AI compute demand still leaves room for Nebius to grow.",
-      "source": "AI News",
-      "category": "Meta",
-      "published": "2026-07-20T18:36:21.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>AI</b> credit pools for cost centers in the billing UI - GitHub Changelog",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/&amp;ct=ga&amp;cd=CAIyGTdkM2Q5ZGMwMDYxMDE2NWU6Y2E6ZW46Q0E&amp;usg=AOvVaw2qdDyV8C-6GE1XE4BiFobZ",
-      "excerpt": "This feature is available for Copilot <b>Business</b> and Copilot Enterprise on GitHub Enterprise Cloud. Toggle the <b>AI</b> credit pool on when you create or&nbsp;...",
-      "source": "AI News",
-      "category": "Microsoft",
-      "published": "2026-07-20T18:36:20.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "<b>OpenAI</b> Appears to Be Missing Its Sales Goals by a Vast Margin - Futurism",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://futurism.com/artificial-intelligence/openai-ad-revenue-ai-advertising-financial-projection&amp;ct=ga&amp;cd=CAIyGTcxMTNhZGYxYjk2YzUyYzc6Y2E6ZW46Q0E&amp;usg=AOvVaw2B2mNBiuKki-NF78EUrP4q",
-      "excerpt": "For context, <b>OpenAI</b> had projected that its AI ad revenue alone would hit $2.5 billion by the end of this year. It all adds up to a difficult question&nbsp;...",
-      "source": "AI News",
-      "category": "OpenAI",
-      "published": "2026-07-20T18:36:10.000Z",
-      "dateString": "Jul 20, 2026"
-    },
-    {
-      "title": "The Kind of <b>AI</b> We Actually Need | Van Jones | TED - YouTube",
-      "link": "https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.youtube.com/watch%3Fv%3D_JlQOnnEwxc&amp;ct=ga&amp;cd=CAIyGWFlMGQ0MjQyNmJkYzAyNmI6Y2E6ZW46Q0E&amp;usg=AOvVaw2cvuA4U5KiLrjZ6WtqKq3j",
-      "excerpt": "Social entrepreneur Van Jones believes a new human civilization is being born in real time — and that our technology is racing ahead of our wisdom&nbsp;...",
-      "source": "AI News",
-      "category": "Tech",
-      "published": "2026-07-20T18:35:34.000Z",
-      "dateString": "Jul 20, 2026"
     }
   ],
-  "lastUpdated": "2026-07-20T22:03:14.191Z",
+  "lastUpdated": "2026-07-21T03:14:30.285Z",
   "totalFeeds": 17,
   "success": true
 }
